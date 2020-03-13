@@ -1,70 +1,70 @@
-## Level 4 -- Professionals Take Over
+## Ebene 4 -- Fachleute übernehmen
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+Mit der Verschlimmerung der Symptome und der Verschlechterung des Patienten sollte die Häufigkeit, mit der Messungen vorgenommen werden, steigen. Zu diesem Zeitpunkt sollte Ihr Protokoll alle paar Stunden Temperatur, Atmung und Herzfrequenz enthalten.
 
-You should interpret any of the following as a medical emergency:
+Die folgenden Punkte sollten Sie als medizinischen Notfall interpretieren:
 
-### Loss of consciousness
+### Bewusstlosigkeit
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Es gibt verschiedene Ebenen. Wenn der Patient das Bewusstsein verliert, notieren Sie sich, ob der Patient reagiert, wenn Sie seinen Namen rufen (Stimme), wenn Sie die Schulter gewaltsam einklemmen (Schmerz) oder ob er überhaupt nicht reagiert (Unreagiert).
 
-If loss of consciousness is brief, home care may include encouraging the patient to eat and drink, and freshly ventilating the room. But if this persists, get help.
+Bei einem kurzen Bewusstseinsverlust kann die häusliche Pflege die Ermutigung des Patienten zum Essen und Trinken sowie die frische Belüftung des Raums umfassen. Aber wenn das so weitergeht, holen Sie sich Hilfe.
 
-### Cognitive problems / confusion
+### Kognitive Probleme / Verwirrung
 
-You probably know the patient, so you should be able to tell without any fancy tests if / when they are not with it anymore. But here's the Abbreviated Mental Test Score (the AMTS) sometimes used to assess for cognitive problems. Compile the score by asking the following questions, giving one point for each correct answer. A score of less than or equal to 8 suggests cognitive problems may be present. 
+Wahrscheinlich kennen Sie den Patienten, deshalb sollten Sie ohne ausgefallene Tests feststellen können, ob / wann er nicht mehr dabei ist. Aber hier ist die abgekürzte mentale Testpunktzahl (AMTS), die manchmal zur Beurteilung von kognitiven Problemen verwendet wird. Stellen Sie die Partitur zusammen, indem Sie die folgenden Fragen stellen und für jede richtige Antwort einen Punkt vergeben. Ein Wert von weniger als oder gleich 8 deutet auf kognitive Probleme hin. 
 
-- What is your age? 
-- What is the time to the nearest hour? 
-- (Give the patient an address, and ask him or her to repeat it at the end of the test. For example, 42 Hacker Way.) 
-- What year is it? 
-- What is the name of the person you are seeing today?
-- (Can the patient recognize two persons (e.g., friends or medical practitioners)?) 
-- What is your date of birth? 
-- In what year did World War II end? 
-- Name the current President / Prime Minister. 
-- Count backwards from 10 down to 1.
+- Wie alt sind Sie? 
+- Wie viel Uhr ist es bis zur nächsten Stunde? 
+- (Geben Sie dem Patienten eine Adresse und bitten Sie ihn, diese am Ende des Tests zu wiederholen. Zum Beispiel, 42 Hacker Way). 
+- Welches Jahr haben wir? 
+- Wie heißt die Person, mit der Sie sich heute treffen?
+- (Kann der Patient zwei Personen (z.B. Freunde oder Ärzte) erkennen?) 
+- Wie lautet Ihr Geburtsdatum? 
+- In welchem Jahr endete der Zweite Weltkrieg? 
+- Nennen Sie den derzeitigen Präsidenten / Premierminister. 
+- Zählen Sie von 10 bis 1 rückwärts.
 
-Immediate home care for cognitive problems / confusion may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. But really, again, new and persistent confusion is a bad sign. Time to get help.
+Die sofortige häusliche Pflege bei kognitiven Problemen/Verwirrung kann die Ermutigung des Patienten zum Essen und Trinken, die Sicherstellung der planmäßigen Einnahme geeigneter Fiebermedikamente und die frische Belüftung des Raums umfassen. Aber wirklich, noch einmal, neue und anhaltende Verwirrung ist ein schlechtes Zeichen. Zeit, Hilfe zu holen.
 
-### Too high or too low respiration rate
+### Zu hohe oder zu niedrige Atmungsrate
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Zählen Sie die Atmung pro Minute, indem Sie Ihre Hand so nah an den Patienten halten, dass Sie den Atem des Patienten spüren, seine Brust und/oder seinen Bauch beobachten, während Sie eine Uhr mit einem Sekundenzeiger oder eine Digitaluhr/eine Telefon-Stoppuhr halten. Die Atmungsrate (RR) sollte zwischen 12 und 20 Atemzügen pro Minute liegen. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+Die sofortige häusliche Pflege bei Atembeschwerden kann die Belüftung des Patientenzimmers und die Stützung des Patienten umfassen, so dass er sich in einer aufrechten, aber bequemen Ruheposition befinden kann. Es ist auch eine gute Idee, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen, und es gibt einige Schlafpositionen, die auch das Atmen erleichtern können (siehe Ebene 3, Pflegearbeit).
 
 ![](/images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Wenn Sie oder der Patient unter Atemnot / Atemnot leiden, sollten Sie einen Arzt aufsuchen. 
 
-### Low oxygen saturation
+### Niedrige Sauerstoffsättigung
 
-If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Wenn Sie ein Oxymeter haben (siehe [Einkaufsseite](https://www.covid-at-home.info/shopping)), kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufen Sie einen Krankenwagen! Alles unter 96%, bringen Sie frische Luft in das Zimmer des Patienten und wärmen Sie ihn oder sie.
 
 ![](/images/cyanosis.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(Rufen Sie auch einen Arzt an, wenn sich die Finger, Zehen oder Lippen weniger blau verfärben...)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Wenn die Haut des Patienten wie unten eine spitzenförmige violette Auflage (auch Livedo reticularis genannt) erhält (und das ist für den Patienten nicht normal), ist das auch ein Grund, um Hilfe zu rufen.
 
 ![](/images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Sehr niedriger Blutdruck
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](https://www.covid-at-home.info/images/covid-diary.pdf).
+Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachten Sie, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn Sie ein billiges automatisches Gerät haben, sollte es Ihnen diese beiden Nummern mitteilen. Wenn Sie ein Gerät haben, notieren Sie den systolischen Druck auf dem [Tagebuchformular] (https://www.covid-at-home.info/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+Wenn Sie kein Gerät zur Blutdruckmessung haben oder Probleme haben, einen Messwert zu erhalten, dann versuchen Sie stattdessen, die Kapillarauffüllzeit des Patienten zu testen. Prüfen Sie, indem Sie seine oder ihre Finger flach auf eine harte Oberfläche legen. Drücken Sie mit dem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfen Sie, wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte 1-2 Sekunden dauern. Länger als diese Zeitspanne kann auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung sein. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+Dehydrierung ist eine häufige Ursache für niedrigen Blutdruck, so dass die unmittelbare häusliche Pflege die Ermutigung des Patienten zum Essen und Trinken umfassen kann, insbesondere Nahrungsmittel oder Getränke, die essentielle Elektrolyte wie Kalium und Natrium enthalten. Schwindel ist ein häufiges Symptom von niedrigem Blutdruck, so dass der schwindelerregende Patient beim Positionswechsel (Liegen zum Sitzen, Sitzen zum Stehen) vorsichtig sein will; es kann zu einer Ohnmacht kommen. Aber wirklich, noch einmal, wenn es irgendwie nicht richtig aussieht - wenn der Blutdruck sehr niedrig ist, oder wenn der Patient normalerweise hohen Blutdruck hat und dieser viel niedriger als normal aussieht - dann holen Sie sich Hilfe.
 
-### Too high or too low heart rate
+### Zu hohe oder zu niedrige Herzfrequenz
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+Die Herzfrequenz ist leichter zu messen als der Blutdruck, und normalerweise geht eine hohe Herzfrequenz (über 100-110 Schläge pro Minute bei einem Erwachsenen) mit einem niedrigen Blutdruck einher. Kleinere Menschen und Kinder haben in der Regel eine höhere Herzfrequenz. Eine hohe Herzfrequenz allein ist möglicherweise kein Grund zur Beunruhigung, da sie auf Angst oder Dehydrierung hinweisen kann. Entspannungstechniken und etwas zu trinken/zu essen könnten angebracht sein. Aber auch hier sollten Werte, die außerhalb des normalen Bereichs liegen, Sie dazu veranlassen, sofort medizinische Hilfe aufzusuchen. Dies gilt insbesondere, wenn Sie eine schnelle Atmung zusammen mit niedrigem Blutdruck oder hoher Herzfrequenz und/oder Verwirrung feststellen. 
 
-### Very high fever that comes (back) suddenly
+### Sehr hohes Fieber, das plötzlich (wieder) auftritt
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+Wenn Sie die Temperaturen regelmäßig überprüfen, sollten Sie sich bewusst sein, dass sich der Trend plötzlich umkehren kann, auch wenn es dem Patienten früher besser zu gehen schien. Regelmäßige Messungen sind wichtig. Ein sehr hohes Fieber (> 39° Celsius) ist ein Hinweis darauf, medizinische Hilfe zu suchen. Ebenso wie ein Fieber, das verschwindet und dann plötzlich wiederkommt. 
 
-### Call for help
+### Hilferuf
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+Wenn eines der oben genannten Symptome auftritt, ist die Lage ernst! Dies ist der Punkt, an dem Sie nach Möglichkeit keine Entscheidungen mehr auf der Grundlage eines Leitfadens aus dem Internet treffen sollten. Warten Sie nicht darauf, dass es schlimmer wird. Rufen Sie einen Arzt an oder rufen Sie die Notfallnummer an und bringen Sie den Patienten pronto in einen Krankenwagen. Bleiben Sie ruhig und berichten Sie die Situation, wie sie ist. Ihre Arbeit ist erledigt: Sie haben einen Patienten aus dem medizinischen System herausgehalten, als er gerade krank war. Jetzt ist es an der Zeit, dass sich die Fachleute darum kümmern. Die Daten, die Sie gesammelt haben, sollten Ihnen hoffentlich helfen, den Betreiber, die Mitarbeiter in der Ambulanz und die Ärzte davon zu überzeugen, dass Sie nicht einfach grundlos in Panik geraten und wahrscheinlich dazu beitragen werden, dass der Patient schneller die benötigte Versorgung erhält.
