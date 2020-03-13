@@ -1,17 +1,17 @@
-## COVID-19 diary
+## COVID-19 Tagebuch
 
-We have created an example of what a diary page in your COVID diary could look like. It looks a lot like the information they keep about patients in hospitals. It may seem a bit overengineered, but it allows you to keep track of how someone is doing and then (if you need to see a doctor or go to hospital) hand over whatever data you have kept in a format that doctors like to read. Simply print one of these these for every day that the patient is sick. Since you don't want to find out you're out of printer paper in the middle of this, maybe print out 20-30 of these as part of your preparation. Don't worry if you don't have equipment to do all these measurements. (Although it is pretty cheap to get and it really doesn't hurt to have, see the [shopping page](/shopping).)
+Wir haben ein Beispiel dafür erstellt, wie eine Tagebuchseite in Ihrem COVID-Tagebuch aussehen könnte. Es sieht sehr nach den Informationen aus, die sie über Patienten in Krankenhäusern aufbewahren. Es mag ein wenig übertrieben erscheinen, aber es erlaubt Ihnen, den Überblick zu behalten, wie es jemandem geht, und dann (wenn Sie einen Arzt aufsuchen oder ins Krankenhaus gehen müssen) die aufbewahrten Daten in einem Format auszuhändigen, das Ärzte gerne lesen. Drucken Sie einfach eines dieser Dokumente für jeden Tag, an dem der Patient krank ist. Da Sie nicht mittendrin herausfinden wollen, dass Ihnen das Druckerpapier ausgegangen ist, drucken Sie vielleicht 20-30 davon als Teil Ihrer Vorbereitung aus. Machen Sie sich keine Sorgen, wenn Sie keine Ausrüstung haben, um all diese Messungen durchzuführen. (Obwohl es ziemlich billig zu bekommen ist und es wirklich nicht schadet, es zu haben, siehe die [Einkaufsseite](/Shopping)).
 
-<a href="/images/covid-diary.pdf"><img style="border: 2px solid black; drop-shadow(16px 16px 10px black)" src="/images/covid-diary.png"></a>
+<a href="/images/covid-diary.pdf"><img style="border: 2px einfarbig schwarz; Schlagschatten(16px 16px 10px schwarz)" src="/images/covid-diary.png"></a>
 
-### Starting the diary
+### Start des Tagebuchs
 
-You probably want to take a look at this and keep the data in this format even if the patient is just developing symptoms. It doesn't matter if you don'f fill in most of the data or don't fill it in often, but this is actually a good time to get a feel for what - more or less - normal values look like. When the patient is in bed and possibly has other people taking care of him or her, you can take measurements a bit more often.
+Wahrscheinlich möchten Sie sich das ansehen und die Daten in diesem Format behalten, auch wenn der Patient gerade Symptome entwickelt. Es spielt keine Rolle, ob Sie die meisten Daten nicht oder nur selten ausfüllen, aber dies ist eigentlich ein guter Zeitpunkt, um ein Gefühl dafür zu bekommen, wie - mehr oder weniger - normale Werte aussehen. Wenn der Patient im Bett liegt und möglicherweise von anderen Personen betreut wird, können Sie etwas häufiger Messungen vornehmen.
 
-### Diary procedure
+### Tagebuchverfahren
 
-At the beginning of each day you fill in the information on the right. Name, date of birth, sex, and whether or not the patient was tested positive for SARS-CoV-2, the virus that causes COVID-19. First thing in the morning the patient is weighed if possible, so you can see over time if the patient is losing a lot of weight. Then every time you take measurements you note the time in the top row, and then fill in measurements in the column underneath. Anything else is noted on the right side under notes. 
+Zu Beginn jedes Tages füllen Sie die Informationen auf der rechten Seite aus. Name, Geburtsdatum, Geschlecht und ob der Patient positiv auf SARS-CoV-2, das Virus, das COVID-19 verursacht, getestet wurde oder nicht. Als erstes wird der Patient morgens möglichst gewogen, so dass Sie im Laufe der Zeit sehen können, ob der Patient viel Gewicht verliert. Dann notieren Sie jedes Mal, wenn Sie Messungen vornehmen, die Zeit in der oberen Zeile und tragen dann die Messungen in der Spalte darunter ein. Alles andere ist auf der rechten Seite unter Anmerkungen vermerkt. 
 
-### When things get serious
+### Wenn es ernst wird
 
-If the patients gets sicker and sicker, you will want to refer to the "Level 4" chapter in the [main text](/) for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
+Wenn die Patienten immer kränker werden, sollten Sie im Kapitel "Stufe 4" im [Haupttext](/) nachschlagen, um einige grundlegende Hinweise zu erhalten, wann Sie einen Arzt rufen oder ins Krankenhaus gehen sollten. Diese grundlegende Anleitung ist genau das, ein Leitfaden, der Ihnen helfen soll, ein sehr, sehr grundlegendes Gefühl dafür zu bekommen, was "einfach nur krank" im Gegensatz zu "zu krank, um zu Hause zu sein" ist. Sie sind kein Arzt. Wenn Sie sich unsicher fühlen, rufen Sie um Hilfe.
