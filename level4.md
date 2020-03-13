@@ -39,7 +39,7 @@ Wenn Sie oder der Patient unter Atemnot / Atemnot leiden, sollten Sie einen Arzt
 
 ### Niedrige Sauerstoffsättigung
 
-Wenn Sie ein Oxymeter haben (siehe [Einkaufsseite](https://www.covid-at-home.info/shopping)), kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufen Sie einen Krankenwagen! Alles unter 96%, bringen Sie frische Luft in das Zimmer des Patienten und wärmen Sie ihn oder sie.
+Wenn Sie ein Oxymeter haben (siehe [Einkaufsseite](/shopping)), kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufen Sie einen Krankenwagen! Alles unter 96%, bringen Sie frische Luft in das Zimmer des Patienten und wärmen Sie ihn oder sie.
 
 ![](/images/cyanosis.png)
 
@@ -51,7 +51,7 @@ Wenn die Haut des Patienten wie unten eine spitzenförmige violette Auflage (auc
 
 ### Sehr niedriger Blutdruck
 
-Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachten Sie, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn Sie ein billiges automatisches Gerät haben, sollte es Ihnen diese beiden Nummern mitteilen. Wenn Sie ein Gerät haben, notieren Sie den systolischen Druck auf dem [Tagebuchformular] (https://www.covid-at-home.info/images/covid-diary.pdf).
+Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachten Sie, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn Sie ein billiges automatisches Gerät haben, sollte es Ihnen diese beiden Nummern mitteilen. Wenn Sie ein Gerät haben, notieren Sie den systolischen Druck auf dem [Tagebuchformular] (/images/covid-diary.pdf).
 
 Wenn Sie kein Gerät zur Blutdruckmessung haben oder Probleme haben, einen Messwert zu erhalten, dann versuchen Sie stattdessen, die Kapillarauffüllzeit des Patienten zu testen. Prüfen Sie, indem Sie seine oder ihre Finger flach auf eine harte Oberfläche legen. Drücken Sie mit dem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfen Sie, wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte 1-2 Sekunden dauern. Länger als diese Zeitspanne kann auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung sein. 
 
