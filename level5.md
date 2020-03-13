@@ -9,3 +9,11 @@ Falls keine offiziellen Möglichkeiten bestehen, medizinische Hilfe zu erhalten,
 Wenn Sie (telefonisch?) durchkommen, versuchen Sie, ruhig zu bleiben und dem Arzt/Krankenhaus zu helfen, die Situation schnell zu beurteilen. 
 
 In Fällen, in denen die Mängel der Engpass sind und Sie das Gefühl haben, dass Sie einen brauchen, müssen Sie selbst entscheiden, ob Sie versuchen wollen, in die Notaufnahme zu fahren, oder ob Sie warten und hoffen, dass Sie durchkommen. Planen Sie, in welches Krankenhaus Sie zuerst gehen, und vielleicht haben Sie jemanden, der nicht fährt, mit Internetzugang, entweder im Auto oder über die Freisprecheinrichtung. Bitte fahren Sie auf jeden Fall sicher, das Letzte, was Sie wollen, ist ein kranker Patient bei einem Autounfall.
+
+&nbsp;
+
+----
+
+&nbsp;
+
+Hoffen wir vorerst alle, dass unsere Mediziner mit der Fallbelastung, die auf sie zukommt, zurechtkommen. Tragen Sie Ihren Teil dazu bei, die Krankheit so weit wie möglich zu verlangsamen. Lassen Sie uns versuchen, dass am anderen Ende der Strecke alle noch da sind.
