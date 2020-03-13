@@ -1,4 +1,4 @@
-Einkaufsliste
+## Einkaufsliste
 
 Hier sind einige notwendige und praktische Dinge, die Sie haben sollten, wenn Sie sich um jemanden mit COVID-19 kümmern wollen. Nichts davon ist sehr teuer. Wenn wir Beispiele aufgenommen haben (im Allgemeinen auf der deutschen Version von Amazon), ist dies keine Kaufempfehlung und wir verdienen kein Geld, wenn Sie genau dieses (oder ein anderes) anklicken. Wenn wir Ihnen das Beispiel zeigen, meinen wir nichts anderes als *"so etwas "*. Nutzen Sie jeden beliebigen Online- oder Einzelhandelskanal, um etwas Ähnliches zu erhalten. 
 
