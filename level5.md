@@ -1,19 +1,11 @@
-## Level 5 -- System Overload
+## Ebene 5 -- Überlastung des Systems
 
-### What if the official channels are overloaded?
+### Was ist, wenn die offiziellen Kanäle überlastet sind?
 
-What we're unfortunately seeing in some areas is that the system becomes stressed to a breaking point if too many people become sick at the same time. Either you cannot get through, you are told the ambulance is going to take a while, hospitals are not taking new patients at all, or some hospitals prioritize treatment of certain groups of patients (such as the relatively young and healthy) over other groups (such as the elderly and / or people with existing illnesses).
+Was wir leider in einigen Bereichen beobachten, ist, dass das System bis zum Zerreißen gestresst wird, wenn zu viele Menschen gleichzeitig krank werden. Entweder kommen Sie nicht durch, man sagt Ihnen, dass die Ambulanz eine Weile dauern wird, Krankenhäuser nehmen überhaupt keine neuen Patienten auf, oder einige Krankenhäuser geben der Behandlung bestimmter Patientengruppen (wie z.B. der relativ jungen und gesunden) Vorrang vor anderen Gruppen (wie z.B. ältere Menschen und/oder Menschen mit bestehenden Krankheiten).
 
-In the event that official means of getting medical help are unavailable, you might want to try to get hold of that doctor you know, the nurse down the street, anyone with medical training and / or experience. If that doesn't work, depending on the urgency, you might want to mobilize your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook? If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+Falls keine offiziellen Möglichkeiten bestehen, medizinische Hilfe zu erhalten, sollten Sie versuchen, den Arzt, den Sie kennen, die Krankenschwester in der Straße oder jemanden mit medizinischer Ausbildung und/oder Erfahrung zu erreichen. Wenn das nicht funktioniert, sollten Sie - je nach Dringlichkeit - Ihren und den breiteren Patientenkreis mobilisieren, damit Sie wissen, dass es einem Patienten nicht gut geht und Sie keine Hilfe bekommen können. Fragen Sie nach Ärzten oder Krankenschwestern. Facebook verwenden? Wenn Sie danach noch Zeit haben, organisieren Sie Ihre Tagebuchseiten und stellen Sie sicher, dass jeder Arzt, der Zeit für den Patienten hat, die Temperaturaufzeichnungen sofort einsehen kann usw. Versuchen Sie, in der Nähe des Patienten nicht allzu besorgt zu wirken, denn zu diesem Zeitpunkt wird er wahrscheinlich gar nichts mehr tun können.
 
-If you do get through (by phone?) try to stay calm and help the doctor / hospital assess the situation quickly. 
+Wenn Sie (telefonisch?) durchkommen, versuchen Sie, ruhig zu bleiben und dem Arzt/Krankenhaus zu helfen, die Situation schnell zu beurteilen. 
 
-In cases where abulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room or wait and hope to get through. Plan which hospital you go to first and maybe have someone who is not driving with access to the internet, either in the car or on the speakerphone. Please drive safely in any case, the last thing you want is a sick patient in a car accident.
-
-&nbsp;
-
-----
-
-&nbsp;
-
-For now let's all hope our medical professionals can cope with the case load that is coming to them. Do your part in slowing the disease down as much as possible. Let's try to all still be there at the other end of this.
+In Fällen, in denen die Mängel der Engpass sind und Sie das Gefühl haben, dass Sie einen brauchen, müssen Sie selbst entscheiden, ob Sie versuchen wollen, in die Notaufnahme zu fahren, oder ob Sie warten und hoffen, dass Sie durchkommen. Planen Sie, in welches Krankenhaus Sie zuerst gehen, und vielleicht haben Sie jemanden, der nicht fährt, mit Internetzugang, entweder im Auto oder über die Freisprecheinrichtung. Bitte fahren Sie auf jeden Fall sicher, das Letzte, was Sie wollen, ist ein kranker Patient bei einem Autounfall.
