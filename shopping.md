@@ -1,80 +1,80 @@
-## Shopping list
+Einkaufsliste
 
-Here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive. If we included examples (generally on the German version of Amazon), this is not a buying recommendation and we are not making any money if you click that precise one (or any other). By showing you the example, we mean nothing more than *"something like this"*. Use whatever online or retail channel you like to get something similar. 
+Hier sind einige notwendige und praktische Dinge, die Sie haben sollten, wenn Sie sich um jemanden mit COVID-19 kümmern wollen. Nichts davon ist sehr teuer. Wenn wir Beispiele aufgenommen haben (im Allgemeinen auf der deutschen Version von Amazon), ist dies keine Kaufempfehlung und wir verdienen kein Geld, wenn Sie genau dieses (oder ein anderes) anklicken. Wenn wir Ihnen das Beispiel zeigen, meinen wir nichts anderes als *"so etwas "*. Nutzen Sie jeden beliebigen Online- oder Einzelhandelskanal, um etwas Ähnliches zu erhalten. 
 
 &nbsp;
 
-### Must have
+### Muss sein
 
-* **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
+**Fieberthermometer** (2-10 EUR/USD) ([Beispiel](https://www.amazon.de/gp/product/B001NYHXYS))
 
    > ![](/images/thermometer.png)
-   > 
-   > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks, they make great gifts (and as they may be inserted anally to get a more precise measurement, they may not be items you want to loan to someone.)
+   >
+   > So wichtig, dass Sie Ihren wahrscheinlich überprüfen sollten, wenn er schon seit Ewigkeiten im Badezimmerschrank liegt. Ist die Batterie noch in Ordnung? Es schadet wirklich nicht, zwei zu haben, nur für den Fall. Mit 2-10 Dollar sind sie ein großartiges Geschenk (und da sie vielleicht anal eingeführt werden, um eine genauere Messung zu erhalten, sind sie vielleicht keine Gegenstände, die man jemandem ausleihen möchte).
 
-* **Enough sheets, pillow casings, towels**
+**Genügend Laken, Kissenbezüge, Handtücher**
    
-   > Stuff most everyone has in the home, but just to be sure: Once people get sick, you want to change the bed linens often, and you may use more towels also.
+   > Sachen, die fast jeder im Haus hat, aber nur um sicher zu gehen: Wenn Menschen krank werden, möchten Sie die Bettwäsche oft wechseln, und Sie können auch mehr Handtücher verwenden.
    
-* **Cleaning supplies, bleach**
+**Reinigungsmittel, Bleichmittel**
 
-* **Paracetamol**
+**Paracetamol**
 
-  > The fever supressant and painkiller of choice. Unless you are allergic to it, in which case ibuprofen may be the next best thing. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
+  > Das Fiebermittel und Schmerzmittel der Wahl. Es sei denn, Sie sind allergisch dagegen, in diesem Fall ist Ibuprofen vielleicht das nächstbeste Mittel. Stellen Sie sicher, dass Sie die Verpackungsvorschriften befolgen und die empfohlene Tageshöchstdosis nicht überschreiten.
 
 &nbsp;
 
-### PPE (Personal Protective Equipment)
+### PSA (Persönliche Schutzausrüstung)
 
-Shopping for PPE is a little tricky for several reasons.
+Das Einkaufen bei der PPE ist aus verschiedenen Gründen etwas heikel.
 
-First of all you may not be familiar with what kinds of protection are needed in what situations. Also it is surprisingly hard to make sure your mask has a proper fit. Make sure you watch some YouTube videos on how to safely put on, use and dispose of your PPE to make sure it really works to protect you and others.
+Zunächst einmal ist Ihnen vielleicht nicht bekannt, welche Arten von Schutz in welchen Situationen erforderlich sind. Außerdem ist es überraschend schwierig, sicherzustellen, dass Ihre Maske richtig sitzt. Schauen Sie sich unbedingt einige YouTube-Videos an, in denen Sie erfahren, wie Sie Ihre PSA sicher anlegen, verwenden und entsorgen können, um sicherzustellen, dass sie wirklich zu Ihrem Schutz und zum Schutz anderer funktioniert.
 
-Then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy so as to not make things unavailable to the doctors and nurses who need them the most. 
+Dann gibt es die Tatsache, dass einige Menschen Panikkäufe getätigt haben und einige Unternehmen Preisdruck ausgeübt haben, so dass wichtige Ausrüstungsgegenstände wie Masken an einigen Orten nicht einmal für Ärzte und Krankenschwestern verfügbar sind, die sie wirklich brauchen. Wenn die Pandemie noch früh ist, stellt Ihre Regierung möglicherweise Masken für Menschen bereit, die mit COVID-19 leben und/oder sich um Menschen mit COVID-19 kümmern. In diesem Abschnitt werden Dinge beschrieben, die Sie versuchen könnten, wenn Sie sich um andere Menschen kümmern müssen. Bitte hören Sie auf den offiziellen Ratschlag, was **nicht** gekauft werden sollte, damit die Dinge nicht für die Ärzte und Krankenschwestern, die sie am meisten brauchen, unerreichbar werden. 
 
-When it comes right down to it you'll have to make your own choices as to the level of protection that is appropriate in your situation.
+Wenn es hart auf hart kommt, müssen Sie selbst entscheiden, welches Schutzniveau in Ihrer Situation angemessen ist.
 
-* **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
+**Medizinische Maske, vorzugsweise N95** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B085H6Y6HN))
    > ![](/images/mask.png)
-   > 
-   > FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator.
+   >
+   > FFP2- oder FFP3-Atemschutzmasken (mit oder ohne Ventil) werden ebenfalls empfohlen. Eine normale Gesichtsmaske (chirurgisch oder prozedural) ist besser als nichts, wenn Sie kein Atemschutzgerät bekommen.
 
-* **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
+**Kleid / Regenmantel** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B07DFDFFRX))
 
-   > Best is if you can find a long-sleeved, water-resistant gown. 
+   > Am besten ist es, wenn Sie ein langärmeliges, wasserabweisendes Kleid finden können. 
 
-* **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
+**Handschuhe** (weniger als ein EUR/USD) ([Beispiel](https://www.amazon.de/dp/B01LWJ80C7))
    > ![](/images/gloves.png)
 
-* **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
+**Augenschutz, Schutzbrille oder Gesichtsschutz** (einige EUR/USD) ([Beispiel](https://www.amazon.de/dp/B002THV25Y))
    > ![](/images/glasses.png)
-   > 
+   >
 
 &nbsp;
 
-### Nice to have
+### Wäre u.U. auch ganz hilfreich
 
-* **Pulse oxymeter** (20-25 EUR/USD) ([example](https://www.amazon.de/gp/product/B07P3ZS6L3))
+* **Pulsoxymeter** (20-25 EUR/USD) ([Beispiel](https://www.amazon.de/gp/product/B07P3ZS6L3))
    > ![](/images/pulse-oxi.png)
    >
-   > Little gadget that clips on your finger and shows the heart rate (which is also easy to measure in other ways) and the oxygen saturation in the blood (which is hard to measure any other way).
+   > Kleines Gerät, das an Ihrem Finger befestigt wird und die Herzfrequenz (die auch auf andere Weise leicht zu messen ist) und die Sauerstoffsättigung im Blut (die auf andere Weise schwer zu messen ist) anzeigt.
 
-* **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))
-   > ![](/images/blood-pressure.png)
-   > 
-   > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it doesn't hurt to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.
+**Blutdruckmesser** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07KY867ZH))
+   > ![](/Bilder/Blutdruck.png)
+   >
+   > Es gibt einfache Tricks, um zu sehen, ob der Blutdruck einer Person zu niedrig wird (siehe den Haupttext auf dieser Website). Es schadet jedoch nicht, dies objektiver messen zu können, insbesondere wenn Sie einen Trend im Blutdruck des Patienten sehen/zeigen wollen.
 
-* **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
+* **Inkontinenz / wasserdichte Laken** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) oder [Beispiel](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
    >
-   > Sick people sometimes have accidents. You'll thank us.
+   > Kranke Menschen haben manchmal Unfälle. Sie werden uns danken.
 
-* **Steam inhaler** (25 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07SNQH6CZ))
+**Dampf-Inhalator** (25 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07SNQH6CZ))
    > ![](/images/steam.png)
    >
-   > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
+   > Oftmals als "Gesichtssauna" oder wie auch immer sie genannt werden, sind sie nur Geräte, die Dampf abgeben, der nicht zu heiß zum Atmen ist. Jede andere Methode, die Dampf erzeugt, ist ebenfalls in Ordnung. Achten Sie nur darauf, dass Sie mit zu heißem Dampf keinen Schaden anrichten. Das Gerät entnimmt demineralisiertes Wasser ([Beispiel](https://www.amazon.de/gp/product/B07J5Y95MQ)), insbesondere an Orten, an denen das Leitungswasser einen hohen Kalziumgehalt aufweist. 
 
-* **Vitamins** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
+**Vitamine** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B07S63PCZK))
+   > ![](/Bilder/Mehrfach-Vitamin.png)
    >
-   > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain, no crazy 1000% megadoses.
+   > Für den Fall, dass der Patient nicht mehr (viel) isst, aber noch trinkt. Vielleicht nehmen Sie die großen Multivitamin-Pillen, die in Wasser zischen, ein paar Tuben davon. Versuchen Sie, eine zu bekommen, die etwa das 1-2-fache der empfohlenen Tagesdosis aller darin enthaltenen Vitamine und Mineralien enthält, keine verrückten 1000%igen Megadosen.
