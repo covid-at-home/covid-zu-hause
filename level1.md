@@ -35,7 +35,7 @@ Darüber hinaus können Sie Dinge tun, um so gesund wie möglich zu bleiben:
 * Erhalten Sie regelmäßig Bewegung.
 * Wenn Sie rauchen, hören Sie auf zu rauchen.
 * Vermeiden Sie starken Alkohol- und sonstigen Drogenkonsum, da Alkohol und andere Drogen dazu neigen, die Immunfunktion zu unterdrücken.
-* Wenn Sie mehr tun wollen, nachdem Sie zuerst diese wesentlichen Punkte behandelt haben, dann sollten Sie [komplementäre medizinische Optionen] (https://www.covid-at-home.info/complementary) in Betracht ziehen, um die Immunität zu verbessern, Infektionen der oberen Atemwege und/oder Virusinfektionen und Ähnliches zu verhindern und zu behandeln. Es gibt eine Reihe von möglicherweise nützlichen Optionen, aber bedenken Sie, dass die bisherigen Beweise spezifisch für verschiedene Kontexte sind. Viele Schlangenölverkäufer werden hier aus der Panik viel Geld verdienen, ohne tatsächlich Hilfe anzubieten. Fallen Sie nicht auf sie herein. 
+* Wenn Sie mehr tun wollen, nachdem Sie zuerst diese wesentlichen Punkte behandelt haben, dann sollten Sie [komplementäre medizinische Optionen](/complementary) in Betracht ziehen, um die Immunität zu verbessern, Infektionen der oberen Atemwege und/oder Virusinfektionen und Ähnliches zu verhindern und zu behandeln. Es gibt eine Reihe von möglicherweise nützlichen Optionen, aber bedenken Sie, dass die bisherigen Beweise spezifisch für verschiedene Kontexte sind. Viele Schlangenölverkäufer werden hier aus der Panik viel Geld verdienen, ohne tatsächlich Hilfe anzubieten. Fallen Sie nicht auf sie herein. 
 
 ### Vorbereiten
 
@@ -43,7 +43,7 @@ Und darüber hinaus können Sie sich darauf vorbereiten, dass Sie mit den Dingen
 
 #### Holen Sie sich die Dinge, die Sie brauchen
 
-Wir haben eine [Einkaufsseite](https://www.covid-at-home.info/shopping) erstellt, die praktische Dinge auflistet, die Ihnen helfen können, sich selbst und andere zu versorgen.
+Wir haben eine [Einkaufsseite](/shopping) erstellt, die praktische Dinge auflistet, die Ihnen helfen können, sich selbst und andere zu versorgen.
 
 ### Bestehende medizinische Bedingungen
 
