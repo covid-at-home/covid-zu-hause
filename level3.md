@@ -8,7 +8,7 @@ Das ist der Zeitpunkt, an dem Sie anfangen, anderen Menschen in Ihrer Umgebung z
 
 ### In jedem Fall
 
-* Bleiben Sie im Bett. An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patienten noch für eine begrenzte Zeit aus dem Bett gehen können. Toilette, eine schnell abspülbare Dusche, einmal am Tag wiegend (Anmerkung in [Tagebuch] (https://www.covid-at-home.info/images/covid-diary.pdf)). Legen Sie so oft wie möglich neue Laken auf das Bett und waschen Sie die alten Laken bei 60 Grad Celsius oder wärmer.
+* Bleiben Sie im Bett. An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patienten noch für eine begrenzte Zeit aus dem Bett gehen können. Toilette, eine schnell abspülbare Dusche, einmal am Tag wiegend (Anmerkung in [Tagebuch](/images/covid-diary.pdf)). Legen Sie so oft wie möglich neue Laken auf das Bett und waschen Sie die alten Laken bei 60 Grad Celsius oder wärmer.
 * Lüften Sie den Raum so oft wie möglich.
 * Trinken Sie mehr Wasser! (mehr als 2 Liter und weniger als 5 Liter pro Tag).
 * Versuchen Sie, vitaminreiche Lebensmittel zu essen, aber auch Multivitamingetränke sind in Ordnung.
@@ -34,7 +34,7 @@ Zu den möglicherweise nützlichen Verhaltensweisen gehören:
 
 ### Krankheitstagebuch
 
-Wie im vorigen Abschnitt erwähnt, können Sie dieses druckbare [Formular] (https://www.covid-at-home.info/images/covid-diary.pdf) verwenden oder ein eigenes erstellen. 
+Wie im vorigen Abschnitt erwähnt, können Sie dieses druckbare [Formular](/images/covid-diary.pdf) verwenden oder ein eigenes erstellen. 
 
 Achten Sie in dieser Phase besonders auf Symptome, die auf eine Verschlechterung hindeuten könnten, und notieren Sie diese. Lesen Sie den nächsten Abschnitt für weitere Einzelheiten, aber dazu gehören Schwindel oder schneller Herzschlag (trinken Sie mehr und essen Sie etwas, wenn Sie können), schnelle Atmung (heben Sie den Kopf im Liegen an oder senken Sie ihn beim Sitzen auf den Tisch, um das Atmen zu erleichtern) und eine blaue Tönung der Fingerspitzen oder Lippen (Zyanose - holen Sie frische Luft, wärmen Sie sich auf und überprüfen Sie die Sauerstoffversorgung des Blutes, wenn möglich). Erwägen Sie auch den Einsatz von Entspannungstechniken, um eine schnelle Atmung oder Herzfrequenz zu verlangsamen, die teilweise auf Angst zurückzuführen sein könnten: Hören Sie beruhigende Musik, melden Sie sich elektronisch bei einem Freund an oder versuchen Sie, Ihre Atmung zu verlangsamen und Ihre Herzfrequenz zu senken, indem Sie beim kräftigen Ausatmen länger zählen als beim sanften Einatmen. (Einige Menschen verwenden 4-7-8 und andere bevorzugen 5-2-5, um zu versuchen, ihre Einatmen-Halten-Ausatmen-Muster zu verlangsamen).
 
