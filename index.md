@@ -1,4 +1,4 @@
-<DIV class="redbox">
+<DIV markdown="1" class="redbox">
 
 **Diese website ist, wie man sieht, noch nicht benuetzbar. Diese erste, gaaaanz rohe, übersetzung würde gemacht von [DeepL Translator](https://www.deepl.com/translator). Der ist zwar besser als viele andere KI-Übersetzer, aber es ist immer noch nix was man lesen möchte. Hier kannst du helfen. Auf Github liegt das [repository](https://github.com/covid-zu-hause/covid-zu-hause.info) das als "Rückseite" vond diese Website dient. Da liegen die Files woraus diese website gebaut wird. Da findest du, im [README.md](https://github.com/covid-zu-hause/covid-zu-hause.info/README.md) auch die Adresse für die Audio/video-konferenz wo wir tags über (Deutsche Zeit) oft sind um die Website und die Übersetzungen zu koordinieren. Du kannst auch mail schicken an team --at-zeichen-- covid-at-home.info**
 
