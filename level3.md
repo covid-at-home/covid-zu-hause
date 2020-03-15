@@ -1,4 +1,4 @@
-## Level 3 -- Du bist bettlägerig
+## Stufe 3 -- Du bist bettlägerig
 
 Alle guten Maßnahmen des Level 2 haben nicht funktioniert und es wird immer schlimmer. Das bedeutet nicht, dass du etwas falsch gemacht hast - mach einfach weiter. Aber jetzt wirst du bzw. der Patient / die Patientin schwächer. Er oder sie ist oft zu schwach, um aus dem Bett aufzustehen, und braucht möglicherweise zusätzliche Ermutigung zu essen und zu trinken. 
 
@@ -38,7 +38,7 @@ Drucke dieses Krankheitstagebuch [Formular](/images/covid-diary.pdf) aus oder er
 
 Achte in dieser Phase besonders auf Symptome, die auf eine Verschlechterung hindeuten könnten, und schreibe sie auf. Lies den nächsten Abschnitt für weitere Einzelheiten. Solche Anzeichen können sein: Schwindel oder schneller Herzschlag (trink mehr, iss etwas wenn du kannst), schnelle Atmung (hebe den Kopf im Liegen an oder lege ihn beim Sitzen auf den Tisch um das Atmen zu erleichtern) und eine blaue Tönung der Fingerspitzen oder Lippen  **Gefahr** (Zyanose - sofort frische Luft, wärme dich auf und überprüfe die Sauerstoffsättigung des Blutes, wenn möglich). Auch helfen können Entspannungstechniken um eine schnelle Atmung oder Herzfrequenz zu verlangsamen, die z.B. auch teilweise auf Angst zurückzuführen sein könnten: Höre beruhigende Musik, melde Dich elektronisch bei einem Freund (miteinander reden hilft), oder versuche deine Atmung zu verlangsamen und Deine Herzfrequenz zu senken indem du beim kräftigen Ausatmen länger zählst als beim sanften Einatmen. 
 
-Wenn du glaubst, dass sich dein Zustand bzw. der Zustand des Patienten oder der Patientin verschlechtert, sollte das Krankheitstagebuch um folgende Punkte erweitert werden: 
+Wenn du glaubst, dass sich dein Zustand bzw. der Zustand des Patienten/der Patientin verschlechtert, sollte das Krankheitstagebuch um folgende Punkte erweitert werden: 
 - häufigere Temperaturmessungen
 - Atemfrequenz (Atemzüge pro Minute)
 - Herzfrequenz
