@@ -1,70 +1,69 @@
-## Ebene 4 -- Fachleute übernehmen
+## Ebene 4 -- jetzt übernehmen die Fachleute
 
-Mit der Verschlimmerung der Symptome und der Verschlechterung des Patienten sollte die Häufigkeit, mit der Messungen vorgenommen werden, steigen. Zu diesem Zeitpunkt sollte Ihr Protokoll alle paar Stunden Temperatur, Atmung und Herzfrequenz enthalten.
+Mit der Verschlimmerung der Symptome und der Verschlechterung des Patienten sollte die Häufigkeit mit der die Messungen vorgenommen werden steigen. Zu diesem Zeitpunkt sollte Dein Protokoll alle paar Stunden Temperatur, Atmung und Herzfrequenz enthalten.
 
-Die folgenden Punkte sollten Sie als medizinischen Notfall interpretieren:
+Die folgenden Punkte sind ein dringender medizinischen Notfall:
 
 ### Bewusstlosigkeit
 
-Es gibt verschiedene Ebenen. Wenn der Patient das Bewusstsein verliert, notieren Sie sich, ob der Patient reagiert, wenn Sie seinen Namen rufen (Stimme), wenn Sie die Schulter gewaltsam einklemmen (Schmerz) oder ob er überhaupt nicht reagiert (Unreagiert).
+Es gibt verschiedene Ebenen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert stelle fest ob der Patient/ die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktio) und notiere das.
 
-Bei einem kurzen Bewusstseinsverlust kann die häusliche Pflege die Ermutigung des Patienten zum Essen und Trinken sowie die frische Belüftung des Raums umfassen. Aber wenn das so weitergeht, holen Sie sich Hilfe.
+Bei einem kurzen Bewusstseinsverlust kann es helfen den Patienten/ die Patientin zum Essen und Trinken zu motivieren und zu lüften. Bei mehr als einem kurzen (wenige Sekunden) Bewusstseinsverlust, rufe die 112 an.
 
 ### Kognitive Probleme / Verwirrung
 
-Wahrscheinlich kennen Sie den Patienten, deshalb sollten Sie ohne ausgefallene Tests feststellen können, ob / wann er nicht mehr dabei ist. Aber hier ist die abgekürzte mentale Testpunktzahl (AMTS), die manchmal zur Beurteilung von kognitiven Problemen verwendet wird. Stellen Sie die Partitur zusammen, indem Sie die folgenden Fragen stellen und für jede richtige Antwort einen Punkt vergeben. Ein Wert von weniger als oder gleich 8 deutet auf kognitive Probleme hin. 
+Wahrscheinlich kennst Du den Patienten/ die Patientin. Deshalb solltest Du ohne komplzierte Tests sagen können, wenn er oder sie nicht mehr ganz klar ist. Trotzdem beschreiben wir hier die abgekürzte mentale Testpunktzahl (AMTS) die manchmal zur Beurteilung von kognitiven Problemen verwendet wird. Stelle folgende Fragen und für jede richtige Antwort gibt's einen Punkt. Ein Wert von weniger als oder gleich 8 deutet auf kognitive Probleme hin. 
 
-- Wie alt sind Sie? 
-- Wie viel Uhr ist es bis zur nächsten Stunde? 
-- (Geben Sie dem Patienten eine Adresse und bitten Sie ihn, diese am Ende des Tests zu wiederholen. Zum Beispiel, 42 Hacker Way). 
+- Wie alt bist Du? 
+- Wie spät ist es (ungefähr)? 
+- Bitte den Patienten/ die Patientin z.B. eine Adresse zu wiederholen die du sagst (z.B. Prenzlauer Alle 45) 
 - Welches Jahr haben wir? 
-- Wie heißt die Person, mit der Sie sich heute treffen?
-- (Kann der Patient zwei Personen (z.B. Freunde oder Ärzte) erkennen?) 
-- Wie lautet Ihr Geburtsdatum? 
+- Wie heißt die Person die hier vor dir steht?
+- Kann der Patient/ die Patientin zwei Personen (z.B. Freunde oder Ärzte) erkennen?
+- Wie lautet dein Geburtsdatum? 
 - In welchem Jahr endete der Zweite Weltkrieg? 
-- Nennen Sie den derzeitigen Präsidenten / Premierminister. 
-- Zählen Sie von 10 bis 1 rückwärts.
+- Wie heisst derzeit der Bundeskanzler?
+- Zähle von 10 bis 1 rückwärts.
 
-Die sofortige häusliche Pflege bei kognitiven Problemen/Verwirrung kann die Ermutigung des Patienten zum Essen und Trinken, die Sicherstellung der planmäßigen Einnahme geeigneter Fiebermedikamente und die frische Belüftung des Raums umfassen. Aber wirklich, noch einmal, neue und anhaltende Verwirrung ist ein schlechtes Zeichen. Zeit, Hilfe zu holen.
+Bei kognitiven Problem kann es helfen zu lüften, den Patienten/ die Patientin zu ermutingen zu trinken oder zu essen, fiebersenkende Medikamente zu nehmen. Aber ganz im Ernst, noch einmal, neu auftretende und läger andauernde Verwirrung ist ein schlechtes Zeichen. Zeit Hilfe zu holen!
 
-### Zu hohe oder zu niedrige Atmungsrate
+### Zu hohe oder zu niedrige Atemfrequenz
+Zähle die Atmung pro Minute indem Du Deine Hand nah genug so vor Nase und Mund hältst,dass Du den Atem spühren kannst. Beobachte die Brust und/oder den Bauch während Du mit einer Uhr 60 Sekunden lang die Atemzüge zählst. Die Atmungsrate (RR) sollte zwischen 12 und 20 Atemzügen pro Minute liegen (aufschreiben nicht vergessen).
 
-Zählen Sie die Atmung pro Minute, indem Sie Ihre Hand so nah an den Patienten halten, dass Sie den Atem des Patienten spüren, seine Brust und/oder seinen Bauch beobachten, während Sie eine Uhr mit einem Sekundenzeiger oder eine Digitaluhr/eine Telefon-Stoppuhr halten. Die Atmungsrate (RR) sollte zwischen 12 und 20 Atemzügen pro Minute liegen. 
-
-Die sofortige häusliche Pflege bei Atembeschwerden kann die Belüftung des Patientenzimmers und die Stützung des Patienten umfassen, so dass er sich in einer aufrechten, aber bequemen Ruheposition befinden kann. Es ist auch eine gute Idee, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen, und es gibt einige Schlafpositionen, die auch das Atmen erleichtern können (siehe Ebene 3, Pflegearbeit).
+Gute Belüftung des Zimmers und Aufrichten des Patienten/ der Patientin kann bei Atemnot helfen. Es kann auch helfen das Kopfteil des Bettes zum Schlafen möglichst hochzulegen und es gibt einige Schlafpositionen die auch das Atmen erleichtern können (siehe Ebene 3, Pflegearbeit).
 
 ![](/images/dyspnoe.png)
 
-Wenn Sie oder der Patient unter Atemnot / Atemnot leiden, sollten Sie einen Arzt aufsuchen. 
+Wenn Du oder der Patient/ die Patientin unter Atemnot leidet ist ein Arztbesuch angezeigt. 
 
 ### Niedrige Sauerstoffsättigung
 
-Wenn Sie ein Oxymeter haben (siehe [Einkaufsseite](/shopping)), kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufen Sie einen Krankenwagen! Alles unter 96%, bringen Sie frische Luft in das Zimmer des Patienten und wärmen Sie ihn oder sie.
+Wenn Du mit einen Oxymeter die Sauerstoffsättigung des Blutes messen kannst (siehe [Einkaufsseite](/shopping)) kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufe **sofort** einen Krankenwagen! Für Werte unter 96% kann es hifreich sein gut zu lüften. Dabei darauf achten, dass der Patient/ die Patientin warm eingepackt ist und nicht auskühlt. 
 
 ![](/images/cyanosis.png)
 
-(Rufen Sie auch einen Arzt an, wenn sich die Finger, Zehen oder Lippen weniger blau verfärben...)
+(Rufe auch dann einen Arzt an, wenn sich die Finger, Zehen oder Lippen weniger blau verfärben als in diesem Bild...)
 
-Wenn die Haut des Patienten wie unten eine spitzenförmige violette Auflage (auch Livedo reticularis genannt) erhält (und das ist für den Patienten nicht normal), ist das auch ein Grund, um Hilfe zu rufen.
+Wenn die Haut des Patienten wie unten eine spitzenförmige violette Auflage (auch Livedo reticularis genannt) zeigt (sofern das  für den Patienten/ die Patientin nicht normal ist), ist das auch ein Grund, um Hilfe zu rufen.
 
 ![](/images/livedo-reticularis.png)
 
 ### Sehr niedriger Blutdruck
 
-Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachten Sie, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn Sie ein billiges automatisches Gerät haben, sollte es Ihnen diese beiden Nummern mitteilen. Wenn Sie ein Gerät haben, notieren Sie den systolischen Druck auf dem [Tagebuchformular] (/images/covid-diary.pdf).
+Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch) gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn Du ein billiges automatisches Blutdruck-Messgerät hast sollte es Die diese beiden Zahlen anzeigen. Wenn Du ein Gerät hast notiere den systolischen Druck auf dem [Tagebuchformular] (/images/covid-diary.pdf).
 
-Wenn Sie kein Gerät zur Blutdruckmessung haben oder Probleme haben, einen Messwert zu erhalten, dann versuchen Sie stattdessen, die Kapillarauffüllzeit des Patienten zu testen. Prüfen Sie, indem Sie seine oder ihre Finger flach auf eine harte Oberfläche legen. Drücken Sie mit dem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfen Sie, wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte 1-2 Sekunden dauern. Länger als diese Zeitspanne kann auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung sein. 
+Wenn Du kein Gerät zur Blutdruckmessung hast oder damit nicht klar kommst versuche stattdessen die Kapillarauffüllzeit des Patienten zu testen. Lege seine oder ihre Finger flach auf eine harte Oberfläche. Drücke mit deinem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfe wie lange der Fingernagel braucht um wieder seine normale Farbe anzunehmen. Es sollte nicht länger als 1-2 Sekunden dauern, ansonsten kann das auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung (Flüssigkeitsmangel) sein. 
 
-Dehydrierung ist eine häufige Ursache für niedrigen Blutdruck, so dass die unmittelbare häusliche Pflege die Ermutigung des Patienten zum Essen und Trinken umfassen kann, insbesondere Nahrungsmittel oder Getränke, die essentielle Elektrolyte wie Kalium und Natrium enthalten. Schwindel ist ein häufiges Symptom von niedrigem Blutdruck, so dass der schwindelerregende Patient beim Positionswechsel (Liegen zum Sitzen, Sitzen zum Stehen) vorsichtig sein will; es kann zu einer Ohnmacht kommen. Aber wirklich, noch einmal, wenn es irgendwie nicht richtig aussieht - wenn der Blutdruck sehr niedrig ist, oder wenn der Patient normalerweise hohen Blutdruck hat und dieser viel niedriger als normal aussieht - dann holen Sie sich Hilfe.
+Dehydrierung ist eine häufige Ursache für niedrigen Blutdruck. Den Patienten/ die Patientin zum Trinken anregen ist hier wichitg, insbesondere was Nahrungsmittel oder Getränke angeht, die essentielle Elektrolyte wie Kalium und Natrium enthalten. Schwindel ist ein häufiges Symptom von niedrigem Blutdruck und tritt oft beim Positionswechsel des Patienten/ der Patientin auf; es kann zu einer Ohnmacht kommen. Aber wirklich, noch einmal, wenn irgendwas nicht richtig aussieht - wenn der Blutdruck sehr niedrig ist, oder wenn der Patient/ die Patientin normalerweise hohen Blutdruck hat und dieser viel niedriger als normal aussieht - dann hole Hilfe.
 
 ### Zu hohe oder zu niedrige Herzfrequenz
 
-Die Herzfrequenz ist leichter zu messen als der Blutdruck, und normalerweise geht eine hohe Herzfrequenz (über 100-110 Schläge pro Minute bei einem Erwachsenen) mit einem niedrigen Blutdruck einher. Kleinere Menschen und Kinder haben in der Regel eine höhere Herzfrequenz. Eine hohe Herzfrequenz allein ist möglicherweise kein Grund zur Beunruhigung, da sie auf Angst oder Dehydrierung hinweisen kann. Entspannungstechniken und etwas zu trinken/zu essen könnten angebracht sein. Aber auch hier sollten Werte, die außerhalb des normalen Bereichs liegen, Sie dazu veranlassen, sofort medizinische Hilfe aufzusuchen. Dies gilt insbesondere, wenn Sie eine schnelle Atmung zusammen mit niedrigem Blutdruck oder hoher Herzfrequenz und/oder Verwirrung feststellen. 
+Die Herzfrequenz ist leichter zu messen als der Blutdruck und normalerweise geht eine hohe Herzfrequenz (über 100-110 Schläge pro Minute bei einem Erwachsenen) mit einem niedrigen Blutdruck einher. Kleinere Menschen und Kinder haben in der Regel eine höhere Herzfrequenz. Eine hohe Herzfrequenz allein ist möglicherweise kein Grund zur Beunruhigung, da sie auf Angst oder Dehydrierung hinweisen kann. Entspannungstechniken und etwas zu trinken/zu essen könnten angebracht sein. Aber auch hier sollten Werte die außerhalb des normalen Bereichs liegen grund genug sein sofort medizinische Hilfe in Anspruch zu nehmen. Dies gilt insbesondere, wenn Du eine schnelle Atmung zusammen mit niedrigem Blutdruck oder hoher Herzfrequenz und/oder Verwirrung feststellst. 
 
 ### Sehr hohes Fieber, das plötzlich (wieder) auftritt
 
-Wenn Sie die Temperaturen regelmäßig überprüfen, sollten Sie sich bewusst sein, dass sich der Trend plötzlich umkehren kann, auch wenn es dem Patienten früher besser zu gehen schien. Regelmäßige Messungen sind wichtig. Ein sehr hohes Fieber (> 39° Celsius) ist ein Hinweis darauf, medizinische Hilfe zu suchen. Ebenso wie ein Fieber, das verschwindet und dann plötzlich wiederkommt. 
+Regelmäßige Messungen der Temperatur sind wichtig. Auch wenn die Temperatur zunächst sinkt kann sie schnell wieder ansteigen. Ein sehr hohes Fieber (> 39° Celsius) ist ein Grund medizinische Hilfe in Anspruch zu nehmen. Ebenso wie ein Fieber das verschwindet und dann plötzlich wiederkommt. 
 
 ### Hilferuf
 
-Wenn eines der oben genannten Symptome auftritt, ist die Lage ernst! Dies ist der Punkt, an dem Sie nach Möglichkeit keine Entscheidungen mehr auf der Grundlage eines Leitfadens aus dem Internet treffen sollten. Warten Sie nicht darauf, dass es schlimmer wird. Rufen Sie einen Arzt an oder rufen Sie die Notfallnummer an und bringen Sie den Patienten pronto in einen Krankenwagen. Bleiben Sie ruhig und berichten Sie die Situation, wie sie ist. Ihre Arbeit ist erledigt: Sie haben einen Patienten aus dem medizinischen System herausgehalten, als er gerade krank war. Jetzt ist es an der Zeit, dass sich die Fachleute darum kümmern. Die Daten, die Sie gesammelt haben, sollten Ihnen hoffentlich helfen, den Betreiber, die Mitarbeiter in der Ambulanz und die Ärzte davon zu überzeugen, dass Sie nicht einfach grundlos in Panik geraten und wahrscheinlich dazu beitragen werden, dass der Patient schneller die benötigte Versorgung erhält.
+Wenn eines der oben genannten Symptome auftritt ist die Lage ernst! Dies ist der Punkt, an dem Du nach Möglichkeit keine Entscheidungen mehr auf der Grundlage eines Leitfadens aus dem Internet treffen solltest! Warte nicht darauf, ob es schlimmer wird. Rufe die 112 an und/oder brschaffe den Patienten/die Patientin pronto in einen Krankenwagen. Bleibe ruhig und berichte die Situation wie sie ist. Deine Arbeit ist erledigt: Du hast einen Patienten/ eine Patientin lange aus dem medizinischen System herausgehalten. Jetzt ist es an der Zeit, dass sich die Fachleute drum kümmern. Die Daten die Du gesammelt hast sollten Dir hoffentlich danei helfen die Rettungskräfte davon zu überzeugen, dass Sie nicht einfach grundlos in Panik geraten sind und sie helfen dabei, dass der Patient schneller die benötigte Versorgung erhält.
