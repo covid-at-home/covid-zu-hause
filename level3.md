@@ -1,14 +1,14 @@
-## Ebene 3 -- Bettlägerig
+## Level 3 -- Du bist bettlägerig
 
-Alle guten Massnahmen der Ebene 2 haben nicht funktioniert und es wird immer schlimmer. Das bedeutet nicht, dass Du etwas falsch gemacht hast, mach einfach weiter. Aber jetzt wirst du bzw. der Patient / die Patientin schwächer. Er oder sie ist oft zu schwach um aus dem Bett aufzustehen und braucht möglicherweise zusätzliche Ermutigung zum Essen und Trinken. 
+Alle guten Maßnahmen des Level 2 haben nicht funktioniert und es wird immer schlimmer. Das bedeutet nicht, dass du etwas falsch gemacht hast - mach einfach weiter. Aber jetzt wirst du bzw. der Patient / die Patientin schwächer. Er oder sie ist oft zu schwach, um aus dem Bett aufzustehen, und braucht möglicherweise zusätzliche Ermutigung zu essen und zu trinken. 
 
 ### Wenn Du der Patient bist
 
-Das ist der Zeitpunkt an dem Du anfängst anderen Menschen in Deiner Umgebung zu erzählen, dass Du wirklich krank bist und dich Bettruhe halten musst. Sprich mit jemandem dem Du vertraust darüber, dass Du vermutlich Hilfe brauchen wirst. Lass diese Person(en) dieses Dokument lesen. Wenn Du Menschen in Deiner Umgebung hast die bereits COVID-19 hatten (was mit der Zeit immer häufiger vorkommen wird), dann wären diese Menschen natürlich die besten Betreuer/innen da sie vermutlich COVID-19-immun sind. Andernfalls versuche herauszufinden, was in Deiner Situation am schlausten ist. Warte damit auf keinen Fall bis zum letzten Moment, denn wenn die Krankheit fortschreitet wirst du kurzatmig was unweigerlich auch Deine Sprech- und Denkfähigkeit beeinträchtigt.
+Das ist der Zeitpunkt an dem du anfängst, anderen Menschen in deiner Umgebung zu erzählen, dass du wirklich krank bist und dich an Bettruhe halten musst. Sprich mit jemandem dem du vertraust darüber, dass du vermutlich Hilfe brauchen wirst. Lass diese Person(en) diese Webseite lesen. Wenn du Menschen in deiner Umgebung hast, die bereits COVID-19 hatten (was mit der Zeit immer häufiger vorkommen wird), dann wären diese Menschen natürlich die besten Betreuer/innen, da sie vermutlich COVID-19-immun sind. Andernfalls versuche herauszufinden, was in deiner Situation am schlausten ist. Warte damit auf keinen Fall bis zum letzten Moment, denn wenn die Krankheit fortschreitet, wirst du kurzatmig was unweigerlich auch Deine Sprech- und Denkfähigkeit beeinträchtigt.
 
-### In jedem Fall
+### Was in jedem Fall zu tun ist
 
-* Bleib  im Bett! An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patient/innen noch für eine begrenzte Zeit aus dem Bett aufstehen können. Toilette, eine kurze Dusche, einmal am Tag wiegen (Anmerkung in [Tagebuch](/images/covid-diary.pdf)). Lege so oft wie möglich neue Laken auf das Bett und wasche die alten Laken bei 60 Grad Celsius oder wärmer.
+* Bleibe  im Bett! An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patient/innen noch für eine begrenzte Zeit aus dem Bett aufstehen können. Toilette, eine kurze Dusche, einmal am Tag wiegen (Dokumentation im [Tagebuch](/images/covid-diary.pdf)). Wechsel so oft wie möglich die Bettwäsche, und wasche die alten Laken bei mindestens 60 Grad Celsius.
 * Lüfte den Raum so oft wie möglich.
 * Trinke mehr Wasser! (mehr als 2 Liter und weniger als 5 Liter pro Tag).
 * Versuche vitaminreiche Kost zu essen aber auch Multivitamingetränke sind in Ordnung.
