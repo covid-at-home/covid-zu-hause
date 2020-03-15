@@ -5,6 +5,8 @@ Nur, um das klarzustellen: **DIE RATSCHLÄGE UND ANWEISUNGEN VON GESUNDHEITSBEH�
 
 Zu dem Zeitpunkt, zu dem wir diese Seite Mitte März 2020 in Berlin, Deutschland erstellt haben ist noch vieles über das Virus  unklar. Die Zahl der Infizierten und Toten ist stetig gestiegen, zuletzt in Italien. Auch wenn es jetzt nicht der richtige Zeitpunkt für Panik ist - und es ist auch nie der richtige Zeitpunkt für Panik -, denken wir doch, dass es Zeit zum Nachdenken und zur Vorbereitung ist.
 
+![](/images/virus.png)
+
 Dieser Leitfaden basiert auf der Annahme, dass in den kommenden Monaten mehr Menschen als gewöhnlich entweder krank werden oder kranke Menschen um sich haben werden. Hoffen wir alle das Beste; aber wir gehen davon aus, dass die Krankenhäuser sehr beschäftigt, wenn nicht sogar überlastet sein werden. Wir müssen uns also mit der Wahrscheinlichkeit auseinandersetzen, dass einige der Menschen, die normalerweise in einem medizinischen Umfeld betreut werden würden zu Hause versorgt werden müssen. Wir hoffen, dass einige der Informationen hier ein gewisses Vertrauen im Umgang mit dieser Krankheit geben, was an und für sich schon die Belastung für Ärzte und Krankenschwestern verringert, die wohl in den kommenden Wochen und Monaten ziemlich beschäftigt sein werden.
 
 Dieser Leitfaden enthält allgemeine Ratschläge, die an vielen Orten anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind, aber du solltest deine Augen offen halten für spezifischere Informationen aus anderen glaubwürdigen Quellen die deine konkrekte Situation besser einschätzen können als wir.
