@@ -1,4 +1,4 @@
-## Level 4 -- jetzt übernehmen die Fachleute
+## Stufe 4 -- jetzt übernehmen die Fachleute
 
 Mit der Verschlimmerung der Symptome und der Verschlechterung des Patienten sollte die Häufigkeit, mit der die Messungen vorgenommen werden, steigen. Zu diesem Zeitpunkt sollte dein Protokoll alle paar Stunden Temperatur, Atmung und Herzfrequenz dokumentieren.
 
@@ -6,7 +6,7 @@ Die folgenden Dinge sind ein dringender medizinischen Notfall, der von Fachleute
 
 ### Bewusstlosigkeit
 
-Es gibt verschiedene Ebenen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktio) und notiere das.
+Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktio) und notiere das.
 
 Bei einem kurzen Bewusstseinsverlust kann es helfen den Patienten/ die Patientin zum Essen und Trinken zu motivieren und zu lüften. Bei mehr als einem kurzen (wenige Sekunden) Bewusstseinsverlust, rufe die 112 an.
 
@@ -30,7 +30,7 @@ Bei kognitiven Problem kann es helfen zu lüften, den Patienten/ die Patientin z
 ### Zu hohe oder zu niedrige Atemfrequenz
 Miss die Atemzüge pro Minute, indem Du Deine Hand nah genug so vor Nase und Mund hältst,dass du den Atem spühren kannst. Beobachte die Brust und/oder den Bauch, während du mit einer Uhr 60 Sekunden lang die Atemzüge zählst. Die Atmungsrate (RR) sollte zwischen 12 und 20 Atemzügen pro Minute liegen (aufschreiben nicht vergessen).
 
-Gute Belüftung des Zimmers und Aufrichten des Patienten/der Patientin kann bei Atemnot helfen. Es kann auch helfen, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen, und es gibt einige Schlafpositionen die auch das Atmen erleichtern können (siehe Ebene 3, Pflegearbeit).
+Gute Belüftung des Zimmers und Aufrichten des Patienten/der Patientin kann bei Atemnot helfen. Es kann auch helfen, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen, und es gibt einige Schlafpositionen die auch das Atmen erleichtern können (siehe Stufe 3, Pflegearbeit).
 
 ![](/images/dyspnoe.png)
 
