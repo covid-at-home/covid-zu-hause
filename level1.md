@@ -1,4 +1,4 @@
-## Level 1 -- Du bist Gesund (gut so)
+## Stufe 1 -- Du bist Gesund (gut so!)
 
 ### Lass dich nicht anstecken
 
