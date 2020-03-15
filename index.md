@@ -9,7 +9,7 @@ Dieser Leitfaden basiert auf der Annahme, dass in den kommenden Monaten mehr Men
 
 Dieser Leitfaden enthält allgemeine Ratschläge, die an vielen Orten anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind, aber du solltest deine Augen offen halten für spezifischere Informationen aus anderen glaubwürdigen Quellen die deine konkrekte Situation besser einschätzen können als wir.
 
-> **DU KANNST HELFEN, DIESE SEITE ZU VERBESSERN.** *Wenn du etwas siehst das verbessert werden könnte, lege bitte [hier](https://github.com/covid-zu-hause/covid-zu-hause.github.io/issues/new), ein "Issue" an. Wie du dort sehen kannst befindet sich das Backend dieser Website auf Github, wenn du also diese Umgebung kennst, kennst du wahrscheinlich viele weitere Möglichkeiten um zu helfen. Dies ist eine Gemeinschaftsprojekt und wir freuen uns über jeden Hinweis und jede Hilfe.*
+> **DU KANNST HELFEN, DIESE SEITE ZU VERBESSERN.** *Wenn du etwas siehst das verbessert werden könnte, lege bitte [hier](https://github.com/covid-zu-hause/covid-zu-hause.github.io/issues/new) ein "Issue" an. Wie du dort sehen kannst, befindet sich das Backend dieser Website auf Github, wenn du also diese Umgebung kennst, kennst du wahrscheinlich viele weitere Möglichkeiten um zu helfen. Dies ist eine Gemeinschaftsprojekt und wir freuen uns über jeden Hinweis und jede Hilfe.*
 
 &nbsp; 
 
