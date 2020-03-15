@@ -1,4 +1,4 @@
-## Level 2 -- Du hast auftretende Symptome
+## Stufe 2 -- Du hast auftretende Symptome
 
 Du solltest aufpassen, wenn du an einem der folgenden Symptome leidest:
 
@@ -42,7 +42,7 @@ Wenn die Symptome zum ersten Mal auftreten, ist der richtige Zeitpunkt, ein Kran
 
 Messe einige Male am Tag, vorzugsweise zu etwas regelmäßigen Zeiten oder an Punkten deiner normalen Routine oder deines normalen Rhythmus (z.B. jeden Morgen vor der Zubereitung von Kaffee oder Tee), die Temperatur, auch wenn du (noch) kein Fieber hast. Wiegen Sie möglichst einmal am Tag. Beachte auch die Atem- und Herzfrequenzen in Atmung und Schlägen pro Minute. So kannst du dich an diese Dinge gewöhnen, du kannst üben und (wenn du früh anfängst) kann es dir eine Vorstellung davon vermitteln, wie (mehr oder weniger) gesunde Werte für dich aussehen. Nicht unbedingt notwendige, aber zusätzliche nützliche Punkte für Blutdruck und Sauerstoffzufuhr (Geräte zur Messung dieser sind billig, siehe [Einkaufsseite](/shopping)). 
 
-Schreibe dann alle Symptome auf, die der Patient hat. Wenn er oder sie Schmerzen hat, wo und wann ist der Schmerz und wie stark auf einer Skala von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)? Wie schlimm ist der Husten? Welche Farbe, wenn Schleim produziert wird? Achte darauf, welche Medikamente der Patient gegebenenfalls einnimmt. Paracetamol ist eine gute Wahl zur Fieber- und Schmerzunterdrückung. Das Führen eines Krankheitstagebuchs hilft dir auch, den Überblick zu behalten, wie viel du wann eingenommen hast, um sicherzustellen, dass du Fieber angemessen behandelst, ohne dass du innerhalb von 24 Stunden mehr als die empfohlene Menge an fiebersenkenden Mitteln einnimmst. 
+Schreibe dann alle Symptome auf, die der Patient hat. Wenn er oder sie Schmerzen hat, wo und wann ist der Schmerz und wie stark auf einer Skala von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)? Wie schlimm ist der Husten? Welche Farbe, wenn Schleim produziert wird? Achte darauf, welche Medikamente der Patient gegnfalls einnimmt. Paracetamol ist eine gute Wahl zur Fieber- und Schmerzunterdrückung. Das Führen eines Krankheitstagebuchs hilft dir auch, den Überblick zu behalten, wie viel du wann eingenommen hast, um sicherzustellen, dass du Fieber angemessen behandelst, ohne dass du innerhalb von 24 Stunden mehr als die empfohlene Menge an fiebersenkenden Mitteln einnimmst. 
 
 ##### Ausdruckbares Krankheitstagebuch
 
@@ -50,7 +50,7 @@ Wir haben ein **ausdruckbares [Krankheitstagebuch](/images/covid-diary.pdf)** er
 
 Wenn du stattdessen dein eigenes Krankheitstagebuch führst, denke daran, dass es besser ist, es physisch als elektronisch zu führen. Dadurch werden deine medizinischen Daten aus Datenschutzsicht besser geschützt. Es erleichtert auch die Mitnahme des Tagebuchs in eine Arztpraxis oder ein Krankenhaus. Um das Krankheitstagebuch zu beginnen, wenn du dein eigenes erstellen möchtest, anstatt das Formular auszudrucken, kannst du ein Blatt leeres Computerpapier oder einen Schreibblock nehmen und es in Längsrichtung drehen (d.h. im Querformat). Schreibe die Felder, die du aufnehmen möchtest, links in die erste Spaltenüberschrift. Schreibe das Datum des ersten Tages ganz oben in die Kopfzeile der ersten Zeile. Dann fülle es einfach kontinuierlich aus. 
 
-Spalten sollten enthalten: 
+Die Spalten sollten enthalten: 
 - Tagesgewicht
 - Temperatur und Zeit
 - Fiebermedikamente: Medikament, Dosis, Zeit(en)
