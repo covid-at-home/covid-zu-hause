@@ -76,5 +76,4 @@ Wenn es hart auf hart kommt, musst du selbst entscheiden, welches Schutzniveau i
 
 **Vitamine** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/Bilder/Mehrfach-Vitamin.png)
-   >
    > Für den Fall, dass der Patient nicht mehr (viel) isst, aber noch trinkt. Vielleicht nehme die großen Multivitamin-Pillen, die in Wasser zischen - ein paar Tuben davon. Versuche, eine Sorte zu bekommen, die etwa das 1-2-fache der empfohlenen Tagesdosis aller darin enthaltenen Vitamine und Mineralien enthält, keine verrückten 1000%igen Megadosen.
