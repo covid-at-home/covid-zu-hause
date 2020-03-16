@@ -7,11 +7,29 @@ footer {
   display: none !important;
 }
 
-a#forkme_banner {
-  display: none !important;
+div.menu {
+    margin-top: 20px;
+    display: table;
+    width: 100%;
+    table-layout: fixed;
 }
 
-.redbox {
-  border: 2px solid red;
-  padding: 20px;
+div.menu > div.item {
+    display: table-cell;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 2%; /* any number is ok */
+}
+
+div.menu > div.item > a {
+    color: white;
+}
+
+div.menu > div.item > a:active {
+    color: red;
+}
+
+#header_wrap .inner {
+    padding: 50px 10px 10px 10px;
 }
