@@ -6,6 +6,8 @@ Alle guten Maßnahmen des Level 2 haben nicht funktioniert und es wird immer sch
 
 Das ist der Zeitpunkt an dem du anfängst, anderen Menschen in deiner Umgebung zu erzählen, dass du wirklich krank bist und dich an Bettruhe halten musst. Sprich mit jemandem dem du vertraust darüber, dass du vermutlich Hilfe brauchen wirst. Lass diese Person(en) diese Webseite lesen. Wenn du Menschen in deiner Umgebung hast, die bereits COVID-19 hatten (was mit der Zeit immer häufiger vorkommen wird), dann wären diese Menschen natürlich die besten Betreuer/innen, da sie vermutlich COVID-19-immun sind. Andernfalls versuche herauszufinden, was in deiner Situation am schlausten ist. Warte damit auf keinen Fall bis zum letzten Moment, denn wenn die Krankheit fortschreitet, wirst du kurzatmig was unweigerlich auch Deine Sprech- und Denkfähigkeit beeinträchtigt.
 
+![](/images/sick-in-bed.png)
+
 ### Was in jedem Fall zu tun ist
 
 * Bleibe im Bett! An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patient/innen noch für eine begrenzte Zeit aus dem Bett aufstehen können. Toilette, eine kurze Dusche, einmal am Tag wiegen (Dokumentation im [Tagebuch](/images/covid-diary.pdf)). Wechsel so oft wie möglich die Bettwäsche, und wasche die alten Laken bei mindestens 60 Grad Celsius.

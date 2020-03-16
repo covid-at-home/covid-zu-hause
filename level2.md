@@ -1,5 +1,7 @@
 ## Stufe 2 -- Du hast auftretende Symptome
 
+![](/images/sneezing-emoji.png)
+
 Du solltest aufpassen, wenn du an einem der folgenden Symptome leidest:
 
 * Fieber
@@ -43,6 +45,8 @@ Wenn die Symptome zum ersten Mal auftreten, ist der richtige Zeitpunkt, ein Kran
 Messe einige Male am Tag, vorzugsweise zu etwas regelmäßigen Zeiten oder an Punkten deiner normalen Routine oder deines normalen Rhythmus (z.B. jeden Morgen vor der Zubereitung von Kaffee oder Tee), die Temperatur, auch wenn du (noch) kein Fieber hast. Wiegen Sie möglichst einmal am Tag. Beachte auch die Atem- und Herzfrequenzen in Atmung und Schlägen pro Minute. So kannst du dich an diese Dinge gewöhnen, du kannst üben und (wenn du früh anfängst) kann es dir eine Vorstellung davon vermitteln, wie (mehr oder weniger) gesunde Werte für dich aussehen. Nicht unbedingt notwendige, aber zusätzliche nützliche Punkte für Blutdruck und Sauerstoffzufuhr (Geräte zur Messung dieser sind billig, siehe [Einkaufsseite](/shopping)). 
 
 Schreibe dann alle Symptome auf, die der Patient hat. Wenn er oder sie Schmerzen hat, wo und wann ist der Schmerz und wie stark auf einer Skala von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)? Wie schlimm ist der Husten? Welche Farbe, wenn Schleim produziert wird? Achte darauf, welche Medikamente der Patient gegnfalls einnimmt. Paracetamol ist eine gute Wahl zur Fieber- und Schmerzunterdrückung. Das Führen eines Krankheitstagebuchs hilft dir auch, den Überblick zu behalten, wie viel du wann eingenommen hast, um sicherzustellen, dass du Fieber angemessen behandelst, ohne dass du innerhalb von 24 Stunden mehr als die empfohlene Menge an fiebersenkenden Mitteln einnimmst. 
+
+[![](/images/diary-small-slanted.png)](/diary)
 
 ##### Ausdruckbares Krankheitstagebuch
 
