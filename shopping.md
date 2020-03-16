@@ -1,16 +1,16 @@
 ## Einkaufsliste
 
-Hier sind einige notwendige und praktische Dinge, die Sie haben sollten, wenn Sie sich um jemanden mit COVID-19 kümmern wollen. Nichts davon ist sehr teuer. Wenn wir Beispiele aufgenommen haben (im Allgemeinen auf der deutschen Version von Amazon), ist dies keine Kaufempfehlung und wir verdienen kein Geld, wenn Sie genau dieses (oder ein anderes) anklicken. Wenn wir Ihnen das Beispiel zeigen, meinen wir nichts anderes als *"so etwas "*. Nutzen Sie jeden beliebigen Online- oder Einzelhandelskanal, um etwas Ähnliches zu erhalten. 
+Hier sind einige notwendige und praktische Dinge, die du parat haben solltest, wenn du dich um jemanden mit COVID-19 kümmern willst. Nichts davon ist sehr teuer. Wenn wir Beispiele aufgenommen haben (im Allgemeinen anhand der deutschen Version von Amazon), ist dies keine Kaufempfehlung und wir verdienen kein Geld, wenn du genau dieses (oder ein anderes) Produkt anklickst. Wenn wir dir einen Artikel als Beispiel zeigen, meinen wir nichts anderes als *"so etwas"*. Nutzen jeden beliebigen Online- oder Einzelhandelskanal, um ähnliche Dinge zu erhalten. 
 
 &nbsp;
 
-### Muss sein
+### Must-have
 
 **Fieberthermometer** (2-10 EUR/USD) ([Beispiel](https://www.amazon.de/gp/product/B001NYHXYS))
 
    > ![](/images/thermometer.png)
    >
-   > So wichtig, dass Sie Ihren wahrscheinlich überprüfen sollten, wenn er schon seit Ewigkeiten im Badezimmerschrank liegt. Ist die Batterie noch in Ordnung? Es schadet wirklich nicht, zwei zu haben, nur für den Fall. Mit 2-10 Dollar sind sie ein großartiges Geschenk (und da sie vielleicht anal eingeführt werden, um eine genauere Messung zu erhalten, sind sie vielleicht keine Gegenstände, die man jemandem ausleihen möchte).
+   > Ein Fieberthermometer is so wichtig, dass du deines wahrscheinlich überprüfen solltest, wenn er schon seit Ewigkeiten im Badezimmerschrank liegt. Ist die Batterie noch in Ordnung? Es schadet wirklich nicht, zwei zu haben, nur für den Fall. Mit 2-10 Dollar sind sie auch ein großartiges Geschenk (und da sie vielleicht anal eingeführt werden, um eine genauere Messung zu erhalten, sind sie vielleicht keine Gegenstände, die man jemandem ausleihen möchte).
 
 **Genügend Laken, Kissenbezüge, Handtücher**
    
