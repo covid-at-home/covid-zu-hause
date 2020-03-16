@@ -1,7 +1,7 @@
 Diese Website wurde wegen der COVID-19 Pandemie ins Leben gerufen, aber viele der Ratschläge auf dieser Seite können auch in anderen Situationen anwendbar sein. Vieles von dem, was hier dargestellt wird, mag für manche Menschen selbstverständllich klingen, aber wir fanden es trotzdem gut, einige Checklisten und Ratschläge für verschiedene Krankheitsstadien an einem Ort zu sammeln. Wir haben uns mit Krankenpflegern und Krankenpflegerinnen sowie Ärztinnen und Ärzten über die Ratschläge beraten. 
 Das ändert aber nichts daran, dass die Texte von medizinischen Laien verfasst wurden. Bitte berücksichtigt das. 
 
-Nur, um das klarzustellen: **DIE RATSCHLÄGE UND ANWEISUNGEN VON GESUNDHEITSBEHÖRDEN, ÄRZTINNEN und ÄZTEN SOWIE PFLEGEKRÄFTEN GEHEN IMMER VOR**, wenn du die Wahl hast zwischen solchen Informationen und Informationen, die du im Internet gefunden hast, also auch diesen hier.
+Nur, um das klarzustellen: **DIE RATSCHLÄGE UND ANWEISUNGEN VON GESUNDHEITSBEHÖRDEN, ÄRZTINNEN und ÄRZTEN SOWIE PFLEGEKRÄFTEN GEHEN IMMER VOR**, wenn du die Wahl hast zwischen solchen Informationen und Informationen, die du im Internet gefunden hast, also auch diesen hier.
 
 Zu dem Zeitpunkt, zu dem wir diese Seite Mitte März 2020 in Berlin, Deutschland erstellt haben ist noch vieles über das Virus  unklar. Die Zahl der Infizierten und Toten ist stetig gestiegen, zuletzt in Italien. Auch wenn es jetzt nicht der richtige Zeitpunkt für Panik ist - und es ist auch nie der richtige Zeitpunkt für Panik -, denken wir doch, dass es Zeit zum Nachdenken und zur Vorbereitung ist.
 
