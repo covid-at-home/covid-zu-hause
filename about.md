@@ -22,6 +22,7 @@ This site is better because we got help from (in alphabetical order):
 * Max Rodriguez Gomez
 * Katrin Schmidt
 * Andreas Steinhauser
+* Lara Rönnebeck
 
 ### Impressum
 
