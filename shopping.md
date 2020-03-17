@@ -60,7 +60,7 @@ Wenn es hart auf hart kommt, musst du selbst entscheiden, welches Schutzniveau i
    > Kleines Gerät, das an deinem Finger befestigt wird und die Herzfrequenz (die auch auf andere Weise leicht zu messen ist) und die Sauerstoffsättigung im Blut (die auf andere Weise schwer zu messen ist) anzeigt.
 
 **Blutdruckmesser** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07KY867ZH))
-   > ![](/Bilder/Blutdruck.png)
+   > ![](/images/blood-pressure.png)
    >
    > Es gibt einfache Tricks, um zu sehen, ob der Blutdruck einer Person zu niedrig wird (siehe den Haupttext auf dieser Website). Es schadet jedoch nicht, dies objektiver messen zu können, insbesondere wenn du einen Trend im Blutdruck des Patienten sehen/zeigen willst.
 
@@ -75,5 +75,5 @@ Wenn es hart auf hart kommt, musst du selbst entscheiden, welches Schutzniveau i
    > Oftmals als "Gesichtssauna" oder wie auch immer sie genannt werden bezeichnet, sind dies nur ein Gerät, das Dampf abgibt, der nicht zu heiß zum Atmen ist. Jede andere Methode, die Dampf erzeugt, ist ebenfalls in Ordnung. Achte nur darauf, dass du mit zu heißem Dampf keinen Schaden anrichtest. Das Gerät läuft mit z.B. destilliertem Wasser ([Beispiel](https://www.amazon.de/gp/product/B07J5Y95MQ)), insbesondere an Orten, an denen das Leitungswasser einen hohen Kalziumgehalt aufweist. 
 
 **Vitamine** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/Bilder/Mehrfach-Vitamin.png)
+   > ![](/Bilder/multi-vitamin.png)
    > Für den Fall, dass der Patient nicht mehr (viel) isst, aber noch trinkt. Vielleicht nehme die großen Multivitamin-Pillen, die in Wasser zischen - ein paar Tuben davon. Versuche, eine Sorte zu bekommen, die etwa das 1-2-fache der empfohlenen Tagesdosis aller darin enthaltenen Vitamine und Mineralien enthält, keine verrückten 1000%igen Megadosen.
