@@ -8,24 +8,12 @@ Die folgenden Dinge sind ein dringender medizinischen Notfall, der von Fachleute
 
 Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktio) und notiere das.
 
-Bei einem kurzen Bewusstseinsverlust kann es helfen den Patienten/ die Patientin zum Essen und Trinken zu motivieren und zu lüften. Bei mehr als einem kurzen (wenige Sekunden) Bewusstseinsverlust, rufe die 112 an.
+Bei einem kurzen Bewusstseinsverlust kann es helfen den/die Patienten/in zum Essen und Trinken zu motivieren und zu lüften (sofern der/die Patient/in sich schnell erholt und wieder vollständig wach ist!). Auch ein kurzer Bewusstseinsverlust ist ernstzunehmen, hol Hilfe.
 
 ### Kognitive Probleme/Verwirrung
 
-Wahrscheinlich kennst du den Patienten/ die Patientin. Deshalb solltest du ohne komplizierte Tests sagen können, wenn er oder sie geistig nicht mehr ganz klar ist. Trotzdem beschreiben wir hier die abgekürzte mentale Testpunktzahl (AMTS) die manchmal zur Beurteilung von kognitiven Problemen verwendet wird. Stelle folgende Fragen, und für jede richtige Antwort gibt es einen Punkt. Ein Wert von weniger als oder gleich 8 deutet auf kognitive Probleme hin. 
+Du kennst den/die Patient/in wahrscheinlich genug, um zu erkennen, wenn er/sie verwirrt sein sollte ohne irgendwekche medizischen Tests anzuwenden. Plötzlich einsetztende Verwirrung ist ernst zu nehmen. Es ist Zeit Hilfe zu holen.
 
-- Wie alt bist du? 
-- Wie spät ist es (ungefähr)? 
-- Bitte den Patienten/ die Patientin, z.B. eine Adresse zu wiederholen die du sagst (z.B. Prenzlauer Alle 45) 
-- Welches Jahr haben wir? 
-- Wie heißt die Person, die hier vor dir steht?
-- Kann der Patient/ die Patientin zwei ihm/ihr bekannte Personen (z.B. Freunde oder Ärzte) erkennen?
-- Wie lautet dein Geburtsdatum? 
-- In welchem Jahr endete der Zweite Weltkrieg? 
-- Wie heisst der/die aktuelle Bundeskanzler/in?
-- Zähle von 10 bis 1 rückwärts.
-
-Bei kognitiven Problem kann es helfen zu lüften, den Patienten/ die Patientin zu ermutingen zu trinken oder zu essen und fiebersenkende Medikamente zu nehmen. Aber ganz im Ernst, noch einmal: neu auftretende und läger andauernde Verwirrung ist ein schlechtes Zeichen. Zeit, Hilfe zu holen!
 
 ### Zu hohe oder zu niedrige Atemfrequenz
 Miss die Atemzüge pro Minute, indem Du Deine Hand nah genug so vor Nase und Mund hältst, dass du den Atem spühren kannst. Beobachte die Brust und/oder den Bauch, während du mit einer Uhr 60 Sekunden lang die Atemzüge zählst. Die Atemfrequnz (AF) sollte zwischen 12 und 20 Atemzügen pro Minute liegen (aufschreiben nicht vergessen).
