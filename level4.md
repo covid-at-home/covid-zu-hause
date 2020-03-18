@@ -12,10 +12,10 @@ Bei einem kurzen Bewusstseinsverlust kann es helfen den/die Patienten/in zum Ess
 
 ### Kognitive Probleme/Verwirrung
 
-Du kennst den/die Patient/in wahrscheinlich genug, um zu erkennen, wenn er/sie verwirrt sein sollte ohne irgendwekche medizischen Tests anzuwenden. Plötzlich einsetztende Verwirrung ist ernst zu nehmen. Es ist Zeit Hilfe zu holen.
-
+Du kennst den/die Patient/in wahrscheinlich genug, um zu erkennen, wenn er/sie verwirrt sein sollte ohne irgendwelche medizischen Tests anzuwenden. Plötzlich einsetztende Verwirrung ist ernst zu nehmen. Es ist Zeit Hilfe zu holen.
 
 ### Zu hohe oder zu niedrige Atemfrequenz
+
 Miss die Atemzüge pro Minute, indem Du Deine Hand nah genug so vor Nase und Mund hältst, dass du den Atem spühren kannst. Beobachte die Brust und/oder den Bauch, während du mit einer Uhr 60 Sekunden lang die Atemzüge zählst. Die Atemfrequnz (AF) sollte zwischen 12 und 20 Atemzügen pro Minute liegen (aufschreiben nicht vergessen).
 
 Gute Belüftung des Zimmers und Aufrichten des Patienten/der Patientin kann bei Atemnot helfen. Es kann auch helfen, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen, und es gibt einige Schlafpositionen, die ebenfalls das Atmen erleichtern können (siehe Stufe 3, Pflegearbeit).
