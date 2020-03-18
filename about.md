@@ -1,32 +1,37 @@
   
-## About covid-at-home.info
+## Über covid-zu-hause.info
 
-This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
+Diese Websie hat als private Initative von Rop Gonggrijp and Verq Wilde, die viel der anfänglichen Recherche geleistet haben und einen Großteil der Texte ([covid-at-home.info](covid-at-home.info) geschrieben haben. Nach kurzer Zeit kamen dann immer mehr Personen dazu, die beim Korrekturlesen, Übersetzen und Ergänzen geholfen haben. Lasst uns diese Website gemeinsam gestallten. Die deutsche Übersetzung ist mitterweile fast fertig und habe ihr nun vor euch. Mit der Zeit sollen immer mehr Übersetzungen hinzu kommen.
 
-The goal of covid-at-home is to share (in still somehat concise form) what we have learned and provide no-nonsense practical information in dealing with the COVID-19 pandemic on an open and non-commercial basis. The main assumption is that at least in some places COVID-19 will at least temporarily swamp the healthcare system, so the more people feel some confidence in dealing with sick people at home, the fewer people will show up at doctor's offices and hospitals unnecessarily. At the same time, people still need to know when patients need medical attention. 
+Das Ziel von Covid-zu-Hause ist Informationen, darüber was wir bereits gelernt haben und wie man möglichst sinnvoll mit der COVID-19 Pandemie umgeht, offen und ohne finanzielle Interessen, zu teilen. Die Hauptannahme ist, dass zumindest in manchen Gebieten die Krankenhäuser und Arztpraxen überlaufen sein werde. Dann ist es sinnvoll, dass möglichst Viele wissen, wie man sich so lange wie möglich zu Hause selbst helfen kann und wissen, wann medizinische Hife notwendig wird. Auf diese Weise sind weniger Menschen unnötigerweise in den Krankenhäusern und entlasten somit das System.
 
-Want to help? Yay! We have a [whole section](/help) dedicated to that.
+Du willst helfen? Cool! Wir haben einen ganzen [Bereicht](/help) darüber
 
-### License
 
-This site is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) and no money is being made here in any way. There are no sponsors, and there is no opportunity to donate anything here except your time and energy.
+### Lizenz
 
-### Thank you
+Diese Seite ist unter einer [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) und hier wird in keiner Weise Geld eingenommen. Es gibt ekine Sponsoren und es gibt keien Möglichkeit etwas zu spenden außer Zeit und Energie.
+
+
+### Dankeschön
 
 This site is better because we got help from (in alphabetical order):
+
+Diese Seite ist besser, weil wir hilfe bekommen haben (in alphabetischer Reihenfolge):
 
 * Jill Bähring
 * Lucky Green
 * Cecile Landman
 * Jakob Richers
 * Max Rodriguez Gomez
+* Lara Rönnebeck
 * Katrin Schmidt
 * Andreas Steinhauser
-* Lara Rönnebeck
+
 
 ### Impressum
 
-(German law requires websites to list a publisher.)
+(Die deutsche Gesetzgebung fordert, dass Webisten einen Veröffentlichenden nennen.)
 
 Rop Gonggrijp & Vera Wilde<br>
 Linienstraße 127<br>
