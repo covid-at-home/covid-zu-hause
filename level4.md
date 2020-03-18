@@ -8,7 +8,7 @@ Die folgenden Dinge sind ein dringender medizinischen Notfall, der von Fachleute
 
 Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktio) und notiere das.
 
-Bei einem kurzen Bewusstseinsverlust kann es helfen den*die Patienten*Patientin zum Essen und Trinken zu motivieren und zu lüften (sofern der*die Patientin . Bei mehr als einem kurzen (wenige Sekunden) Bewusstseinsverlust, rufe die 112 an.
+Bei einem kurzen Bewusstseinsverlust kann es helfen den/die Patienten/in zum Essen und Trinken zu motivieren und zu lüften (sofern der/die Patient/in sich schnell erholt und wieder vollständig wach ist!). Auch ein kurzer Bewusstseinsverlust ist ernstzunehmen, hol Hilfe.
 
 ### Kognitive Probleme/Verwirrung
 
