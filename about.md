@@ -1,4 +1,3 @@
-  
 ## Über covid-zu-hause.info
 
 Diese Websie hat als private Initative von Rop Gonggrijp and Verq Wilde, die viel der anfänglichen Recherche geleistet haben und einen Großteil der Texte ([covid-at-home.info](covid-at-home.info) geschrieben haben. Nach kurzer Zeit kamen dann immer mehr Personen dazu, die beim Korrekturlesen, Übersetzen und Ergänzen geholfen haben. Lasst uns diese Website gemeinsam gestallten. Die deutsche Übersetzung ist mitterweile fast fertig und habe ihr nun vor euch. Mit der Zeit sollen immer mehr Übersetzungen hinzu kommen.
@@ -19,14 +18,9 @@ This site is better because we got help from (in alphabetical order):
 
 Diese Seite ist besser, weil wir hilfe bekommen haben (in alphabetischer Reihenfolge):
 
-* Jill Bähring
-* Lucky Green
-* Cecile Landman
-* Jakob Richers
-* Max Rodriguez Gomez
-* Lara Rönnebeck
-* Katrin Schmidt
-* Andreas Steinhauser
+{% for person in site.data.thankyou.people %}
+* {{ person.name }}
+{% endfor %}
 
 
 ### Impressum
@@ -39,3 +33,5 @@ Linienstraße 127<br>
 Germany
 
 e-mail: [team@covid-at-home.info](mailto:team@covid-at-home.info)
+
+
