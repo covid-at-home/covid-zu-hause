@@ -60,6 +60,7 @@ Am Ende wird von alles ausreichend da sein müssen, wenn wir diese Krise überwi
    > ![](/images/pulse-oxi.png)
    >
    > Kleines Gerät, das an deinem Finger befestigt wird und die Herzfrequenz (die auch auf andere Weise leicht zu messen ist) und die Sauerstoffsättigung im Blut (die auf andere Weise schwer zu messen ist) anzeigt.
+   
 
 * **Blutdruckmesser** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07KY867ZH))
    > ![](/images/blood-pressure.png)
