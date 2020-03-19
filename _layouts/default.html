@@ -15,7 +15,7 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-    
+
 {% seo %}
   </head>
 
@@ -24,21 +24,22 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-        
+
           <div class="languages">
-            <div class="item"><a href="https://covid-at-home.info">English</a></div>
-<!--            <div class="item"><a href="https://covid-zu-hause.info">Deutsch</a></div> -->
-            <div class="item"><a href="https://covid-en-casa.info">Español</a></div>
+            {% for language in site.data.languages.languages %}
+              {% if language.url != site.url %}
+                <div class="item"><a href="{{ language.url }}">{{ language.title }}</a></div>
+              {% endif %}
+            {% endfor %}
           </div>
 
-          <a href="https://www.covid-zu-hause.info/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <a href="{{ site.url }}"><h1 id="project_title">{{ site.title }}</h1></a>
+          <h2 id="project_tagline">{{ site.description }}</h2>
 
           <div class="menu">
-            <div class="item"><a href="/">Hauptseite</a></div>
-            <div class="item"><a href="/shopping">Einkaufsliste</a></div>
-            <div class="item"><a href="/help">Ich möchte helfen!</a></div>            
-            <div class="item"><a href="/about">Über uns</a></div>
+            {% for item in site.data.mainmenu.items %}
+                <div class="item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+            {% endfor %}
           </div>
 
         </header>
@@ -60,7 +61,7 @@
       </footer>
     </div>
 
-	<script data-goatcounter="https://covid-zu-hause.goatcounter.com/count" 
-		async src="/count.js"></script>
+    <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" 
+        async src="/count.js"></script>
   </body>
 </html>

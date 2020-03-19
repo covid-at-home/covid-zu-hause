@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Covid zu hause
 description: Leitfaden für die Betreuung von COVID-19 Patienten
-google_analytics: UA-160293705-1
-show_downloads: false
-github:
-  is_project_page: false
+url: https://covid-zu-hause.info
+slug: covid-zu-hause
+goatcounter: covid-zu-hause
+

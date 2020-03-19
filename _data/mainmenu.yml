@@ -1,0 +1,13 @@
+items:
+
+- title: Hauptseite
+  url: /
+  
+- title: Einkaufsliste
+  url: /shopping
+
+- title: Ich möchte helfen!
+  url: /help
+            
+- title: Über uns
+  url: /about
