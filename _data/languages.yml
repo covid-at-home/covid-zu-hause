@@ -8,10 +8,13 @@ languages:
 
 - title: Deutsch
   url: https://covid-zu-hause.info
-  
+
+- title: Deutsch (Einfache Sprache)
+  url: https://julianroesner.github.io/covid-zu-hause.github.io/
+
 - title: Español
   url: https://covid-en-casa.info
-  
+
 #- title: Français
 #  url: https://covid-chez-soi.info
 
