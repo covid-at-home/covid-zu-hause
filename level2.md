@@ -12,11 +12,11 @@ Du solltest aufpassen, wenn du an einem der folgenden Symptome leidest:
 * Kurzatmigkeit
 * Appetitlosigkeit
 
-Anfängliche Symptome können auch Kopfschmerzen, Schüttelfrost, Schwindel, eine verstopfte Nase, Bauchschmerzen, Durchfall, Übelkeit und Erbrechen sein. In späteren Stadien des Krankheitsverlaufes können auch Geruchs- oder Geschmacksverlust für mehrere Tage auftreten.
+Am Anfang können weitere Syptome auftreten Dazu gehören Kopfschmerzen, Schüttelfrost, Schwindel, eine verstopfte Nase, Bauchschmerzen, Durchfall, Übelkeit und Erbrechen. In späteren Krankheitsverlauf kann der Geruchs- oder Geschmackssinn für mehrere Tage verloren gehen.
 
-Ist COVID-19 an dem Ort, an dem du lebst, verbreitet? Oder warst du in einem betroffenen Gebiet oder in der Nähe von jemandem, der in einem betroffenen Gebiet war? Dann könnten deine Symptome sehr wohl COVID-19 sein. Aber denke daran: In vielen Fällen sind die Chancen, dass es sich um etwas anderes handelt, noch größer.
+Ist COVID-19 an dem Ort, an dem du lebst, verbreitet? Warst du in einem betroffenen Gebiet? Oder warst du in der Nähe von jemandem, der in einem betroffenen Gebiet war? Dann könnten deine Symptome sehr wohl COVID-19 sein. Aber denke daran: In vielen Fällen sind die Chancen, dass es sich um etwas anderes handelt, noch größer.
 
-> Hinweis: Fieber ist nicht subjektiv. Du brauchst ein Thermometer (oder zwei) und ein Fiebertagebuch mit mindestens der Tagestemperatur. Wenn du die Temperatur rektal (d.h. im Hintern) misst, ist sie präziser. Stelle sicher, dass du genügend Tücher und Alkohol hast, um das Thermometer nach jedem Gebrauch zu reinigen. Wenn du die Temperatur oral misst, solltest du 20 Minuten lang vorher nichts essen oder trinken. Notiere die Methode in jedem Fall in deinem Fiebertagebuch, damit das Gesundheitspersonal weiß, um welche Methode es sich handelt (zu den oralen Temperaturen werden oft etwa 0,7 Grad Celsius addiert).
+> Hinweis: Fieber ist keine Gefühlssache. Es muss gemessen werden. Du brauchst ein Thermometer (oder zwei) und ein Fiebertagebuch. Im Fiebertagebuch hälst du mindestens die Tagestemperatur fest. Wenn du die Temperatur rektal (d.h. im Hintern) misst, ist sie präziser. Reinige das Thermometer nach jedem Gebrauch mit einem Tuch und Alkohol. Stelle sicher, dass du genügend Tücher und Alkohol hast. Wenn du die Temperatur im Mund misst, solltest du 20 Minuten lang vorher nichts essen oder trinken. Notiere die Methode in jedem Fall in deinem Fiebertagebuch. Dadurch weiß Gesundheitpersonal, um welche Methode es sich handelt (zu den oralen Temperaturen werden oft etwa 0,7 Grad Celsius addiert).
 
 ### Diagnose
 
