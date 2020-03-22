@@ -1,6 +1,6 @@
 ## Einkaufsliste
 
-Hier sind einige notwendige und praktische Dinge, die du bereit haben solltest, wenn du dich um jemanden mit COVID-19 kümmern willst. Nichts davon ist sehr teuer. Die vorgestellten Produktbeispiele sind keine Kaufempfehlung und wir verdienen kein Geld, wenn du genau dieses (oder ein anderes) Produkt anklickst. Wenn wir dir einen Artikel als Beispiel zeigen, meinen wir nichts anderes als *"so etwas"*. Nutze jeden beliebigen Online- oder Einzelhandelskanal, um ähnliche Dinge zu erhalten. 
+Hier sind einige notwendige und praktische Dinge. Diese solltest du bereit haben, wenn du dich um jemanden mit COVID-19 kümmern willst. Nichts davon ist sehr teuer. Die vorgestellten Produktbeispiele sind keine Kaufempfehlung. Wir verdienen kein Geld, wenn du genau dieses (oder ein anderes) Produkt anklickst. Wenn wir dir einen Artikel als Beispiel zeigen, meinen wir nichts anderes als *"so etwas"*. Nutze jeden beliebigen Online- oder Einzelhandelskanal, um ähnliche Dinge zu erhalten. 
 
 &nbsp;
 
@@ -10,11 +10,11 @@ Hier sind einige notwendige und praktische Dinge, die du bereit haben solltest, 
 
    > ![](/images/thermometer.png)
    >
-   > Ein Fieberthermometer ist so wichtig, dass du deines überprüfen solltest, wenn es schon seit Ewigkeiten im Badezimmerschrank liegt. Ist die Batterie noch in Ordnung? Es schadet wirklich nicht, zwei zu haben, nur für den Fall. Mit 2-10 Dollar sind sie auch ein großartiges Geschenk. Sie werden vielleicht anal eingeführt, um eine genauere Messung zu erhalten. Daher sind sie keine Gegenstände, die man jemandem ausleihen möchte.
+   > Ein Fieberthermometer ist sehr wichtig. Du solltest deines unbedingt überprüfen. Gerade, wenn es schon seit Ewigkeiten im Badezimmerschrank liegt. Ist die Batterie noch in Ordnung? Es schadet wirklich nicht, zwei Thermomether zu haben, nur für den Fall. Mit 2-10 Dollar sind sie auch ein großartiges Geschenk. Sie werden vielleicht anal eingeführt, um eine genauere Messung zu erhalten. Daher sind sie keine Gegenstände, die man jemandem ausleihen möchte.
 
 * **Genügend Laken, Kissenbezüge, Handtücher**
    
-   > Dinge, die fast jeder im Haus hat - aber nur, um sicher zu gehen: Wenn Menschen krank werden, möchten Sie die Bettwäsche oft wechseln und du solltest in diesem Fall auch mehr Handtücher verwenden.
+   > Dinge, die fast jeder im Haus hat - aber nur, um sicher zu gehen: Wenn Menschen krank werden, möchten Sie die Bettwäsche oft wechseln. Und du solltest in diesem Fall auch mehr Handtücher verwenden.
    
 * **Reinigungsmittel, Bleichmittel**
 
@@ -30,7 +30,7 @@ In diesem Abschnitt werden Dinge beschrieben, die du versuchen kannst, wenn du d
 
 Zunächst einmal ist dir vielleicht nicht bekannt, welche Arten von Schutz in welchen Situationen erforderlich sind. Außerdem ist es überraschend schwierig, sicherzustellen, dass deine Maske richtig sitzt. Schaue dir unbedingt einige YouTube-Videos an, in denen du erfährst, wie du deine PSA sicher anlegen, verwenden und entsorgen kannst. So stellst du sicher, dass sie wirklich zu deinem Schutz und zum Schutz anderer funktioniert. 
 
-Einige Menschen haben Panikkäufe getätigt und einige Unternehmen haben Preisdruck ausgeübt. Deshalb sind wichtige Ausrüstungsgegenstände wie Masken an einigen Orten nicht einmal für Ärzte und Krankenschwestern verfügbar (und die brauchen sie nun wirklich). Wenn du dich in einem frühen Stadium der Pandemie befindest, stellt deine Regierung möglicherweise Masken für Menschen bereit, die mit COVID-19 leben und/oder sich um Menschen mit COVID-19 kümmern. 
+Einige Menschen haben Panikkäufe getätigt und einige Unternehmen haben Preisdruck ausgeübt. Deshalb sind wichtige Ausrüstungsgegenstände wie Masken an einigen Orten nicht einmal für Ärzte und Krankenschwestern verfügbar. Gerade diese bruachen sie nun wirklich. Wenn du dich in einem frühen Stadium der Pandemie befindest, stellt deine Regierung möglicherweise Masken für Menschen bereit, die mit COVID-19 leben und/oder sich um Menschen mit COVID-19 kümmern. 
 
 Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise überwinden wollen. **Aber bitte höre unbedingt auf offizielle Anweisungen, was nicht gekauft werden sollte! Sonst werden für die Ärzte und Krankenschwestern Dinge unerreichbar, die sie brauchen.** 
 

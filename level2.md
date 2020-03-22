@@ -20,7 +20,7 @@ Ist COVID-19 an dem Ort, an dem du lebst, verbreitet? Warst du in einem betroffe
 
 ### Diagnose
 
-Richtlinien für den Test auf COVID-19 hängen davon ab, wo du dich befindest und in welchem Stadium die Pandemie in deinem Gebiet ist. Schaue online, rufe die offiziellen Hotlines an und befolge die offiziellen Richtlinien. Ziehe in Erwägung, zu einem Drive-Through-Testzentrum zu fahren, wenn es in deiner Gegend ein solches gibt und der\*die Patient\*in für den Test geeigent ist. **Du solltest nicht einfach unangekündigt in einer Arztpraxis oder einem Krankenhaus auftauchen, wenn du Symptome verspürst.
+Richtlinien für den Test auf COVID-19 hängen davon ab, wo du dich befindest und in welchem Stadium die Pandemie in deinem Gebiet ist. Schaue online, rufe die offiziellen Hotlines an und befolge die offiziellen Richtlinien. Ziehe in Erwägung, zu einem Drive-Through-Testzentrum zu fahren, wenn es in deiner Gegend ein solches gibt und der\*die Patient\*in für den Test geeigent ist. **Du solltest nicht einfach unangekündigt in einer Arztpraxis oder einem Krankenhaus auftauchen, wenn du Symptome verspürst.**
 
 > Denke daran: Du solltest dich nicht in Krankenhäusern aufhalten, wenn du nicht dort sein musst: Du und/oder der\*die Patient\*in laufen Gefahr, sich mit weiteren Infektionen anzustecken. Die Beschaffenheit von Krankenhäusern sorgt für resistentere Infektionen gegen Standardbehandlungen. Dies gilt gerade bakterielle oder pilzartige Infektionen. Außerdem: Viele Krankenhäuser werden überlastet sein.
 

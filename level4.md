@@ -1,14 +1,14 @@
 ## Stufe 4 -- jetzt übernehmen die Fachleute
 
-Wenn sich Symptome verschlimmern oder der Zustand des Patienten verschlechtert, sollte häufiger gemessen werden. Protokolliere zu diesem Zeitpunkt alle paar Stunden Temperatur, Atmung und Herzfrequenz dokumentieren.
+Wenn sich Symptome verschlimmern oder der Zustand des\*der Patienten\*in verschlechtert, sollte häufiger gemessen werden. Protokolliere zu diesem Zeitpunkt alle paar Stunden Temperatur, Atmung und Herzfrequenz dokumentieren.
 
 Die folgenden Dinge sind ein dringender medizinischen Notfall, der von Fachleuten behandelt werden muss:
 
 ### Bewusstlosigkeit
 
-Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktion). Notiere das.
+Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen\*ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktion). Notiere das.
 
-Bei einem kurzen Bewusstseinsverlust kann es helfen den/die Patienten/in zum Essen und Trinken zu motivieren und zu lüften (sofern der/die Patient/in sich schnell erholt und wieder vollständig wach ist!). Auch ein kurzer Bewusstseinsverlust ist ernstzunehmen, hol Hilfe.
+Bei einem kurzen Bewusstseinsverlust kann es helfen den\*die Patient\*in zum Essen und Trinken zu motivieren und zu lüften (sofern der/die Patient/in sich schnell erholt und wieder vollständig wach ist!). Auch ein kurzer Bewusstseinsverlust ist ernstzunehmen, hol Hilfe.
 
 ### Kognitive Probleme/Verwirrung
 
