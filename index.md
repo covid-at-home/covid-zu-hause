@@ -10,7 +10,7 @@ Dieser Leitfaden basiert auf der Annahme, dass in den kommenden Monaten mehr Men
 
 Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind. Dies ist allerdings auf Grund der großen Regionalen unterschiede schwierig immer zu gewährleisten. Deshalb solltest du deine Augen offen halten um spezifischere Informationen aus anderen glaubwürdigen Quellen, die die regionale Situation betreffen, zu beziehen.
 
-[![Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/ "Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.")
 
 Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind. Dies ist allerdings auf Grund der großen Regionalen unterschiede schwierig immer zu gewährleisten. Deshalb solltest du deine Augen offen halten um spezifischere Informationen aus anderen glaubwürdigen Quellen, die die regionale Situation betreffen, zu beziehen. 
 
