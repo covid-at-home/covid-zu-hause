@@ -1,6 +1,6 @@
-The following recommendations were taken from the [Austrian Federal Ministry of Defense](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (go figure!). All of it seems good advice in the present circumstances. 
+Die folgenden Empfehlungen wurden vom [Österreichischen Verteidigungsministerium übernommen.](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (go figure!). Unter den gegebenen Umständen scheinen das alles gute Hinweise zu sein. 
 
-## Psychological advice related to COVID-19
+## Psychologische Empfehlungen zu COVID-19
 
 
 

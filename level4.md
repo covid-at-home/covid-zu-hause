@@ -1,12 +1,12 @@
 ## Stufe 4 -- jetzt übernehmen die Fachleute
 
-Mit der Verschlimmerung der Symptome und der Verschlechterung des Patienten sollte die Häufigkeit, mit der die Messungen vorgenommen werden, steigen. Zu diesem Zeitpunkt sollte dein Protokoll alle paar Stunden Temperatur, Atmung und Herzfrequenz dokumentieren.
+Wenn sich Symptome verschlimmern oder der Zustand des Patienten verschlechtert, sollte häufiger gemessen werden. Protokolliere zu diesem Zeitpunkt alle paar Stunden Temperatur, Atmung und Herzfrequenz dokumentieren.
 
 Die folgenden Dinge sind ein dringender medizinischen Notfall, der von Fachleuten behandelt werden muss:
 
 ### Bewusstlosigkeit
 
-Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktio) und notiere das.
+Es gibt verschiedene Stufen von Bewusstlosigkeit. Wenn jemand das Bewusstsein verliert, stelle fest ob der Patient/die Patientin reagiert wenn Du seinen/ihren Namen rufen (Stimme), wenn Du die Person kneifst (Schmerz) oder ob die Person überhaupt nicht mehr reagiert (keine Reaktion). Notiere das.
 
 Bei einem kurzen Bewusstseinsverlust kann es helfen den/die Patienten/in zum Essen und Trinken zu motivieren und zu lüften (sofern der/die Patient/in sich schnell erholt und wieder vollständig wach ist!). Auch ein kurzer Bewusstseinsverlust ist ernstzunehmen, hol Hilfe.
 
@@ -16,9 +16,9 @@ Du kennst den/die Patient/in wahrscheinlich genug, um zu erkennen, wenn er/sie v
 
 ### Zu hohe oder zu niedrige Atemfrequenz
 
-Miss die Atemzüge pro Minute, indem Du Deine Hand nah genug so vor Nase und Mund hältst, dass du den Atem spühren kannst. Beobachte die Brust und/oder den Bauch, während du mit einer Uhr 60 Sekunden lang die Atemzüge zählst. Die Atemfrequnz (AF) sollte zwischen 12 und 20 Atemzügen pro Minute liegen (aufschreiben nicht vergessen).
+Miss die Atemzüge pro Minute. Halte dazu deine Hand nah genug vor Nase und Mund, sodass du den Atem spüren kannst. Beobachte die Brust und/oder den Bauch, während du mit einer Uhr 60 Sekunden lang die Atemzüge zählst. Die Atemfrequnz (AF) sollte zwischen 12 und 20 Atemzügen pro Minute liegen. Schreibe dies auf.
 
-Gute Belüftung des Zimmers und Aufrichten des Patienten/der Patientin kann bei Atemnot helfen. Es kann auch helfen, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen, und es gibt einige Schlafpositionen, die ebenfalls das Atmen erleichtern können (siehe Stufe 3, Pflegearbeit).
+Gute Belüftung des Zimmers und Aufrichten des Patienten/der Patientin kann bei Atemnot helfen. Es kann auch helfen, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen. Es gibt einige Schlafpositionen, die ebenfalls das Atmen erleichtern können (siehe Stufe 3, Pflegearbeit).
 
 ![](/images/dyspnoe.png)
 
@@ -26,7 +26,7 @@ Wenn Du oder der Patient/die Patientin unter Atemnot leidet, ist ein Arztbesuch 
 
 ### Niedrige Sauerstoffsättigung
 
-Wenn Du mit einen Oxymeter die Sauerstoffsättigung des Blutes messen kannst (siehe [Einkaufsseite](/shopping)), kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufe **sofort** einen Krankenwagen! Für Werte unter 96% kann es hifreich sein, gut zu lüften. Dabei musst du darauf achten, dass der Patient/die Patientin warm eingepackt ist und nicht auskühlt. 
+Mit einem Oxymeter kannst du die  Sauerstoffsättigung des Blutes messen (siehe [Einkaufsseite](/shopping)). Es kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufe **sofort** einen Krankenwagen! Für Werte unter 96% kann es hifreich sein, gut zu lüften. Dabei musst du darauf achten, dass der Patient/die Patientin warm eingepackt ist und nicht auskühlt. 
 
 ![](/images/cyanosis.png)
 
@@ -38,15 +38,15 @@ Wenn die Haut des Patienten, wie unten, eine spitzenförmige, violette Auflage (
 
 ### Sehr niedriger Blutdruck
 
-Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch) gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn du ein billiges automatisches Blutdruck-Messgerät hast sollte es Die diese beiden Zahlen anzeigen. Wenn du ein Gerät hast, notiere den systolischen Druck auf dem [Tagebuchformular] (/images/covid-diary.pdf).
+Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch) gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn du ein billiges automatisches Blutdruck-Messgerät hast sollte es diese beiden Zahlen anzeigen. Wenn du ein Gerät hast, notiere den systolischen Druck auf dem [Tagebuchformular] (/images/covid-diary.pdf).
 
-Wenn du kein Gerät zur Blutdruckmessung hast oder damit nicht klar kommst, versuche stattdessen die Rekapillierungszeit des Patienten zu testen. Lege seine oder ihre Finger flach auf eine harte Oberfläche. Drücke mit deinem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfe wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte nicht länger als 1-2 Sekunden dauern, ansonsten kann das auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung (Flüssigkeitsmangel) sein. 
+Wenn du kein Gerät zur Blutdruckmessung hast oder damit nicht klar kommst, versuche stattdessen die Rekapillierungszeit des Patienten zu testen. Lege seine oder ihre Finger flach auf eine harte Oberfläche. Drücke mit deinem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfe wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte nicht länger als 1-2 Sekunden dauern. Ansonsten kann das auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung (Flüssigkeitsmangel) sein. 
 
-Dehydrierung ist eine häufige Ursache für niedrigen Blutdruck. Den Patienten/die Patientin zum Trinken anregen ist hier wichitg, insbesondere was Nahrungsmittel oder Getränke angeht, die essentielle Elektrolyte wie Kalium und Natrium enthalten. Schwindel ist ein häufiges Symptom von niedrigem Blutdruck und tritt oft beim Positionswechsel des Patienten/der Patientin auf; es kann zu einer Ohnmacht kommen. Aber wirklich, noch einmal: wenn irgendwas nicht richtig aussieht - wenn der Blutdruck sehr niedrig ist, oder wenn der Patient/die Patientin normalerweise hohen Blutdruck hat und dieser viel niedriger als normal aussieht - dann hole Hilfe.
+Dehydrierung ist eine häufige Ursache für niedrigen Blutdruck. Den Patienten/die Patientin zum Trinken anregen ist hier wichitg. Insbesondere was Nahrungsmittel oder Getränke angeht, die essentielle Elektrolyte wie Kalium und Natrium enthalten. Schwindel ist ein häufiges Symptom von niedrigem Blutdruck und tritt oft beim Positionswechsel des Patienten/der Patientin auf; es kann zu einer Ohnmacht kommen. Aber wirklich, noch einmal: wenn irgendwas nicht richtig aussieht - wenn der Blutdruck sehr niedrig ist, oder wenn der Patient/die Patientin normalerweise hohen Blutdruck hat und dieser viel niedriger als normal aussieht - dann hole Hilfe.
 
 ### Zu hohe oder zu niedrige Herzfrequenz
 
-Die Herzfrequenz ist leichter zu messen als der Blutdruck, und normalerweise geht eine hohe Herzfrequenz (über 100-110 Schläge pro Minute bei einem Erwachsenen) mit einem niedrigen Blutdruck einher. Kleinere Menschen und Kinder haben in der Regel eine höhere Herzfrequenz. Eine hohe Herzfrequenz allein ist möglicherweise kein Grund zur Beunruhigung, da sie auf Angst oder Dehydrierung hinweisen kann. Entspannungstechniken und etwas zu Trinken/zu Essen könnten angebracht sein. Aber auch hier sollten Werte, die außerhalb des normalen Bereichs liegen, grund genug sein sofort medizinische Hilfe in Anspruch zu nehmen. Dies gilt insbesondere, wenn du eine schnelle Atmung zusammen mit niedrigem Blutdruck oder hoher Herzfrequenz und/oder Verwirrung feststellst. 
+Die Herzfrequenz ist leichter zu messen als der Blutdruck. Normalerweise geht eine hohe Herzfrequenz (über 100-110 Schläge pro Minute bei einem Erwachsenen) mit einem niedrigen Blutdruck einher. Kleinere Menschen und Kinder haben in der Regel eine höhere Herzfrequenz. Eine hohe Herzfrequenz allein ist möglicherweise kein Grund zur Beunruhigung. Soe kann auf Angst oder Dehydrierung hinweisen. Entspannungstechniken und etwas zu Trinken/zu Essen könnten angebracht sein. Aber auch hier sollten Werte, die außerhalb des normalen Bereichs liegen, Grund genug sein sofort medizinische Hilfe in Anspruch zu nehmen. Dies gilt insbesondere, wenn du eine schnelle Atmung zusammen mit niedrigem Blutdruck oder hoher Herzfrequenz und/oder Verwirrung feststellst. 
 
 ### Sehr hohes Fieber, das plötzlich (wieder) auftritt
 
