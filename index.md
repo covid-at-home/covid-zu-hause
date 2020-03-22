@@ -16,7 +16,7 @@ Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwe
 ## Kenne die Fakten
 
 * COVID-19 gibt es wirklich
-* Es ist ein Virus, welcher aus der Natur stammt und mutiert ist, sodass er vom Tier auf den Menschen übergehen konnte.
+* Es ist eine Krankheit die vom SARS-CoV-2 virus verursacht wird. Dieses Virus ist so mutiert, dass es vom Tier auf den Menschen übergehen könnte.
 * Es scheint doppelt so ansteckend zu sein und deutlich mehr Lungenentzündungen auszulösen wie das saisonale Influenza Virus (die Grippe). Zudem ist es schlimmer als die Grippe, da der Großteil der Weltbevölkerung bisher keine Antikörper gegen das Virus hat. Neue Krankheiten sind gefährlicher, da die Infektionszahlen schnell wachsen können (bis zu einem exponentiellen Wachtum). Eine so schnelle Verbreitung der Infektion kann dazu führen, dass auch  belastbare, stabile Gesundheitssysteme an ihre grenzen Gelangen. In dieser Situation ist es unmöglich, dass jeder, der normalerweise medizinisch versorgt werden würde, behandelt werden kann. Dies kann die Rate an schweren Krankheitsverläufen und Todesfällen steigern.
 * Die Eindämmung der infektionszahlen mit COVID-19 ist die beste Chance, die wir haben, viele Leben zu retten. Dies erfordert flächendeckende Kooperation und die Einführung von diversen Maßnahmen wie erreichbare Testmöglichkeiten und die Reduktion sozialer Kontakte (siehe hier unten bei "Stufe 1").
 * Aus diesem Grund ist es jetzt an der Zeit unsere Lebensweise (vorrübergehend) grundlegend zu verändern und der Bedrohung dieser Pandemie entgegen zu treten.
