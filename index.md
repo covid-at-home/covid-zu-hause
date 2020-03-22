@@ -17,10 +17,11 @@ Dieser Leitfaden enthält allgemeine Ratschläge. Sie sollten in vielen Situatio
 ## Kenne die Fakten
 
 * COVID-19 gibt es wirklich.
+* COVID-19 ist ein Virus.
 * Das Virus stammt aus der Natur. Durch eine Mutation konnte es vom Tier auf den Menschen übergehen.
 * Es scheint doppelt so ansteckend zu sein wie das saisonale Influenza Virus (die Grippe). Außerdem scheint es deutlich mehr Lungenentzündungen auszulösen als die saisonale Grippe. Der Großteil der Weltbevölkerung hat bisher keine Antikörper gegen das Virus. Das ist ein weiteres Problem. Neue Krankheiten sind gefährlicher, da die Infektionszahlen schnell wachsen können (bis zu einem exponentiellen Wachtum). Eine so schnelle Verbreitung kann dazu führen, dass auch stabile Gesundheitssysteme an ihre Grenzen gelangen. In dieser Situation ist es unmöglich, dass jeder behandelt werden kann. Dies kann die Rate an schweren Krankheitsverläufen und Todesfällen steigern.
 * Die Eindämmung der Infektionszahlen mit COVID-19 ist die beste Möglichkeit, viele Leben zu retten. Dies erfordert flächendeckende Zusammenarbeit und die Einführung von einigen Maßnahmen wie erreichbare Testmöglichkeiten und die Verringerung sozialer Kontakte (siehe hier unten bei "Stufe 1").
-* Aus diesem Grund ist es jetzt an der Zeit unsere Lebensweise (vorübergehend) grundlegend zu verändern und der Bedrohung dieser Pandemie entgegen zu treten.
+* Aus diesem Grund ist es jetzt an der Zeit unsere Lebensweise (vorübergehend) grundlegend zu verändern. Damit können wir Bedrohung dieser Pandemie entgegen treten.
 
 Für das Virus macht es keinen Unterschied, ob du einem\*r Freund\*in oder einem\*r Fremden gegenüberstehst. Es gibt keine Unterschiede zwischen verschiedenen ethnischen Gruppen oder Nationalitäten, wenn es um die Infektion mit dem Virus geht. Versuche so vielen Personen wie möglich zu helfen, aber halte dich nicht in großen Menschenansammlungen auf. Es gibt dabei viele Situationen, in denen jeder das Risiko für sich selbst einschätzen muss. Manche Leute müssen gezwungenermaßen mehr Menschen treffen als andere. Die Ausbreitung der Krankheit kann nicht komplett gestoppt werden. Aber jeder kann seinen Teil dazu beitragen, die Ausbreitung zu verlangsamen. Hoffentlich reicht das aus, um unser Gesundheitssystem ausreichend zu entlasten. Dann ist eine medizinische Versorgung weiterhin sichergestellt.
 
