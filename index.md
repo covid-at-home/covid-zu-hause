@@ -8,10 +8,11 @@ Als wir diese Seite Mitte März 2020 in Berlin, Deutschland erstellt haben, ist 
 
 Dieser Leitfaden basiert auf der Annahme, dass in den kommenden Monaten mehr Menschen als gewöhnlich entweder krank werden oder kranke Menschen um sich haben werden. Hoffen wir alle das Beste, aber wir gehen davon aus, dass die Hausarztpraxen und Krankenhäuser sehr voll, wenn nicht sogar überlastet sein werden. Wir müssen uns also mit der Möglichkeit auseinandersetzen, dass einige der Menschen, die normalerweise in einem medizinischen Umfeld betreut werden würden, zu Hause versorgt werden müssen. Wir hoffen, dass einige der Informationen hier ein gewisses Vertrauen im Umgang mit dieser Krankheit geben. Dies soll die Belastung für Ärzt\*innen und Krankenofleger\*innen verringern, die wohl in den kommenden Wochen und Monaten ziemlich beschäftigt sein werden.
 
+Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind. Dies ist allerdings auf Grund der großen Regionalen unterschiede schwierig immer zu gewährleisten. Deshalb solltest du deine Augen offen halten um spezifischere Informationen aus anderen glaubwürdigen Quellen, die die regionale Situation betreffen, zu beziehen.
+
 [![Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind. Dies ist allerdings auf Grund der großen Regionalen unterschiede schwierig immer zu gewährleisten. Deshalb solltest du deine Augen offen halten um spezifischere Informationen aus anderen glaubwürdigen Quellen, die die regionale Situation betreffen, zu beziehen. 
-
 
 > **DU KANNST HELFEN, DIESE SEITE ZU VERBESSERN.** *Wenn du etwas siehst, was verbessert werden könnte, lege bitte [hier](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) ein "Issue" an, wenn es um inhaltliche Aspekte geht. Wenn es um sprachliche Fehler geht, lege bitte [hier](https://github.com/covid-zu-hause/covid-zu-hause.github.io/issues/new) ein Issue an: die Website wird auf Englisch verfasst und dann in die anderen angebotenen Sprachen übersetzt. Wie du sehen kannst wenn du eine dieser links folgst, befindet sich das Backend dieser Website auf GitHub. Wenn du diese Umgebung kennst, fallen dir bestimmt gleich viele weitere Möglichkeiten um zu helfen ein. Dies ist ein Gemeinschaftsprojekt und wir freuen uns immer über jeden Hinweis und jede Hilfe.*
 
@@ -23,7 +24,7 @@ Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwe
 * Die Eindämmung der infektionszahlen mit COVID-19 ist die beste Chance, die wir haben, viele Leben zu retten. Dies erfordert flächendeckende Kooperation und die Einführung von diversen Maßnahmen wie erreichbare Testmöglichkeiten und die Reduktion sozialer Kontakte (siehe hier unten bei "Stufe 1").
 * Aus diesem Grund ist es jetzt an der Zeit unsere Lebensweise (vorrübergehend) grundlegend zu verändern und der Bedrohung dieser Pandemie entgegen zu treten.
 
-Bedenke, dass es für das Virus keinen unterschied macht, ob du einem\*r Freund\*in oder einem\*r Fremden gegnüberstehst. Es gibt keine Unterschiede zwischen verschiedenen ethnischen Gruppen oder nationalitäten, wenn es um die Infektion mit dem Virus geht. Versuche so vielen Personen wie möglich zu helfen, ohne dich unnötigerweise in großen Menschenansammlungen aufzuhalten. Es gibt dabei viele Situationen, in denen jeder das Risiko für sich selbst einschätzen muss. Manche Leute müssen gezwungenermaßen mehr Menschen treffen als andere. Die Ausbreitung der Krankheit zu stoppen, wird nicht absolut funktionieren. Wenn aber jeder seinen Teil dazu beiträgt, wird dies hoffentlich ausreichen um unser Gesundheitssystem ausreichend zu entlasten, sodass eine meidizinische Versorgung weiterhin sichergestellt ist.
+Bedenke, dass es für das Virus keinen Unterschied macht, ob du einem\*r Freund\*in oder einem\*r Fremden gegnüberstehst. Es gibt keine Unterschiede zwischen verschiedenen ethnischen Gruppen oder nationalitäten, wenn es um die Infektion mit dem Virus geht. Versuche so vielen Personen wie möglich zu helfen, ohne dich unnötigerweise in großen Menschenansammlungen aufzuhalten. Es gibt dabei viele Situationen, in denen jeder das Risiko für sich selbst einschätzen muss. Manche Leute müssen gezwungenermaßen mehr Menschen treffen als andere. Die Ausbreitung der Krankheit zu stoppen, wird nicht absolut funktionieren. Wenn aber jeder seinen Teil dazu beiträgt, wird dies hoffentlich ausreichen um unser Gesundheitssystem ausreichend zu entlasten, sodass eine medizinische Versorgung weiterhin sichergestellt ist.
 
 &nbsp; 
 
@@ -34,13 +35,13 @@ Bedenke, dass es für das Virus keinen unterschied macht, ob du einem\*r Freund\
 {% include_relative level2.md %}
 
 &nbsp; 
- 
+
 {% include_relative level3.md %}
-            
+
 &nbsp; 
- 
+
 {% include_relative level4.md %}
-        
+
 &nbsp; 
- 
+
 {% include_relative level5.md %}
