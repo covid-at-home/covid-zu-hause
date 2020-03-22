@@ -12,7 +12,7 @@ Bei einem kurzen Bewusstseinsverlust kann es helfen den/die Patienten/in zum Ess
 
 ### Kognitive Probleme/Verwirrung
 
-Du kennst den/die Patient/in wahrscheinlich genug, um zu erkennen, wenn er/sie verwirrt sein sollte ohne irgendwelche medizischen Tests anzuwenden. Plötzlich einsetztende Verwirrung ist ernst zu nehmen. Es ist Zeit Hilfe zu holen.
+Du kennst den/die Patient/in wahrscheinlich genug, um zu erkennen, wenn er/sie verwirrt sein sollte ohne irgendwelche medizischen Tests anzuwenden. Plötzlich einsetzende Verwirrung ist ernst zu nehmen. Es ist Zeit Hilfe zu holen.
 
 ### Zu hohe oder zu niedrige Atemfrequenz
 
