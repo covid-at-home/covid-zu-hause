@@ -30,7 +30,7 @@ In diesem Abschnitt werden Dinge beschrieben, die du versuchen kannst, wenn du d
 
 Zunächst einmal ist dir vielleicht nicht bekannt, welche Arten von Schutz in welchen Situationen erforderlich sind. Außerdem ist es überraschend schwierig, sicherzustellen, dass deine Maske richtig sitzt. Schaue dir unbedingt einige YouTube-Videos an, in denen du erfährst, wie du deine PSA sicher anlegen, verwenden und entsorgen kannst. So stellst du sicher, dass sie wirklich zu deinem Schutz und zum Schutz anderer funktioniert. 
 
-Einige Menschen haben Panikkäufe getätigt und einige Unternehmen haben Preisdruck ausgeübt. Deshalb sind wichtige Ausrüstungsgegenstände wie Masken an einigen Orten nicht einmal für Ärzte und Krankenschwestern verfügbar. Gerade diese bruachen sie nun wirklich. Wenn du dich in einem frühen Stadium der Pandemie befindest, stellt deine Regierung möglicherweise Masken für Menschen bereit, die mit COVID-19 leben und/oder sich um Menschen mit COVID-19 kümmern. 
+Einige Menschen haben Panikkäufe getätigt und einige Unternehmen haben Preisdruck ausgeübt. Deshalb sind wichtige Ausrüstungsgegenstände wie Masken an einigen Orten nicht einmal für Ärzte\*innen und Krankenpfleger\*innen verfügbar. Gerade diese bruachen sie nun wirklich. Wenn du dich in einem frühen Stadium der Pandemie befindest, stellt deine Regierung möglicherweise Masken für Menschen bereit, die mit COVID-19 leben und/oder sich um Menschen mit COVID-19 kümmern. 
 
 Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise überwinden wollen. **Aber bitte höre unbedingt auf offizielle Anweisungen, was nicht gekauft werden sollte! Sonst werden für die Ärzte und Krankenschwestern Dinge unerreichbar, die sie brauchen.** 
 
@@ -39,7 +39,7 @@ Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise übe
    > ![](/images/mask.png)
    >
    > FFP2- oder FFP3-Atemschutzmasken (mit oder ohne Ventil) werden ebenfalls empfohlen. Eine normale Gesichtsmaske (chirurgisch oder prozedural) ist besser als nichts, wenn du keine Atemschutzmaske bekommen kannst.
-   > **In Deutschland im Moment keine Masken kaufen, die Ärzte und Krankenpfleger\*innen haben zu wenig!**
+   > **In Deutschland im Moment keine Masken kaufen, die Ärzte\*innen und Krankenpfleger\*innen haben zu wenig!**
 
 * **Poncho / Regenmantel** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B07DFDFFRX))
 
@@ -65,7 +65,7 @@ Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise übe
 * **Blutdruckmesser** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07KY867ZH))
    > ![](/images/blood-pressure.png)
    >
-   > Es gibt einfache Tricks, um zu sehen, ob der Blutdruck einer Person zu niedrig wird (siehe den Haupttext auf dieser Website). Es schadet jedoch nicht, dies objektiver messen zu können, insbesondere wenn du einen Trend im Blutdruck des Patienten sehen willst.
+   > Es gibt einfache Tricks, um zu sehen, ob der Blutdruck einer Person zu niedrig wird (siehe den Haupttext auf dieser Website). Es schadet jedoch nicht, dies objektiver messen zu können, insbesondere wenn du einen Trend im Blutdruck des\*der Patienten\*in sehen willst.
 
 * **Inkontinenz / wasserdichte Laken** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) oder [Beispiel](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
@@ -79,4 +79,4 @@ Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise übe
 
 * **Vitamine** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/Bilder/multi-vitamin.png)
-   > Für den Fall, dass der Patient nicht mehr (viel) isst, aber noch trinkt. Nimm vielleicht ein paar Tuben von den großen Multivitamin-Pillen, die in Wasser zischen. Versuche, eine Sorte zu bekommen, die etwa das 1-2-fache der empfohlenen Tagesdosis aller darin enthaltenen Vitamine und Mineralien enthält. Keine verrückten 1000%igen Megadosen!
+   > Für den Fall, dass der\*die Patient\*in nicht mehr (viel) isst, aber noch trinkt. Nimm vielleicht ein paar Tuben von den großen Multivitamin-Pillen, die in Wasser zischen. Versuche, eine Sorte zu bekommen, die etwa das 1-2-fache der empfohlenen Tagesdosis aller darin enthaltenen Vitamine und Mineralien enthält. Keine verrückten 1000%igen Megadosen!
