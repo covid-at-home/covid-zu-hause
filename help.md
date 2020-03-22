@@ -16,11 +16,11 @@ Du willst helfen? Super! Doch bitte vermeide unnötige Arbeit: Fang nicht an, oh
 
 #### Inhaltliche Anmerkungen
 
-Ihr seid hier mehr als willkommen, wenn ihr Ärzt\*in, Krankenpfleger\*in oder Beamte\*r des öffentlichen Gesundheitswesens seid. Wir hoffen, dass wir euch in den kommenden Monaten eure Arbeit etwas erleichtern können. In diesem Fall: Bitte lies die Website durch und teil uns mit, wenn du irgendwelche Anmerkungen hast. Das gilt auch für alle anderen, die etwas hinzuzufügen haben. Wenn du mit uns sprechen möchtest, kannst du entweder das [Kontaktformular] (https://github.com/covid-at-home/covid-at-home.github.io/issues/new) nutzen, [uns mailen] (mailto:team@covid-at-home.info) oder an der [Team-Videokonferenz] ({{ site.data.languages.conf }}) teilnehmen.
+Ihr seid hier mehr als willkommen, wenn ihr Ärzt\*in, Krankenpfleger\*in oder Beamte\*r des öffentlichen Gesundheitswesens seid. Wir hoffen, dass wir euch in den kommenden Monaten eure Arbeit etwas erleichtern können. In diesem Fall: Bitte lies die Website durch und teil uns mit, wenn du irgendwelche Anmerkungen hast. Das gilt auch für alle anderen, die etwas hinzuzufügen haben. Wenn du mit uns sprechen möchtest, kannst du entweder das [Kontaktformular](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) nutzen, [uns mailen](mailto:team@covid-at-home.info) oder an der [Team-Videokonferenz]({{ site.data.languages.conf }}) teilnehmen.
 
 #### Tippfehler
 
-Wir sind sicher, dass es immer noch viele Tippfehler, verwurstelte Sätze und noch Schlimmeres auf dieser Seite gibt. Wir bitten dich, das [Kontaktformular] (https://github.com/covid-at-home/covid-at-home.github.io/issues/new) zu nutzen, wenn du einen Fehler findest und wir werden den Fehler sobald, wie möglich beheben.
+Wir sind sicher, dass es immer noch viele Tippfehler, verwurstelte Sätze und noch Schlimmeres auf dieser Seite gibt. Wir bitten dich, das [Kontaktformular](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) zu nutzen, wenn du einen Fehler findest und wir werden den Fehler sobald, wie möglich beheben.
 
 #### Alternative Medizin
 
