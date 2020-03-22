@@ -4,7 +4,7 @@ Es mag so aussehen, als wäre diese Seite leicht von der Hand gegangen. Das ist 
 
 #### Gib es weiter!
 
-Dies ist momentan eines der wichtigsten Dinge, die du tun kannst, um zu helfen. Tweete über diese Website und erwähne sie auf Facebook, Instagram und wo auch immer dir sonst einfällt. Bist du Journalist\*in? Vielleicht kannst du einen Artikel über diese Website im Rundfunk oder in der Zeitung veröffetnlichen. Bist du Influencer\*in? Vielleicht kannst du diese Website posten. Hast du Erfahrungen im Online-Marketing? Vielleicht kannst du uns helfen, gefunden zu werden.
+Dies ist momentan eines der wichtigsten Dinge, die du tun kannst, um zu helfen. Tweete über diese Website und erwähne sie auf Facebook, Instagram und wo auch immer dir sonst einfällt. Bist du Journalist\*in? Vielleicht kannst du einen Artikel über diese Website im Rundfunk oder in der Zeitung veröffentlichen. Bist du Influencer\*in? Vielleicht kannst du diese Website posten. Hast du Erfahrungen im Online-Marketing? Vielleicht kannst du uns helfen, gefunden zu werden.
 
 #### Übersetzungen
 
