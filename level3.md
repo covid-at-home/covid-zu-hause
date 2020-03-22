@@ -29,7 +29,7 @@ Zu den möglicherweise nützlichen Verhaltensweisen gehören:
 * Ermutige zum Trinken und Essen.
 * Wenn der Patient nicht ausreichend trinkt oder isst, biete Alternativen an. (Wenn z.B. feste Nahrung unattraktiv ist, was ist dann mit Suppe, Bouillon oder Elektrolytlösung? Wenn heiße Getränke unattraktiv sind, wie wäre es mit etwas Kaltem oder umgekehrt?)
 * Kontrolliere, ob der Patient/ die Patientin an den Extremitäten (z.B. kalte Füße?) bzw. nachts warm genug ist.
-* Sprich Mut zu. Es ist sehr wahrscheinlich, dass sich der Patient/ die Patienting vollständig erholen wird.
+* Sprich Mut zu. Es ist sehr wahrscheinlich, dass sich der Patient/ die Patientin vollständig erholen wird.
 * Wenn das Atmen schwer fällt, helfen vielleicht Atemtechniken (z.B. Lippenspreizung oder Zwerchfellatmung) und Positionsänderungen (z.B. die Brust ein wenig nach vorne lehnen oder Arme und Kopf auf einen Tisch legen, während Sie mit flachen Füßen auf dem Boden sitzen; oder auf der Seite mit einem Kissen zwischen den Knien schlafen oder auf dem Rücken mit erhobenem Kopf mit einem oder zwei Kissen).
 * Führe ein Krankheitstagebuchs (siehe unten).
 
