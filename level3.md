@@ -36,7 +36,7 @@ Zu den möglicherweise nützlichen Verhaltensweisen gehören:
 
 ### Krankheitstagebuch
 
-Drucke dieses Krankheitstagebuch [Formular](/images/covid-diary.pdf) aus oder erstelle ein eigenes. 
+Drucke dieses Krankheitstagebuch [Formular](/images/covid-diary.pdf) aus oder erstelle ein eigenes.
 
 Achte in dieser Phase besonders auf Symptome, die auf eine Verschlechterung hindeuten könnten. Schreibe die Symptome auf. Lies den nächsten Abschnitt für weitere Einzelheiten.
 Solche Anzeichen können sein:
@@ -56,11 +56,11 @@ Wenn sich der Zustand des\*der Patienten\*in zu verschlechtern scheint, springe 
 
 ### Ein typischer Tag
 
-Zu diesem Zeitpunkt könnte ein typischer Tag in etwa so aussehen: 
+Zu diesem Zeitpunkt könnte ein typischer Tag in etwa so aussehen:
 
 Du (oder der\*die Patient\*in) stehst auf, wiegst dich und notierst das Gewicht im Krankheitstagebuch. Vielleicht möchtest du auch als erstes deine Temperatur messen, bevor du etwas isst oder trinkst. Das gilt besonders, wenn Du die Temperatur oral (also im Mund) misst. Du solltest sie auch im Krankheitstagebuch vermerken. 
 
-Dann beginnst du mit dem Trinken von Flüssigkeiten. Nicht zu viel Koffein oder Zucker. So viel Wasser und Kräutertee, wie du möchtest. Denk daran, dass du mindestens 2 Liter und bis zu 5 Liter pro Tag trinken solltest. 
+Dann beginnst du mit dem Trinken von Flüssigkeiten. Nicht zu viel Koffein oder Zucker. So viel Wasser und Kräutertee, wie du möchtest. Denk daran, dass du mindestens 2 Liter und bis zu 5 Liter pro Tag trinken solltest.
 
 Lüfte deine Zimmer/deine Wohnung so gut wie möglich. Verbinde das mit dem Aufkochen des Wassers für deinen morgendlichen Tee oder Kaffee.  Wenn Du die Energie (und genügend Laken) hast, könntest du deine Bettwäsche wechseln, falls sie verschwitzt oder verschmutzt ist. Als Nächstes dusche kurz, wenn Du dazu in der Lage bist. Sauber zu sein, kann sich sehr gut anfühlen, besonders wenn man krank ist.
 

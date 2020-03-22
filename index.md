@@ -11,6 +11,7 @@ Dieser Leitfaden nimmt folgendes an: In den kommenden Monaten erkranken mehr Men
 
 Dieser Leitfaden enthält allgemeine Ratschläge. Sie sollten in vielen Situationen anwendbar sein. Wir können Informationen für bestimmte Länder und Regionen hinzufügen. Allerdings ist es schwierig, diese immer aktuell zu halten. Beziehe diese Informationen deshalb von anderen glaubwürdigen Quellen, die die regionale Situation betreffen.
 
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/ "Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.")
 
 > **DU KANNST HELFEN, DIESE SEITE ZU VERBESSERN.** *Wenn du es um inhaltliche Aspekte geht, die verbessert werden könnten, lege bitte [hier](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) ein "Issue" an. Wenn es um sprachliche Fehler geht, lege bitte [hier](https://github.com/covid-zu-hause/covid-zu-hause.github.io/issues/new) ein Issue an. Die Website wird auf Englisch verfasst und dann in die anderen angebotenen Sprachen übersetzt. Wie du sehen kannst, befindet sich das Backend dieser Website auf GitHub. Wenn du diese Umgebung kennst, fallen dir bestimmt gleich viele weitere Möglichkeiten ein, um zu helfen. Dies ist ein Gemeinschaftsprojekt und wir freuen uns immer über jeden Hinweis und jede Hilfe.*
 
@@ -34,13 +35,13 @@ Für das Virus macht es keinen Unterschied, ob du einem\*r Freund\*in oder einem
 {% include_relative level2.md %}
 
 &nbsp; 
- 
+
 {% include_relative level3.md %}
-            
+
 &nbsp; 
- 
+
 {% include_relative level4.md %}
-        
+
 &nbsp; 
- 
+
 {% include_relative level5.md %}

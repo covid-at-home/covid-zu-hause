@@ -68,7 +68,7 @@ Wir haben ein **druckbares [Krankheitstagebuch](/images/covid-diary.pdf)** erste
 
 Wenn du stattdessen dein eigenes Krankheitstagebuch führst, denke daran, dass es besser ist, es auf Papier als elektronisch zu führen. Dadurch werden deine medizinischen Daten besser geschützt. Es erleichtert auch die Mitnahme des Tagebuchs in eine Arztpraxis oder in ein Krankenhaus. Wenn du ein eigenes Krankheitstagebuch beginnen möchtest, nutze die Vorlage oben. Wenn du das nicht möchtest, nimm ein leeres Druckerpapier und drehe es in Längsrichtung (ins Querformat). Erstelle dir mit einem Lineal einige Spalten. Erstelle für jeden Aspekt, den du messen möchtest eine eigene Spalte. Schreibe über jede Spalte eine Spaltenüberschrift. Schreibe das Datum des ersten Tages ganz oben in die Kopfzeile der ersten Zeile. Dann fülle es einfach kontinuierlich aus. Nutze für jeden Tag eine eigene Zeile.
 
-Die Spalten sollten enthalten: 
+Die Spalten sollten enthalten:
 - Tageskörpergewicht
 - Körpertemperatur und Zeit
 - Fiebermedikamente: Medikament, Dosis, Zeit(en)
@@ -76,7 +76,7 @@ Die Spalten sollten enthalten:
 - Schmerz: wo, wann, wie stark er ist, von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)
 - Husten: tut er weh, ist er produktiv, nass oder trocken, häufig oder gelegentlich, stört er den Schlaf?
 - Schleim: Welche Farbe, wie viel?
-- Atmung: Ist es mühsam, wenn man nichts tut oder sich anstrengt? Wenn du Atemnot spürst, beginne vielleicht damit, die Atemfrequenz in Atemzügen pro Minute zu notieren. 
+- Atmung: Ist es mühsam, wenn man nichts tut oder sich anstrengt? Wenn du Atemnot spürst, beginne vielleicht damit, die Atemfrequenz in Atemzügen pro Minute zu notieren.
 
 ### Wieder gesund werden
 
