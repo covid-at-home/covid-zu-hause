@@ -8,6 +8,8 @@ Als wir diese Seite Mitte März 2020 in Berlin, Deutschland erstellt haben, ist 
 
 Dieser Leitfaden basiert auf der Annahme, dass in den kommenden Monaten mehr Menschen als gewöhnlich entweder krank werden oder kranke Menschen um sich haben werden. Hoffen wir alle das Beste, aber wir gehen davon aus, dass die Hausarztpraxen und Krankenhäuser sehr voll, wenn nicht sogar überlastet sein werden. Wir müssen uns also mit der Möglichkeit auseinandersetzen, dass einige der Menschen, die normalerweise in einem medizinischen Umfeld betreut werden würden, zu Hause versorgt werden müssen. Wir hoffen, dass einige der Informationen hier ein gewisses Vertrauen im Umgang mit dieser Krankheit geben. Dies soll die Belastung für Ärzt\*innen und Krankenofleger\*innen verringern, die wohl in den kommenden Wochen und Monaten ziemlich beschäftigt sein werden.
 
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+
 Dieser Leitfaden enthält allgemeine Ratschläge, die in vielen Situationen anwendbar sein sollten. Wir können Informationen hinzufügen, die spezifisch für bestimmte Länder oder Regionen sind. Dies ist allerdings auf Grund der großen Regionalen unterschiede schwierig immer zu gewährleisten. Deshalb solltest du deine Augen offen halten um spezifischere Informationen aus anderen glaubwürdigen Quellen, die die regionale Situation betreffen, zu beziehen. 
 
 
