@@ -43,12 +43,14 @@ languages:
   url: https://covid-thuis.info
   github: https://github.com/covid-thuis/covid-thuis.github.io
   stats: https://stats.covid-thuis.info
+  published: true
 
 - title: Polsku
   english: Polish
   url: https://covid-w-domu.info
   github: https://github.com/covid-w-domu/covid-w-domu.github.io
   stats: https://stats.covid-w-domu.info
+  published: true
 
 - title: Português
   english: Portuguese
@@ -56,7 +58,7 @@ languages:
   github: https://github.com/covid-em-casa/covid-em-casa.github.io
   stats: https://stats.covid-em-casa.info
 
-- title: Romaneste
+- title: Română
   english: Romanian
   url: https://covid-acasa.info
   github: https://github.com/covid-acasa/covid-acasa.github.io
