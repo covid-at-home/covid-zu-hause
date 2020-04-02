@@ -1,15 +1,24 @@
-Diese Website gibt es wegen der COVID-19 Pandemie. Wir sammeln hier Checklisten und Ratschläge für verschiedene Krankheitsstadien. Viele der Ratschläge sind aber auch in anderen Situationen anwendbar.
-Wir haben uns mit Krankenpfleger\*innen und Ärzt\*innen über den Inhalt beraten. Die Texte kommen aber von medizinischen Laien. Bitte berücksichtigt das.
+Diese Webseite wurde ins Leben gerufen um unsere anfänglichen Recherchen über die COVID-19 Pandemie publizieren zu können. Wir wollten für uns und unsere Freunde festhalten, was getan werden kann, wenn so viele Leute krank werden. Viele dieser Inhalte basieren einfach auf gesundem Menschenverstand, trotzdem dachten wir es ist von Vorteil, einige Checklisten und Ratschläge für die verschiedenen Stadien der Krankheit an einer Stelle gesammelt anzubieten. Wir haben uns mit Krankenpfleger/innen und Ärzten beraten jedoch ist diese Seite von medizinischen Laien erstellt worden, die versuchen das zusammenzutragen, was in unserer neuen Normalität Sinn macht.
 
-Ganz wichtig: **RATSCHLÄGE UND ANWEISUNGEN VON GESUNDHEITSBEHÖRDEN, ÄRZT\*INNEN SOWIE PFLEGEKRÄFTEN GEHEN IMMER VOR** Das gilt auch für diese Seite.
+{{ site.data.tags.disclaimer.begin }}
 
-Wir haben diese Seite Mitte März 2020 in Berlin erstellt. Vieles über das Virus ist gerade noch unbekannt. Die Zahl der Infizierten und Toten steigt stetig und an vielen Stellen gleichzeitig. Wir finden es nicht richtig, in Panik zu verfallen. Aber man sollte sich informieren und vorbereiten.
+## BITTE UNBEDINGT LESEN
+
+Zur Klarstellung: **HÖRE AUF DEINE ÖRTLICHEN GESUNDHEITSBEHÖRDEN, ÄRZT/INNEN UND KRANKENPFLEGER/INNEN** wenn Du die Wahl hast zwischen deren Rat und etwas, was Du im Internet gefunden hast. 
+
+Die Inhalte dieser Webseite sind zu Informationsswecken bereitgestellt und stellen keinen Ersatz dar für die Beratung durch Ärzt/innen und qualifizierte medizinische Berufe. Patienten sollten diese Inhalte nicht nutzen um selbst gesundheitliche Probleme oder Krankheit zu diagnostizieren. Patienten sollten in jedem Fall einen Arzt oder medizinische Fachkräfte konsultieren um gesundheitlichen Rat oder Informationen über Diagnose und Behandlung einzuholen.
+
+**In Notfällen rufe bitte Deine örtliche Notrufnummer an!**
+
+{{ site.data.tags.disclaimer.end }}
+
+Als wir um die Iden des März 2020 herum in Berlin begannen für diese Seite zu schreiben war vieles noch unklar, aber die Zahlen von Infizierten und Todesopfern stiegen stetig an, vor allem in Italien. Ob der Virus dort, wo Du bist, die totale Krise ausgelöst hat oder nicht: Es ist an der Zeit sich Gedanken zu machen und vorzubereiten.
 
 ![](/images/virus.png)
 
-Dieser Leitfaden nimmt folgendes an: In den kommenden Monaten erkranken mehr Menschen als gewöhnlich. Daher sind auch mehr Menschen von kranken Menschen umgeben. Hausarztpraxen und Krankenhäuser können sehr voll oder sogar überlastet sein. Einige der Menschen, die normalerweise im Krankenhaus betreut werden, müssen zu Hause versorgt werden. Wir hoffen, dass einige der Informationen hier ein gewisses Vertrauen im Umgang mit der Krankheit geben. Dies soll die Belastung für Ärzt\*innen und Krankenpfleger\*innen verringern.
+Dieser Leitfaden basiert auf der Annahme dass in den kommenden Monaten mehr Menschen erkranken oder Erkrankte in ihrem Umfeld haben als zu anderen Zeiten. Während wir auf das Beste hoffen, müssen wir davon ausgehen, dass Ärzteschaft und Krankenhäuser stark ausgelastet wenn nicht sogar überrannt sein werden. Wir müssen uns auf die Möglichkeit einstellen, dass Menschen, die normalerweise unter ärztlicher Aufsicht behandelt werden würden, zuhause behandelt werden müssen.
 
-Dieser Leitfaden enthält allgemeine Ratschläge. Sie sollten in vielen Situationen anwendbar sein. Wir können Informationen für bestimmte Länder und Regionen hinzufügen. Allerdings ist es schwierig, diese immer aktuell zu halten. Beziehe diese Informationen deshalb von anderen glaubwürdigen Quellen, die die regionale Situation betreffen.
+Wir hoffen, dass einige der hier gelisteten Informationen Dir etwas Zuversicht in Bezug auf den Umgang mit der Krankheit geben, wodurch unser Gesundheitssystem bereits ein wenig entlastet werden würde. Gleichzeitig hoffen wir hier die Informationen zu geben, die Dir helfen festzustellen wann die Zeit gekommen ist selbst professionelle medizinische Hilfe in Anspruch zu nehmen. Wenn wir vielen Leuten helfen, sicher auf diesem schmalen Grat zu wandern, könnte das bereits einen grossen Unterschied machen in der Zeit die uns bevorsteht.
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/ "Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.")
 
