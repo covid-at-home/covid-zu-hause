@@ -1,4 +1,4 @@
-## Stufe 2 -- Du hast Symptome
+## Stufe 2 -- Du hast erste Symptome
 
 ![](/images/sneezing-emoji.png)
 
@@ -6,25 +6,49 @@ Du solltest aufpassen, wenn du an einem der folgenden Symptome leidest:
 
 * Fieber
 * Müdigkeit
-* Trockener (unproduktiver) Husten
-* Schleimiger Auswurf 
-* Gelenk-/Muskelschmerzen
+* Trockener (unproduktiver) Husten über einen längeren Zeitraum
 * Kurzatmigkeit
-* Appetitlosigkeit
+* Magen-Darm Symptome
 
-Am Anfang können weitere Symptome auftreten. Dazu gehören Kopfschmerzen, Schüttelfrost, Schwindel, eine verstopfte Nase, Bauchschmerzen, Durchfall, Übelkeit und Erbrechen. Im späteren Krankheitsverlauf kann der Geruchs- oder Geschmackssinn für mehrere Tage verloren gehen.
+Fieber ist das am häufigsten beobahtete Symptom, aber tritt trotzdem nicht in allen Fällen auf. [Anfängliche Beobachtungen](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) schienen nicht auf Magen-Darm Symptome hinzuweisen (Durchfall, Übelkeit, Erbrechen, Bauchschmerzen, Appetitlosigkeit). [Neuere Erkenntnisse](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) deuten aber darauf hin, dass sie wohl doch häufig und sogar vor den Symptomen der Atemwege auftreten können. Zu den Anfangssymptomen können auch Gelenk-/Muskelschmerzen, Kopfschmerzen, Schüttelfrost, Schwindel, Nasenverstopfung und Halsschmerzen gehören. Später können dann für mehrere Tage [Verlust von Geruchs- und Geschmackssinn] dazu kommen.  (npr.org/Abschnitte/Ziegensandoda/2020/03/26/821582951/ist-verlust-des-Geruchs-und-Geschmacks-sind-ein-Symptom-von-oviden-19-Ärzten-will-zu-erledigen).
+
+Viele der beschriebenen Symptome werden aber auch von anderen Krankheiten wie Erkältungen, Grippe und Allergien hervorgerufen. Tatsächlich deuten Nasenverstopfung, juckende Augen und Niesen höchstwahrscheinlich eher auf eine andere Erkrankung als COVID-19 hin, wie z.B. Allergien. COVID-19 lässt sich nicht eindeutig an den Symptomen erkennen. Nur ein Test verschafft hier Gewissheit. 
 
 Ist COVID-19 an dem Ort, an dem du lebst, verbreitet? Warst du in einem betroffenen Gebiet? Oder warst du in der Nähe von jemandem, der in einem betroffenen Gebiet war? Dann könnten deine Symptome sehr wohl COVID-19 sein. Aber denke daran: In vielen Fällen sind die Chancen, dass es sich um etwas anderes handelt, noch größer.
 
-> Hinweis: Fieber ist keine Gefühlssache. Es muss gemessen werden. Du brauchst ein Thermometer (oder zwei) und ein Fiebertagebuch. Im Fiebertagebuch hältst du mindestens die Tagestemperatur fest. Wenn du die Temperatur rektal (d.h. im Hintern) misst, ist sie präziser. Reinige das Thermometer nach jedem Gebrauch mit einem Tuch und Alkohol. Stelle sicher, dass du genügend Tücher und Alkohol hast. Wenn du die Temperatur im Mund misst, solltest du 20 Minuten lang vorher nichts essen oder trinken. Notiere die Methode in jedem Fall in deinem Fiebertagebuch. Dadurch weiß das Gesundheitspersonal, um welche Methode es sich handelt (zu den oralen Temperaturen werden oft etwa 0,7 Grad Celsius addiert).
+> Hinweis: Fieber ist keine Gefühlssache. Es muss gemessen werden. Du brauchst ein Thermometer (oder zwei, falls eines kaputt geht) und ein Fiebertagebuch. Im Fiebertagebuch hältst du mindestens die Tagestemperatur fest. Wenn du die Temperatur rektal (d.h. im Hintern) misst, ist sie präziser. Reinige das Thermometer nach jedem Gebrauch mit einem Tuch und Alkohol. Stelle sicher, dass du genügend Tücher und Alkohol hast. Wenn du die Temperatur im Mund misst, solltest du 20 Minuten lang vorher nichts essen oder trinken. Notiere die Methode in jedem Fall in deinem Fiebertagebuch. Dadurch wissen dann die Mediziner\*innen, um welche Methode es sich handelt (zu den oralen Temperaturen werden oft etwa 0,7° Celsius addiert).
+Hier eine gute Anleitung zum [Fieber messen](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html). 
 
-### Diagnose
+### Wenn du keine Symptome hast
 
-Richtlinien für den Test auf COVID-19 hängen davon ab, wo du dich befindest und in welchem Stadium die Pandemie in deinem Gebiet ist. Schaue online, rufe die offiziellen Hotlines an und befolge die offiziellen Richtlinien. Ziehe in Erwägung, zu einem Drive-Through-Testzentrum zu fahren, wenn es in deiner Gegend ein solches gibt und der\*die Patient\*in für den Test geeignet ist. **Du solltest nicht einfach unangekündigt in einer Arztpraxis oder einem Krankenhaus auftauchen, wenn du Symptome verspürst.**
+Manche Menschen tragen das Virus, sind infektiös und stecken andere Menschen an ohne es selbst zu wissen oder zu bemerken. Leider scheint das recht häufig bei ca. [25% der Infizierten](https://www.theguardian.com/world/2020/apr/01/china-pivots-to-tackle-silent-covid-19-carriers-as-us-says-a-quarter-of-cases-may-have-no-symptoms) vorzukommen.
+Solange in deiner Nähe keine grossflächigen Tests möglich sind (und das ist derzeit fast nirgends der Fall) ist es also quasi nicht möglich herauszufinden, ob du dazu gehörst. 
+Deshal ist es so wichtig, dass du die offiziellen Richtlinien befolgst, insbesondere was das Vermeiden von Kontakten wie in Stufe 1 beschrieben angeht. 
 
-> Denke daran: Du solltest dich nicht in Krankenhäusern aufhalten, wenn du nicht dort sein musst: Du und/oder der\*die Patient\*in laufen Gefahr, sich mit weiteren Infektionen anzustecken. Die Beschaffenheit von Krankenhäusern sorgt für resistentere Infektionen gegen Standardbehandlungen. Dies gilt besonders für bakterielle oder pilzartige Infektionen. Außerdem: Viele Krankenhäuser werden überlastet sein.
+### Wenn du Symptome hast die zu COVID-19 passen
+Jetzt ist eine Sache besonders wichtig: BLEIB ZU HAUSE! (oder geh nach Hause, wenn du woanders bist). Melde dich krank. Meide Kontakte so gut es geht. Wenn du mit Menschen zusammen wohnst, bleibe allein in deinem Zimmer. Wenn du alleine wohnst, sag anderen bescheid (Freunde, Familie) dass du krank bist und bleib in Kontakt. 
 
-### Keine Panik - informierte Aufmerksamkeit ist gefragt
+{{ site.data.tags.breakout.begin }}
+
+####Symptome? COVID-19 ist meldepflichtig...
+
+Jetzt sind aktuelle Informationen wichitg. Das Gesundheitsamt in deinem Bundeland muss bescheid wissen, damit klar ist wo, wie und wie schnell sich das Virus ausbreitet. Aber auch, damit ggf. weitere Schritte eingeplant werden können, falls du Hilfe brauchst. Möglicherweise gibt's eine Telefonnummer, die du anrifen kannst oder eine App zum runterladen. Du findest sicher im Internet entsprechende Hinweise. 
+
+ ####Diagnose
+
+Du wirst wissen wollen, ob's "nur" ne Grippe oder eine Erkältung ist oder wirklich COVID-19. Je nach dem wo du wohnst und wie schlimm die Pandemie dort schon ist wird es unterschiediche Vorgaben geben, was du tun kannst. Schau im Internet, rufe die offiziellen Telefonnummern an, halte dich möglichst genau an die Vorgaben und gehe davon aus, dass es dafür gute Gründe gibt, auch wenn du die nicht gleich verstehst. So kann es z.B. sein, dass du nicht getestet werden kannst, obwohl du alle Symptome hast. Vermutlich reichen dann die Testmöglichkeiten gerade nicht und werden in den Krankenhäusern gebraucht um nicht fälschlich Menschen mit Grippe zu Menschen mit COVID-19 auf die selbe Station zu legen, was fatal wäre. 
+Es kann auch sein, dass die offizielle Vorgaben zu den Tests an deinem Wohnort nicht umgesetzt werden können. Möglicherweise kommst Du am Telefon nicht durch oder die Schlangen sind zu lang oder zu unsicher (Du willst Dich ja nicht anstecken bei dem Versuch rauszufinden ob Du's hast).
+
+In manchen Städten kommen vielleicht Ärzt\*innen in voller Schutzkleindung zu dir nach Hause um einen Abstrich zu nehmen. Woanders kannst Du vielleicht zu einem "drive-threw" Test mit dem Auto fahren. Es gibt auch Test-Sets die Dir zugeschickt werden, bei denen Du dann den Abstrich selbst machst und dann einschicken kannst. 
+Wie das alles speziell bei Dir sein wird können wir natürllich nicht wissen und auch nicht besser dabei helfen das rauszufinden, als Dir zu raten dich intensiv drum zu kümmern, nachdem du dich in Quarataine begeben hast.
+
+ {{ site.data.tags.breakout.end }}
+
+**Auf keinen Fall solltest Du einfach unangekündigt in einer Arztpraxis oder einem Krankenhaus auftauchen, wenn du Symptome verspürst.**
+
+> Denke daran: Dabei geht es um Deine eigene Sicherheit! Du und/oder der\*die Patient\*in laufen Gefahr, sich jetzt überhaupt erst mit COVID-19 oder mit zusätzlichen Infektionen anzustecken. Krankenhäuser sind Orte an denen es oft resistente Keime aller Art gibt. Das gilt besonders für Infektionen mit Pilzen oder Bakterien. Außerdem: Viele Krankenhäuser werden hoffnungslos überlastet sein.
+
+### Keine Panik
 
 Für die meisten Menschen wird dies bereits der Höhepunkt der Symptome sein. Sie werden ein wenig krank sein und dann wird es Ihnen besser gehen. Erledigt. Gleichzeitig werden einige Menschen nicht so viel Glück haben. Selbst wenn nur ein relativ kleiner Prozentsatz der Betroffenen medizinische Versorgung benötigt. Dies wird eine ernsthafte Belastung für Ärzte, Krankenschwestern und die verfügbaren medizinischen Ressourcen. Wir können alle helfen. Es gibt Menschen, die aus Übervorsicht zum Arzt gehen. Auch wenn sie nicht wirklich (so) krank sind. Sie tun dies, weil sie Beruhigung brauchen. Die kommenden Wochen und Monate sind dafür keine gute Zeit. Diese Website soll dir mehr Selbstvertrauen und Möglichkeiten geben. Damit du für dich selbst, deine Freunde und deine Angehörigen sorgen kannst, bis du tatsächlich professionelle Hilfe benötigst.
 
