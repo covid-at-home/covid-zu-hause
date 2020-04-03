@@ -77,68 +77,93 @@ Allerspätestens jetzt ist es an der Zeit für Masken. Wenn du Masken bekommen k
 - Das richtige Anbringen von Atemschutzmasken ist schwierig und wichtig; schau dir [einige Videos](https://www.youtube.com/results?search_query=how+zu+A+A+Maske) an. Die Masken müssen mit den Fingern an das Gesicht angeschmiegt werden ohne die Brücke zu quetschen. 
 - Sei vorsichtig beim anziehen. Fasse Maske o.ä. nur mit sauberen Händen und in nicht kontaminierte Umgebung an. 
 - Sei vorsichtig beim ausziehen. Zuerst Handschuhe ausziehen und Hände waschen, dann Maske abnehmen und Hände waschen, dann andere PSA oder schmutzige Kleidung ausziehen und Hände waschen. Zieh deine möglicherweise kontaminierte Kleidung aus und Hände waschen. Jetzt kannst du dich an einen nicht kontaminierten Ort begeben.  
-- Entsorgen Sie gebrauchte Handschuhe in einem Einweg-Müllbeutel, in einer Doppeltüte und/oder legen Sie den Müll für 72 Stunden beiseite, bevor Sie ihn extern entsorgen. 
-- Obwohl dies nicht normal ist, möchten Sie wahrscheinlich Masken wiederverwenden, da sie weltweit bereits knapp sind (und das Gleiche könnte auch für andere PSA gelten). Der beste Weg, PSA wiederzuverwenden, ist die Kennzeichnung von sieben Sets - eines für jeden Wochentag. Drehen Sie sie nach dem Tragen, um eine Woche lang an einem sauberen Ort zu sitzen. Wenn Sie Atemschutzmasken schneller dekontaminiert werden müssen, backen Sie sie im Ofen bei 70° Celsius (ca. 160° Farenheit) 30 Minuten lang. 
+- Entsorge gebrauchte Handschuhe in einem Einweg-Müllbeutel, in einer Doppeltüte und/oder lege den Müll für 72 Stunden beiseite, bevor der in die grosse Tonne kommt. 
+- Obwohl das so eigentlich nicht gedacht ist möchtest du wahrscheinlich die Masken wiederverwenden. Inzwischen sind die weltweit ziemlich knapp (und das Gleiche könnte auch für anderen PSAs gelten). Der beste Weg PSAs wiederzuverwenden ist die Kennzeichnung von sieben Sets - eines für jeden Wochentag. Einfach je nach Tag ein anderes Set verwenden und durchrotieren. Wenn du die Atemschutzmasken schneller wieder brauchst, einfach im Ofen bei 70° Celsius (ca. 160° Farenheit) 30 Minuten lang "backen". 
 
 
 ### Familie, Mitbewohner, etc.
 
-Personen, die mit einer infizierten Person zusammen leben sollten folgendes beachten. Vorsorglich sollten sie sich ebenfalls als infiziert betrachten. Daher sollten sie sich in Selbstisolation begeben. Sie sollten dabei den größtmöglichen Abstand zum\*zur Patienten\*in wahren, solange der\*die Patient\*in sich selbst versorgen kann.
+{{site.data.tags.breakout.begin}}
 
-Reinige alle häufig berührten Oberflächen regelmäßig mit einem mit Wasser verdünnten Haushaltsbleichmittel: 10 ml / 2 TL Bleichmittel mit einem halben Liter / 2 Tassen Wasser. Wasche das Messwerkzeug vor der Wiederverwendung sorgfältig. Du kannst diese Lösung in ein ausgedientes Pflanzensprühgerät oder eine saubere Sprühflasche geben. Du solltest dem Reiniger eine Minute Zeit geben, um auf Oberflächen zu reagieren. Wische es dann trocken ab.
+Kümmere dich um aktuellen Informationen über offiziellen Vorgaben und Instruktionen für das Zusammenleben und frage ggf. nach Schutzmassnahmen, Masken, o.ä.
 
-Spätestens jetzt ist es an der Zeit, über persönliche Schutzausrüstung (PSA) nachzudenken. Wenn du Masken bekommen kannst, noch nicht krank warst UND ES FÜR ÄRZTE UND PFLEGEKRÄFTE GENUG MASKEN GIBT ist es wahrscheinlich eine gute Idee, eine zu tragen. Einweghandschuhe, langärmelige Schutzkittel und Augenschutz können ebenfalls geeignet sein. Die [Einkaufsseite](/shopping) auf dieser Website enthält einige Ideen für persönliche Schutz- und Hygieneartikel.
+{{site.data.tags.breakout.end}}
 
-An den meisten Orten wird irgendwann die Zahl der Fälle in die Höhe schießen. Viele Menschen haben dann bereits COVID-19 überstanden. Die Behörden werden nicht mehr aufzeichnen, wer es gehabt hat und wer nicht. Die Grundlage bleibt dann die gleiche: Versuche ältere Menschen und Menschen mit bestehenden Krankheiten zu schützen. Versuche die Ausbreitung so weit wie möglich zu minimieren. Denke daran: Je mehr wir die Ausbreitung der Krankheit verlangsamen können, desto besser ist es für alle. Denn durch eine Verlangsamung der Ausbreitung kannst du dazu beitragen, die Überlastung des Gesundheitssystems zu verringern. Dabei sprechen viele auch vom Abflachen der Kurve ("flatting the curve"). Das wiederum gibt mehr Menschen Zugang zu medizinischer Versorgung, die sie benötigen. Dies hilft Ärzten\*innen und Krankenpflerger\*innen, mehr Leben zu retten. 
+Hier sind einige allgemeine Vorschläge und Tipps für den Umgang mit Familie und Mitbewohnern, wenn du COVID-19 hast oder vermutest, dass du infiziert sein könntest: 
+**Selbst-Quarantäne - Abstand nach draussen...** Alle Menschen in einem Haushalt, in dem sich eine infizierte oder vermeindlich infizierte Person befindet sollten sich selbst als vermeintlich infiziert betrachten und entspreched in selbst-Quarantäne gehen. 
+**... und Abstand nach drinnen. "** Solange ein\*e Patient\*in sich selbst versorgen kann, Abstand halten. Das bedeutet hauptsächlich, sich in getrennten Zimmern aufzuhalten, in verschiedenen Betten zu schlafen, getrennt zu essen, unterschiedliches Geschirr und Handtücher zu benutzen und wenn möglich verschiedene Badezimmer zu benutzen. Wir wissen, das ist seltsam und manchmal herzzerreißend schwer. Aber COVID-19 ist eine potenziell tödliche Krankheit und die Menschen in deiner Nähe werden das (hoffentlich) verstehen. 
+**Reinige regelmäßig alle häufig berührten Oberflächen** (Türgriffe, Lichtschalter, Tischoberflächen, Tastaturen, Telefone, Toilettenhandgriffe in gemeinsam genutzten Badezimmern, Griffe von Küchenarmaturen in gemeinsam genutzten Küchen - halt alles, was im Alltag angefasst wird) mit einem normalen Haushaltsreiniger, Wasserstoffperoxidlösung oder verdünntem Bleichmittel (10 ml / 2 Teelöffel Bleichmittel mit einem halben Liter / 2 Tassen Wasser; reinige die Messbecher vor der Wiederverwendung sorgfältig ). Du kannst diese Lösung in ein ausgedientes Pflanzensprühgerät oder eine Sprühflasche für Reinigungsmittel füllen und aufsprühen. Lass die Flüssigkeit eine Minute einwirken bevor du sie trocken wischst. 
+**Und denkt an die Schutzbekleidung** Deine Mitbewohner sollten auch in der Wohnung Masken tragen. Und sie sollten zusätzlich Handschuhe tragen, wenn sie sich um deine Müll oder deine Wäsche kümmern.
+	
+In den meisten Gegenden wird irgendwann die Zahl der Fälle in die Höhe schießen. Viele Menschen haben dann bereits COVID-19 überstanden. Die Behörden werden nicht mehr aufzeichnen, wer es gehabt hat und wer nicht. Die Grundlage bleibt dann die gleiche: Versuche ältere Menschen und Menschen mit bestehenden Krankheiten zu schützen. Versuche die Ausbreitung so weit wie möglich zu minimieren. Denk dran: Je erfolgreicher wir die Ausbreitung der Krankheit verlangsamen können, desto besser für alle. Denn durch eine Verlangsamung der Ausbreitung kannst du dazu beitragen, die Überlastung des Gesundheitssystems zu verringern. Das ist mit "Abflachen der Kurve" ("flatting the curve") gemeint. Das verschafft mehr Menschen Zugang zu medizinischer Versorgung (ganz gleich aus welchem Grund, die anderen Notfälle hören ja nicht plötzlich auf), die sie dann dringend benötigen. Und es hilft Ärzten\*innen und Krankenpflerger\*innen, mehr Leben retten zu können. 
 
 ### Tagebuch
 
-Wenn die Symptome zum ersten Mal auftreten, ist der richtige Zeitpunkt, ein Krankheitstagebuch zu beginnen. 
+Wenn die Symptome zum ersten Mal auftreten ist der richtige Moment ein Krankheitstagebuch zu beginnen. 
 
-* Messe einige Male am Tag deine Körpertemperatur. Tue das auch, wenn du (noch) kein Fieber hast. Gut ist es, dies zu regelmäßigen Zeiten zu tun. Es bieten sich Punkte in deiner normalen Routine an. Zum Beispiel jeden Morgen vor der Zubereitung von Kaffee oder Tee.
-* Wiege den\*die Patienten\*in möglichst einmal am Tag. 
-* Zähle auch die Atem- und Herzfrequenzen in Atemzügen und Schlägen pro Minute. So kannst du dich an diese Dinge gewöhnen. Du kannst üben. Wenn du früh anfängst, kannst du dir ein Bild machen, wie (mehr oder weniger) gesunde Werte für dich aussehen.
-* Es ist nicht zwingend notwendig, aber du könntest auch Blutdruck oder Sauerstoffsättigung messen. Geräte hierfür sind günstig erhältlich[Einkaufsseite](/shopping)). 
+* Messe einige Male am Tag deine Körpertemperatur. Tue das auch, wenn du (noch) kein Fieber hast. Mach das regelmässig immer zur gleichen Zeit z.B. jeden Morgen vorm  Kaffee oder Tee kochen.
+* Wiege dich bzw. den\*die Patienten\*in möglichst einmal am Tag. 
+* Zähle auch die Atem- und Herzfrequenzen in Atemzügen und Schlägen pro Minute. So kannst du dich an diese Dinge gewöhnen und üben. Wenn du damit frühzeitig anfängst kannst du dir ein Bild machen, wie (mehr oder weniger) gesunde Werte aussehen.
+* Es ist zwar nicht zwingend notwendig, aber du könntest auch Blutdruck oder Sauerstoffsättigung selbst messen. Geräte hierfür sind günstig erhältlich: [Einkaufsseite](/shopping)). 
 
-Schreibe dann alle Symptome auf, die der\*die Patient\*in hat:
+Schreibe dann alle Symptome auf, die du oder der\*die Patient\*in hat:
 * Wenn er\*sie Schmerzen hat: 
-	* Wo und wann ist der Schmerz? 
-	* Wie stark auf einer Skala von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)? 
+	* Wo und wann trat der Schmerz auf? 
+	* Wie stark ist er auf einer Skala von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)? 
 * Wenn er\*sie Husten hat:
 	* Wie schlimm ist der Husten?
 	* Welche Farbe hat der Schleim, falls welcher auftritt? 
-* Achte darauf, welche Medikamente der\*die Patient\*in einnimmt. Paracetamol ist eine gute Wahl zur Fieber- und Schmerzunterdrückung. Durch das Krankheitstagebuch kannst du einen Überblick behalten, wie viel du wann eingenommen hast. Dadurch kannst du das Fieber angemessen behandeln, ohne dass du innerhalb von 24 Stunden mehr als die empfohlene Menge an fiebersenkenden Mitteln einnimmst. Bei Paracetamol liegt die maximal empfohlene Dosis bei 2000 mg bei einem erwachsenen gesunden Patienten über einen kurzen Zeitraum. Bei Fragen zu Medikamenten, wende dich telefonisch an einen Arzt oder Apotheker.
+* Achte darauf, welche Medikamente du oder der\*die Patient\*in einnimmt. Paracetamol ist eine gute Wahl zur Fieber- und Schmerzunterdrückung. Durch das Krankheitstagebuch kannst du einen Überblick behalten, wie viel du wann eingenommen hast. Dadurch kannst du das Fieber angemessen behandeln, ohne dass du innerhalb von 24 Stunden mehr als die empfohlene Menge an fiebersenkenden Mitteln einnimmst. Bei Paracetamol liegt die maximal empfohlene Dosis bei 2000 mg bei einem erwachsenen gesunden Patienten über einen kurzen Zeitraum. Bei Fragen zu Medikamenten, wende dich telefonisch an einen Arzt oder Apotheker.
 
 [![](/images/diary-small-slanted.png)](/diary)
 
 ##### Ausdruckbares Krankheitstagebuch
 
-Wir haben ein **druckbares [Krankheitstagebuch](/images/covid-diary.pdf)** erstellt, in das du alle Informationen eintragen kannst, die du sammelst. Wenn du möchtest, kannst du für jeden Tag eines dieser Formulare ausdrucken. Bewahre es bei dem\*der Patienten\*in auf, falls sich die Situation verschlechtert und du/der\*die Patient\*in ins Krankenhaus muss/t.
+Wir haben ein **druckbares [Krankheitstagebuch](/images/covid-diary.pdf)** erstellt, in das du alle Informationen eintragen kannst. Wenn du möchtest kannst du für jeden Tag eines dieser Formulare ausdrucken. Bewahre es griffbereit bei dem\*der Patienten\*in auf, falls sich die Situation verschlechtert und du/der\*die Patient\*in ins Krankenhaus muss.
 
-Wenn du stattdessen dein eigenes Krankheitstagebuch führst, denke daran, dass es besser ist, es auf Papier als elektronisch zu führen. Dadurch werden deine medizinischen Daten besser geschützt. Es erleichtert auch die Mitnahme des Tagebuchs in eine Arztpraxis oder in ein Krankenhaus. Wenn du ein eigenes Krankheitstagebuch beginnen möchtest, nutze die Vorlage oben. Wenn du das nicht möchtest, nimm ein leeres Druckerpapier und drehe es in Längsrichtung (ins Querformat). Erstelle dir mit einem Lineal einige Spalten. Erstelle für jeden Aspekt, den du messen möchtest eine eigene Spalte. Schreibe über jede Spalte eine Spaltenüberschrift. Schreibe das Datum des ersten Tages ganz oben in die Kopfzeile der ersten Zeile. Dann fülle es einfach kontinuierlich aus. Nutze für jeden Tag eine eigene Zeile.
+### Kontaktlinen
 
-Die Spalten sollten enthalten:
-- Tageskörpergewicht
-- Körpertemperatur und Zeit
-- Fiebermedikamente: Medikament, Dosis, Zeit(en)
-- andere Medikamente: gleich
-- Schmerz: wo, wann, wie stark er ist, von 0 (keine Schmerzen) bis 10 (schlimmste vorstellbare Schmerzen)
-- Husten: tut er weh, ist er produktiv, nass oder trocken, häufig oder gelegentlich, stört er den Schlaf?
-- Schleim: Welche Farbe, wie viel?
-- Atmung: Ist es mühsam, wenn man nichts tut oder sich anstrengt? Wenn du Atemnot spürst, beginne vielleicht damit, die Atemfrequenz in Atemzügen pro Minute zu notieren.
+Es ist besser (falls verfügbar) eine Brille zu tragen statt Kontaktlinsen, auch wenn du noch nicht so krank bist. Beim einlegen der Kontaktlinsen fasst du dir ins Auge und könntest es dabei [infizieren](https://icrcat.com/en/coronavirus-and-conjunctivitis/). 
 
-### Wieder gesund werden
+### Werde wieder gesund
 
-Behandele Schmerzen und Fieber mit frei verkäuflichen Medikamenten deiner Wahl (z.B. Paracetamol) in der empfohlenen sicheren Dosierung. Baden und Duschen kann auch helfen die Körpertemperatur zu regulieren. Achte dabei darauf, dass das Wasser sich angenehm anfühlt. Das Wasser sollte so warm sein wie deine normale Körpertemperatur. Also ca. 37 Grad Celsius.
-Versuche weiterhin nahrhafte Lebensmittel zu essen. Nichts zu schweres und nicht zu viel auf einmal. Achte dabei auf viele Vitamine und frische Produkte. Außerdem solltest du ausreichende Kohlenhydrate (Kartoffeln, Reis, Nudeln usw.) essen. Mindestens 3 Mal am Tag inhalieren kann die Beschwerden lindern. Gehe täglich spazieren. Halte dabei Abstand zu anderen Menschen. Trinke keine säurehaltigen Getränke wie Limo oder Saft, wenn dein Rachen gereizt ist. Dann ist Wasser und Kräutertee besser. 
+- **Fieber ist nicht nur schlecht**
+  - Behandele Schmerzen und Fieber mit frei verkäuflichen Medikamenten deiner Wahl (z.B. Paracetamol) in der empfohlenen sicheren Dosierung. 
+  - Fieber ist ein Abwehrmechanismus des Körpers gegen Keime und Viren. Aktuelle Forschungsergebnisse legen nahe, dass es besser ist das Fieber [nicht zu sehr und nicht zu früh zu unterdrücken](https://www.ncbi.nlm.nih.gov/pubmed/16433601). Fieber sollte erst ab 40° Celsius behandelt werden. 
+  - Fieber lässt sich auch gut durch ein Bad oder eine Dusche behandeln. Nicht zu kalt, denn paradoxer weise würde das dann eintretende Zittern die Körpertemperatur eher ansteigen lassen. trockne dich nicht sofort ab. Das verdunstende Wasser reduziert ebenfalls deine Körpertemperatur. 
+  - Wir konnten die Fragen zur Sicherheit von Ibuprofen / nicht-steroidalen Antirheumatika sowie Kortikosteroiden / steroidalen Antirheumatika in der COVID-19 Behandlung nicht vollständig klären. Wenn möglich, vermeide diese Medikamente, wenn du Beschwerden hast. 
+- **Essen** Versuche weiterhin nahrhafte Lebensmittel zu essen. Nichts zu schweres und nicht zu viel auf einmal. Achte dabei auf viele Vitamine und frische Produkte. Zuviel kohlenhydrathaltiges Essen (Zucker, Nudel, Reis etc.) kann sich negativ auf die Entzündigssituation auswirken. 
 
-Beachte die Farbe und Menge deines Urins auf Zeichen für Dehydrierung. Solche Zeichen sind geringe Menge oder dunkler Urin. Dunkel ist der Urin, wenn er mehr gefärbt als klar ist. Wenn er dunkel ist (mehr gefärbt als klar) oder weniger als sonst ist, trinke mehr Wasser. Es ist sehr wichtig eine Dehydrierung zu vermeiden. Dafür musst du genügend trinken. 
-Gerade wenn du Fieber hast und viel schwitzt oder müde bist und an Beschwerden leidest, kann das schwierig sein. Du hast Schwierigkeiten zu trinken und Anzeichen von Dehydrierung wie dunklen Urin? Du kannst Nahrungsmittel essen, die mehr Wasser enthalten. Das sind zum Beispiel Gurken, Organen oder Äpfel. Oder du kannst Suppen essen. Es hilft, dir kleine Ziele zu setzen. Zum Beispiel jedes Mal, wenn du aufstehst, ein Glas Wasser zu trinken.
+- **Inhalieren** Mindestens 3 Mal am Tag inhalieren kann die Beschwerden lindern. Verwende dafür einen [Inhalator](https://covid-zu.hause.info/shopping). Damit ist das Inhalieren am einfachsten und am sichersten. Ein Luftbefeuchter oder häufiges Duschen helfen ebenfalls, oder die klassische Methode, Kochendes Wasser in eine Schüssel geben und mit dem Kopf unter einem Handtuch so über die Schüssel beugen, dass sich der Warme (nicht zu heisse) Wasserdampf gut einartmen lässt. Inhalieren ist zwar auch kein Zaubermittel, aber es hilft beim befeuchten der Schleimhäute in der Lunge und beim Abhusten. 
 
-Wenn du viel Schleim produzierst, solltest du Milchprodukte vermeiden. Diese können die Schleimproduktion fördern. Für Menschen mit Lungenkrankheit wird empfohlen gewisse Nahrungsmittel zu vermeiden. Dazu gehören Milchprodukte, übermäßiger Salzkonsum und Nitrate. Nitrate werden in den meisten Wurstwaren verwendet. Wenn du unter dem Husten sehr leidest, kannst du frei verkäufliche Hustenmittel nutzen. Das sind Bonbons, Tees oder Hustensäfte. Einige frei verkäufliche Hustenmittel enthalten Inhaltsstoffe wie Guaifenesin oder NAK. Diese gelten als Schleimlöser und lindern den Husten. In der Regel machen sie den Schleim dünn und erleichtern so den Husten. Dein\*e Apotheker\*in kann dir helfen, ein für dich geeignetes Mittel zu finden. Versuche nicht den Husten vollständig zu unterdrücken. Es ist ein normaler Mechanismus des Körpers. Er hilft, Viren los zu werden.
+- **Bleib in Bewegung**  Gehe täglich spazieren in frischer Luft am besten am Tag und bei Sonnenschein. Halte dabei grossen Abstand zu anderen Menschen. 
+
+- **Viel trinken ist wichtig** 
+  - ...also wirklich wichtig. Nur so können deine Lungen genug möglichst dünnflüssiges Sekret produzieren, damit du produktiv abhusten kannst und damit Schad- und Giftstoffe aus der Lunge beförderst. 
+  - Trinke keine säurehaltigen Getränke wie Limo oder Saft. Wasser und Kräutertees sind besser.
+  - Dein Urin sollte hellgelb oder komplett klar und farblos sein. Wenn er dunkelgelb ist und du nur selten auf die Toilette musst, trinke unbedingt viel mehr Wasser. Gerade wenn du Fieber hast und viel schwitzt oder müde bist und an Beschwerden leidest, kann das schwierig sein. Du kannst dann auch Nahrungsmittel essen, die mevielhr Wasser enthalten. Das sind zum Beispiel Gurken, Organen oder Äpfel. Oder du kannst Suppen essen. Setze dir kleine Ziele, z.B. jedes mal wenn du aufstehst ein Glas Wasser zu trinken. 
+Wenn du viel Schleim produzierst, solltest du Milchprodukte vermeiden. Diese können die Schleimproduktion fördern. Für Menschen mit Lungenkrankheit wird empfohlen gewisse Nahrungsmittel zu vermeiden. Dazu gehören Milchprodukte, übermäßiger Salzkonsum und Nitrate. Nitrate werden in den meisten Wurstwaren verwendet. 
+
+- **Husten fördern**
+- Versuche nicht den Husten vollständig zu unterdrücken. Es ist ein normaler Mechanismus des Körpers. Er hilft, Viren los zu werden und die Lunge von Flüssigkeit und Schadstoffen zu befreien. 
+- Produktiver Husten sollte nicht unterdrückt werden. 
+- Unproduktiver Husten reizt unnötig die Lunge. Wenn du unter dem Husten sehr leidest und z.B. deshalb nicht schlafen kannst helfen Kräutertees wie Anis oder Kamille, Kakao oder Bonbons, Tees oder Hustensäfte. Einige frei verkäufliche Hustenmittel enthalten Inhaltsstoffe wie Guaifenesin oder NAK. Diese gelten als Schleimlöser und lindern den Husten. In der Regel machen sie den Schleim dünn und erleichtern so den Husten. Dein\*e Apotheker\*in kann dir helfen, ein für dich geeignetes Mittel zu finden. 
+
+- **Steh auf** Hier noch ein paar Tips die dabei helfen können eine Lungenentzündung oder andere Komplikationen vielleicht zu vermeiden:
+- Sitze so oft wie möglich aufrecht. Das hilft deiner Lunge. Lieg nicht den ganzen Tag flach im Bett.  
+- Raus aus dem Bett, steh auf und beweg dich regelmässig. Auch wenn du sehr müde bist. Senkrechtes stehen und laufen hilft. Falls nötig halte dich dabei gut fest damit du nicht stürzt. 
+- Atme tief ein und aus und hebe dabei die Arme über deinen Kopf und wieder zurück.
+- Öffne das Fenster, atme frische Luft, vor allem wenn du unter Atemnot leidest.
+- Trainiere deine Lunge, in dem du ein mal pro Stunde einen Luftballon aufbläst. Das hilft besonders gut, wenn z.B. du zu schnell atmest oder Atemnot hast. Sei geduldig und nicht zu streng mit dir. Konzentriere dich darauf, ganz tief einzuatmen und vollständig auszuatmen. Atmen kann man trainieren und durch wiederholte Übungen aufbauen und verbesser, wie Muskeln. 
+
 
 ### Geht es dir besser?
 
-Bevor du deine Quarantäne beendest, möchten die Gesundheitsbehörden dich möglicherweise (erneut) testen. Damit wollen sie festzustellen, ob du wirklich nicht mehr ansteckend bist. Es ist allerdings möglich, dass die Zahl der Fälle bereits so hoch ist, dass die Menschen ihre eigenen Entscheidungen treffen müssen. Versuche, auf der sicheren Seite zu stehen und etwas länger zu Hause zu bleiben, als offiziell angegeben. 
+site.data.tags.breakout.begin }}
+Wenn deine Symptome veschwinden bedeutet das nicht, dass du jetzt sofort deine Quarantäne beenden sollst. 
+Insebsondere wenn du zwischenzeitllich positiv getestet wurdest solltest du jetzt aktuelle Informationen einholen, ob du dich jetzt noch einmal für einen abschliessenden Test melden sollst. Das hängt natürlich auch von den lokalen Testmöglichkeiten ab. Dort bekommst du dann auch Empfehlungen dafür, wie es weiter geht. 
+{{ site.data.tags.breakout.end }}
 
-Du hast es geschafft, dich testen zu lassen und der Test ist negativ? Juhu! Du weißt jetzt, dass dein Körper (vermutlich) eine Immunität aufgebaut hat. Überprüfe zum Aufbau der Immunität unbedingt die neuesten wissenschaftlichen Erkenntnisse. Wenn du immun bist, bedeutet das, dass diese Sache für dich vorbei ist. Du bist nun eine logischere Wahl, um einer Familie und deinen Freund\*innen zu helfen, wenn sie krank werden. Je nachdem, in welchem Zustand sich die Welt befindet, solltest du deinen Arbeitgeber und andere, die von dir abhängig sein könnten, darüber informieren. Teile ihnen mit, dass du es hattest und dass es dir wieder gut geht, damit sie wissen, dass du jetzt wahrscheinlich immun bist.
+Falls sich ein Kontakt mit den Behörden nicht herstellen lässt, ist es vermutlich eine gute Idee, noch etwas länger in Quarantäne zu bleiben. Die [Empfehlung der Weltgesundheitsorganisation] (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) lautet, **nach dem Verschwinden der Symptome die Isolation mindestens zwei Wochen lang fortzusetzen, auch wenn du dich nicht mehr krank fühlst**.
+
+Du hast es geschafft, dich testen zu lassen und der Test ist negativ? Juhu! Du weißt jetzt, dass dein Körper (vermutlich für einige Zeit) eine Immunität aufgebaut hat. Überprüfe zum Aufbau der Immunität unbedingt die neuesten wissenschaftlichen Erkenntnisse. Wenn du immun bist, bedeutet das, dass diese Sache für dich vorbei ist. Du kannst jetzt deiner Familie und deinen Freund\*innen helfen, wenn sie krank werden, ohne befürchten zu müssen, dass du dich erneut ansteckst. Je nachdem, in welchem Zustand sich die Welt befindet, solltest du deinen Arbeitgeber und andere die von dir abhängig sein könnten, darüber informieren. Teile ihnen mit, dass du es hattest und dass es dir wieder gut geht, damit sie wissen, dass du jetzt wahrscheinlich immun bist.
