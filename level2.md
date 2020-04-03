@@ -31,11 +31,11 @@ Jetzt ist eine Sache besonders wichtig: BLEIB ZU HAUSE! (oder geh nach Hause, we
 
 {{ site.data.tags.breakout.begin }}
 
-**Symptome? COVID-19 ist meldepflichtig...
+***Symptome? COVID-19 ist meldepflichtig...
 
 Jetzt sind aktuelle Informationen wichitg. Das Gesundheitsamt in deiner Stadt muss bescheid wissen, damit klar ist wo, wie und wie schnell sich das Virus ausbreitet. Aber auch, damit ggf. weitere Schritte eingeplant werden können, falls du Hilfe brauchst. Möglicherweise gibt's eine Telefonnummer, die du anrufen kannst oder eine App zum runterladen. Du findest sicher im Internet entsprechende Hinweise. 
 
-**Diagnose
+***Diagnose
 
 Du wirst wissen wollen, ob's "nur" ne Grippe oder eine Erkältung ist oder wirklich COVID-19. Je nach dem wo du wohnst und wie schlimm die Pandemie dort schon ist wird es unterschiediche Vorgaben geben, was du tun kannst. Schau im Internet, rufe die offiziellen Telefonnummern an, halte dich möglichst genau an die Vorgaben und gehe davon aus, dass es dafür gute Gründe gibt, auch wenn du die nicht sofort verstehst. So kann es z.B. sein, dass du nicht getestet werden kannst, obwohl du alle Symptome hast. Vermutlich reichen dann die Testmöglichkeiten gerade nicht und werden in den Krankenhäusern gebraucht um nicht fälschlich Menschen mit Grippe zu Menschen mit COVID-19 auf die selbe Station zu legen, was fatal wäre und diese Menschen vermutlich umbringen würde. 
 Es kann auch sein, dass die offizielle Vorgaben zu den Tests an deinem Wohnort nicht umgesetzt werden können. Möglicherweise kommst du am Telefon nicht durch oder die Schlangen sind zu lang oder zu unsicher (du willst dich ja nicht anstecken bei dem Versuch rauszufinden ob du's hast).
@@ -43,7 +43,7 @@ Es kann auch sein, dass die offizielle Vorgaben zu den Tests an deinem Wohnort n
 In manchen Städten kommen vielleicht Ärzt\*innen in voller Schutzkleindung zu dir nach Hause um einen Abstrich zu nehmen. Woanders kannst du vielleicht zu einem "drive-threw" Test mit dem Auto fahren. Es gibt auch Test-Sets die dir zugeschickt werden, bei denen du dann den Abstrich selbst machst und dann zurück schicken kannst. 
 Wie das alles speziell bei dir sein wird können wir natürllich nicht wissen und auch nicht dabei helfen das rauszufinden, aber wir rate dir, dich intensiv drum zu kümmern nachdem du dich in Quarataine begeben hast.
 
- {{ site.data.tags.breakout.end }}
+{{ site.data.tags.breakout.end }}
 
 **Auf keinen Fall solltest du einfach unangekündigt in einer Arztpraxis oder einem Krankenhaus auftauchen, wenn du Symptome hast.**
 
@@ -68,7 +68,7 @@ Sei in dieser Zeit bitte besonders Achtsam was deinen Müll angeht. Benutzte Tas
 ### Persönliche Schutzausrüstung (PSA)
 
 Allerspätestens jetzt ist es an der Zeit für Masken. Wenn du Masken bekommen kannst (und nur, wenn die Masken in den Krankenhäusern nicht auch schon knapp sind) trage sie _immer_, wenn du raus gehst. Auch zum Müll rausbringen. Wenn du keine Maske hast, nimm etwas anderes, Schal, Handtuch, Atme durch ein Tuch, egal. Alles ist besser als nichts. 
-[Empfehlungen für die PSA] (https://covid-zu-hause.info/shopping) im Zusammenhang mit der COVID-19-Pandemie, die im Folgenden kurz zusammengefasst und ständig erweitert werden: 
+[Empfehlungen für die PSA](https://covid-zu-hause.info/shopping) im Zusammenhang mit der COVID-19-Pandemie, die im Folgenden kurz zusammengefasst und ständig erweitert werden: 
 
 - Benutze Schutzausrüstung, wenn du krank bist und dich in der Nähe anderer Menschen aufhalten musst oder wenn es dir gut geht, du dich aber in der Nähe von jemandem aufhältst, der krank ist (z.B. wenn du dich um jemanden kümmern musst). 
 - Verwende hochfiltrierende Atemschutzgerät wie N95, FFP2 oder FFP3, wenn verfügbar (ohne Ventil!). Auch einfache OP Masken o.ä. sind ok. Oder eine selbstgemachte oder improvisierte Maske. Haupsache nicht ohne.  
@@ -145,8 +145,7 @@ Es ist besser (falls verfügbar) eine Brille zu tragen statt Kontaktlinsen, auch
 Wenn du viel Schleim produzierst, solltest du Milchprodukte vermeiden. Diese können die Schleimproduktion fördern. Für Menschen mit Lungenkrankheit wird empfohlen gewisse Nahrungsmittel zu vermeiden. Dazu gehören Milchprodukte, übermäßiger Salzkonsum und Nitrate. Nitrate werden in den meisten Wurstwaren verwendet. 
 
 - **Husten fördern**
-- Versuche nicht den Husten vollständig zu unterdrücken. Es ist ein normaler Mechanismus des Körpers. Er hilft, Viren los zu werden und die Lunge von Flüssigkeit und Schadstoffen zu befreien. 
-- Produktiver Husten sollte nicht unterdrückt werden. 
+- Versuche nicht den Husten vollständig zu unterdrücken solange er produktiv ist. Husten ist ein normaler Mechanismus des Körpers. Er hilft, Viren los zu werden und die Lunge von Flüssigkeit und Schadstoffen zu befreien. 
 - Unproduktiver Husten reizt unnötig die Lunge. Wenn du unter dem Husten sehr leidest und z.B. deshalb nicht schlafen kannst helfen Kräutertees wie Anis oder Kamille, Kakao oder Bonbons, Tees oder Hustensäfte. Einige frei verkäufliche Hustenmittel enthalten Inhaltsstoffe wie Guaifenesin oder NAK. Diese gelten als Schleimlöser und lindern den Husten. In der Regel machen sie den Schleim dünn und erleichtern so den Husten. Dein\*e Apotheker\*in kann dir helfen, ein für dich geeignetes Mittel zu finden. 
 
 - **Steh auf** Hier noch ein paar Tips die dabei helfen können eine Lungenentzündung oder andere Komplikationen vielleicht zu vermeiden:
