@@ -31,11 +31,11 @@ Jetzt ist eine Sache besonders wichtig: BLEIB ZU HAUSE! (oder geh nach Hause, we
 
 {{ site.data.tags.breakout.begin }}
 
-###Symptome? COVID-19 ist meldepflichtig...
+**Symptome? COVID-19 ist meldepflichtig...
 
 Jetzt sind aktuelle Informationen wichitg. Das Gesundheitsamt in deiner Stadt muss bescheid wissen, damit klar ist wo, wie und wie schnell sich das Virus ausbreitet. Aber auch, damit ggf. weitere Schritte eingeplant werden können, falls du Hilfe brauchst. Möglicherweise gibt's eine Telefonnummer, die du anrufen kannst oder eine App zum runterladen. Du findest sicher im Internet entsprechende Hinweise. 
 
-###Diagnose
+**Diagnose
 
 Du wirst wissen wollen, ob's "nur" ne Grippe oder eine Erkältung ist oder wirklich COVID-19. Je nach dem wo du wohnst und wie schlimm die Pandemie dort schon ist wird es unterschiediche Vorgaben geben, was du tun kannst. Schau im Internet, rufe die offiziellen Telefonnummern an, halte dich möglichst genau an die Vorgaben und gehe davon aus, dass es dafür gute Gründe gibt, auch wenn du die nicht sofort verstehst. So kann es z.B. sein, dass du nicht getestet werden kannst, obwohl du alle Symptome hast. Vermutlich reichen dann die Testmöglichkeiten gerade nicht und werden in den Krankenhäusern gebraucht um nicht fälschlich Menschen mit Grippe zu Menschen mit COVID-19 auf die selbe Station zu legen, was fatal wäre und diese Menschen vermutlich umbringen würde. 
 Es kann auch sein, dass die offizielle Vorgaben zu den Tests an deinem Wohnort nicht umgesetzt werden können. Möglicherweise kommst du am Telefon nicht durch oder die Schlangen sind zu lang oder zu unsicher (du willst dich ja nicht anstecken bei dem Versuch rauszufinden ob du's hast).
