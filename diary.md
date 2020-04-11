@@ -2,7 +2,7 @@
 
 Wir haben ein Beispiel dafür erstellt, wie eine Tagebuchseite in Ihrem COVID-Tagebuch aussehen könnte. Es ähnelt den Informationen, die über Patienten\*innen in Krankenhäusern aufgezeichnet werden. Es mag ein wenig übertrieben erscheinen. Aber ein Tagebuch erlaubt dir, den Überblick darüber zu behalten, wie es jemandem geht. Wenn du eine\*n Arzt\*Ärztin aufsuchst oder ins Krankenhaus gehen musst, kannst du die aufgezeichneten Daten in einem Format auszuhändigen, das Ärzte\*innen gerne lesen. Druck einfach eines dieser Dokumente aus für jeden Tag, an dem der\*die Patient\*in krank ist. Damit du nicht später herausfindest, dass dir das Druckerpapier ausgegangen ist, drucke vielleicht 20-30 Exemplare als Teil deiner Vorbereitung aus. Mach dir keine Sorgen, wenn du keine Ausrüstung hast, um all diese Messungen durchzuführen. (Obwohl Messgeräte ziemlich günstig zu bekommen sind und es nicht schadet, so etwas zu besitzen, siehe [Einkaufsseite](/Shopping)).
 
-<a href="/images/covid-diary.pdf"><img style="border: 2px einfarbig schwarz; Schlagschatten(16px 16px 10px schwarz)" src="/images/covid-diary.png"></a>
+<a href="/assets/images/covid-diary.pdf"><img style="border: 2px einfarbig schwarz; Schlagschatten(16px 16px 10px schwarz)" src="/assets/images/covid-diary.png"></a>
 
 ### Start des Tagebuchs
 

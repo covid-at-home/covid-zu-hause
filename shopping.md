@@ -8,7 +8,7 @@ Hier sind einige notwendige und praktische Dinge. Diese solltest du bereit haben
 
 * **Fieberthermometer** (2-10 EUR/USD) ([Beispiel](https://www.amazon.de/gp/product/B001NYHXYS))
 
-   > ![](/images/thermometer.png)
+   > ![](/assets/images/thermometer.png)
    >
    > Ein Fieberthermometer ist sehr wichtig. Du solltest deines unbedingt überprüfen. Gerade, wenn es schon seit Ewigkeiten im Badezimmerschrank liegt. Ist die Batterie noch in Ordnung? Es schadet wirklich nicht, zwei Thermomether zu haben, nur für den Fall. Mit 2-10 Dollar sind sie auch ein großartiges Geschenk. Sie werden vielleicht anal eingeführt, um eine genauere Messung zu erhalten. Daher sind sie keine Gegenstände, die man jemandem ausleihen möchte.
 
@@ -36,7 +36,7 @@ Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise übe
 
 
 * **Medizinische Maske, vorzugsweise N95** (ein paar EUR/USD) ([Beispiel](https://www.amazon.de/dp/B085H6Y6HN))
-   > ![](/images/mask.png)
+   > ![](/assets/images/mask.png)
    >
    > FFP2- oder FFP3-Atemschutzmasken (mit oder ohne Ventil) werden ebenfalls empfohlen. Eine normale Gesichtsmaske (chirurgisch oder prozedural) ist besser als nichts, wenn du keine Atemschutzmaske bekommen kannst.
    > **In Deutschland im Moment keine Masken kaufen, die Ärzte\*innen und Krankenpfleger\*innen haben zu wenig!**
@@ -46,10 +46,10 @@ Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise übe
    > Als Schutzkleidung eignet sich ein langärmeliges, wasserabweisendes Textil, wie zum Beispiel ein günstiger Regenponcho.
 
 * **Handschuhe** (weniger als ein EUR/USD) ([Beispiel](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
+   > ![](/assets/images/gloves.png)
 
 * **Augenschutz, Schutzbrille oder Gesichtsschutz** (einige EUR/USD) ([Beispiel](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+   > ![](/assets/images/glasses.png)
    >
 
 &nbsp;
@@ -57,23 +57,23 @@ Am Ende wird alles ausreichend vorhanden sein müssen, wenn wir diese Krise übe
 ### Wäre u.U. auch ganz hilfreich
 
 * **Pulsoxymeter** (20-25 EUR/USD) ([Beispiel](https://www.amazon.de/gp/product/B07P3ZS6L3))
-   > ![](/images/pulse-oxi.png)
+   > ![](/assets/images/pulse-oxi.png)
    >
    > Kleines Gerät, das an deinem Finger befestigt wird und die Herzfrequenz (die auch auf andere Weise leicht zu messen ist) und die Sauerstoffsättigung im Blut (die auf andere Weise schwer zu messen ist) anzeigt.
    
 
 * **Blutdruckmesser** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07KY867ZH))
-   > ![](/images/blood-pressure.png)
+   > ![](/assets/images/blood-pressure.png)
    >
    > Es gibt einfache Tricks, um zu sehen, ob der Blutdruck einer Person zu niedrig wird (siehe den Haupttext auf dieser Website). Es schadet jedoch nicht, dies objektiver messen zu können, insbesondere wenn du einen Trend im Blutdruck des\*der Patienten\*in sehen willst.
 
 * **Inkontinenz / wasserdichte Laken** (20 EUR/USD oder so) ([Beispiel](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) oder [Beispiel](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
+   > ![](/assets/images/sheet.png)
    >
    > Kranke Menschen haben manchmal Unfälle. Du wirst es uns danken.
 
 * **Dampf-Inhalator** (25 EUR/USD oder so) ([Beispiel](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
+   > ![](/assets/images/steam.png)
    >
    > Oftmals als "Gesichtssauna" bezeichnet, ist dies nur ein Gerät, das Dampf abgibt, der nicht zu heiß zum Atmen ist. Jede andere Methode, die Dampf erzeugt, ist ebenfalls in Ordnung. Achte nur darauf, dass du keinen Schaden mit zu heißem Dampf anrichtest. Das Gerät läuft mit z.B. destilliertem Wasser ([Beispiel](https://www.amazon.de/gp/product/B07J5Y95MQ)), insbesondere an Orten mit einem hohen Kalziumgehalt im Leitungswasser. 
 

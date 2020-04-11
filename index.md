@@ -14,13 +14,13 @@ Die Inhalte dieser Webseite sind zu Informationszwecken bereitgestellt und stell
 
 Als wir um die Iden des März 2020 herum in Berlin begannen für diese Seite zu schreiben war vieles noch unklar, aber die Zahlen von Infizierten und Todesopfern stiegen stetig an, vor allem in Italien. Ob der Virus dort, wo Du bist, die totale Krise ausgelöst hat oder nicht: Es ist an der Zeit sich Gedanken zu machen und sich vorzubereiten.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 Dieser Leitfaden basiert auf der Annahme dass in den kommenden Monaten mehr Menschen erkranken oder Erkrankte in ihrem Umfeld haben als zu anderen Zeiten. Während wir auf das Beste hoffen, müssen wir davon ausgehen, dass Ärzteschaft und Krankenhäuser stark ausgelastet wenn nicht sogar überrannt sein werden. Wir müssen uns auf die Möglichkeit einstellen, dass Menschen, die normalerweise unter ärztlicher Aufsicht behandelt werden würden, zuhause behandelt werden müssen.
 
 Wir hoffen, dass einige der hier gelisteten Informationen Dir etwas Zuversicht in Bezug auf den Umgang mit der Krankheit geben, wodurch unser Gesundheitssystem bereits ein wenig entlastet werden würde. Gleichzeitig hoffen wir hier die Informationen zu geben, die Dir helfen festzustellen wann die Zeit gekommen ist selbst professionelle medizinische Hilfe in Anspruch zu nehmen. Wenn wir vielen Leuten helfen, sicher auf diesem schmalen Grat zu wandern, könnte das bereits einen grossen Unterschied machen in der Zeit die uns bevorsteht.
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/ "Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.")
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/ "Ein Plädoyer der Ärzte in Italien: Um eine Covid-19-Katastrophe zu vermeiden, müssen mehr Patienten zu Hause behandelt werden.")
 
 {{ site.data.tags.breakout.begin }}
 

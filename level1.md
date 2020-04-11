@@ -33,7 +33,7 @@ Denke daran, dass es keinen Unterschied in der potenziellen Ansteckungsgefahr zw
 
 ### Gesund bleiben
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 Darüber hinaus kannst du einige Dinge tun, um so gesund wie möglich zu bleiben: 
 

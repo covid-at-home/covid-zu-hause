@@ -1,6 +1,6 @@
 ## Stufe 2 -- Du hast erste Symptome
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Du solltest an COVID-19 denken, wenn du an einem der folgenden Symptome leidest:
 
@@ -116,11 +116,11 @@ Schreibe dann alle Symptome auf, die du oder der\*die Patient\*in hat:
 	* Welche Farbe hat der Schleim, falls welcher auftritt? 
 * Achte darauf, welche Medikamente du oder der\*die Patient\*in einnimmt. Paracetamol ist eine gute Wahl zur Fieber- und Schmerzunterdrückung. Durch das Krankheitstagebuch kannst du einen Überblick behalten, wie viel du wann eingenommen hast. Dadurch kannst du das Fieber angemessen behandeln, ohne dass du innerhalb von 24 Stunden mehr als die empfohlene Menge an fiebersenkenden Mitteln einnimmst. Bei Paracetamol liegt die maximal empfohlene Dosis bei 2000 mg bei einem erwachsenen gesunden Patienten über einen kurzen Zeitraum. Bei Fragen zu Medikamenten, wende dich telefonisch an einen Arzt oder Apotheker.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 ##### Ausdruckbares Krankheitstagebuch
 
-Wir haben ein **druckbares [Krankheitstagebuch](/images/covid-diary.pdf)** erstellt, in das du alle Informationen eintragen kannst. Wenn du möchtest kannst du für jeden Tag eines dieser Formulare ausdrucken. Bewahre es griffbereit bei dem\*der Patienten\*in auf, falls sich die Situation verschlechtert und du/der\*die Patient\*in ins Krankenhaus muss.
+Wir haben ein **druckbares [Krankheitstagebuch](/assets/images/covid-diary.pdf)** erstellt, in das du alle Informationen eintragen kannst. Wenn du möchtest kannst du für jeden Tag eines dieser Formulare ausdrucken. Bewahre es griffbereit bei dem\*der Patienten\*in auf, falls sich die Situation verschlechtert und du/der\*die Patient\*in ins Krankenhaus muss.
 
 ### Kontaktlinen
 

@@ -20,7 +20,7 @@ Miss die Atemzüge pro Minute. Halte dazu deine Hand nah genug vor Nase und Mund
 
 Gute Belüftung des Zimmers und Aufrichten des\*der Patienten\*in kann bei Atemnot helfen. Es kann auch helfen, das Kopfteil des Bettes zum Schlafen möglichst hochzulegen. Es gibt einige Schlafpositionen, die ebenfalls das Atmen erleichtern können (siehe Stufe 3, Pflegearbeit).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Wenn Du oder der\*die Patient\*in unter Atemnot leidet, ist es Zeit für einen Arztbesuch. 
 
@@ -28,17 +28,17 @@ Wenn Du oder der\*die Patient\*in unter Atemnot leidet, ist es Zeit für einen A
 
 Mit einem Oxymeter kannst du die  Sauerstoffsättigung des Blutes messen (siehe [Einkaufsseite](/shopping)). Es kann jede Sauerstoffsättigung unter 95% auf ein Atemproblem hinweisen. Wenn sich die **Lippen oder Fingerspitzen des Patienten zu irgendeinem Zeitpunkt blau** (oder auch nur leicht blau) verfärben (Zyanose genannt), rufe **sofort** einen Krankenwagen! Für Werte unter 96% kann es hilfreich sein, gut zu lüften. Dabei musst du darauf achten, dass der\*die Patient\*in warm eingepackt ist und nicht auskühlt. 
 
-![](/images/cyanosis.png)
+![](/assets/images/cyanosis.png)
 
 (Rufe auch dann einen Arzt an, wenn sich die Finger, Zehen oder Lippen weniger blau verfärben als in diesem Bild...)
 
 Wenn die Haut des Patienten wie unten eine spitzenförmige, violette Auflage (auch Livedo reticularis genannt) zeigt, ist das auch ein Grund, um Hilfe zu rufen (sofern das für den\*die Patienten\*in nicht normal ist).
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Sehr niedriger Blutdruck
 
-Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn du ein günstiges automatisches Blutdruck-Messgerät hast, sollte es diese beiden Zahlen anzeigen. Wenn du ein Gerät hast, notiere den systolischen Druck auf dem [Tagebuchformular] (/images/covid-diary.pdf).
+Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn du ein günstiges automatisches Blutdruck-Messgerät hast, sollte es diese beiden Zahlen anzeigen. Wenn du ein Gerät hast, notiere den systolischen Druck auf dem [Tagebuchformular] (/assets/images/covid-diary.pdf).
 
 Wenn du kein Gerät zur Blutdruckmessung hast oder damit nicht klar kommst, versuche stattdessen die Rekapillierungszeit des Patienten zu testen. Lege seine oder ihre Finger flach auf eine harte Oberfläche. Drücke mit deinem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfe wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte nicht länger als 1-2 Sekunden dauern. Ansonsten kann das auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung (Flüssigkeitsmangel) sein. 
 

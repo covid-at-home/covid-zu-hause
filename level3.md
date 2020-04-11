@@ -6,11 +6,11 @@ Alle guten Maßnahmen von Level 2 haben nicht funktioniert. Es wird immer schlim
 
 Erkläre anderen Menschen in deiner Umgebung, dass du wirklich krank bist. Sage ihnen, dass du dich an Bettruhe halten musst. Sprich mit einer Person deines Vertrauens darüber, dass du vermutlich Hilfe brauchen wirst. Lass diese Person(en) diese Website lesen. Es wird mit der Zeit immer häufiger vorkommen, dass Menschen in deiner Umgebung bereits bereits COVID-19 hatten. Diese Menschen wären die besten Betreuer/innen, da sie vermutlich COVID-19-immun sind. Andernfalls versuche herauszufinden, was in deiner Situation am schlausten ist. Warte damit auf keinen Fall bis zum letzten Moment! Wenn die Krankheit fortschreitet, wirst du kurzatmig. Das beeinträchtigt unweigerlich auch Deine Sprech- und Denkfähigkeit.
 
-![](/images/sick-in-bed.png)
+![](/assets/images/sick-in-bed.png)
 
 ### Was in jedem Fall zu tun ist
 
-* Bleibe im Bett! An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patient/innen noch für eine begrenzte Zeit aus dem Bett aufstehen können. Zum Beispiel um zur Toilette zu gehen, kurz zu duschen und sich einmal am Tag zu wiegen (Dokumentation im [Tagebuch](/images/covid-diary.pdf)). Wechsel so oft wie möglich die Bettwäsche. Wasche die alten Laken bei mindestens 60 Grad Celsius.
+* Bleibe im Bett! An diesem Punkt ist Ruhe sehr wichtig. Der Patient sollte so viel wie möglich schlafen. Zumindest am Anfang werden die Patient/innen noch für eine begrenzte Zeit aus dem Bett aufstehen können. Zum Beispiel um zur Toilette zu gehen, kurz zu duschen und sich einmal am Tag zu wiegen (Dokumentation im [Tagebuch](/assets/images/covid-diary.pdf)). Wechsel so oft wie möglich die Bettwäsche. Wasche die alten Laken bei mindestens 60 Grad Celsius.
 * Lüfte den Raum so oft wie möglich.
 * Trinke viel Wasser! (mehr als 2 Liter und weniger als 5 Liter pro Tag).
 * Versuche vitaminreiche Kost zu essen, aber auch Multivitamingetränke sind in Ordnung.
@@ -36,7 +36,7 @@ Zu den möglicherweise nützlichen Verhaltensweisen gehören:
 
 ### Krankheitstagebuch
 
-Drucke dieses Krankheitstagebuch [Formular](/images/covid-diary.pdf) aus oder erstelle ein eigenes.
+Drucke dieses Krankheitstagebuch [Formular](/assets/images/covid-diary.pdf) aus oder erstelle ein eigenes.
 
 Achte in dieser Phase besonders auf Symptome, die auf eine Verschlechterung hindeuten könnten. Schreibe die Symptome auf. Lies den nächsten Abschnitt für weitere Einzelheiten.
 Solche Anzeichen können sein:
