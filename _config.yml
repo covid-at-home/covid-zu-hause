@@ -1,7 +1,18 @@
-theme: jekyll-theme-slate
+remote_theme: covid-at-home/common
 title: Covid zu hause
 description: Leitfaden für die Betreuung von COVID-19 Patienten
 url: https://covid-zu-hause.info
 slug: covid-zu-hause
 goatcounter: covid-zu-hause
 
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
