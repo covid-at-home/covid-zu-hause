@@ -122,7 +122,7 @@ Schreibe dann alle Symptome auf, die du oder der\*die Patient\*in hat:
 
 Wir haben ein **druckbares [Krankheitstagebuch](/assets/images/covid-diary.pdf)** erstellt, in das du alle Informationen eintragen kannst. Wenn du möchtest kannst du für jeden Tag eines dieser Formulare ausdrucken. Bewahre es griffbereit bei dem\*der Patienten\*in auf, falls sich die Situation verschlechtert und du/der\*die Patient\*in ins Krankenhaus muss.
 
-### Kontaktlinen
+### Kontaktlinsen
 
 Es ist besser (falls verfügbar) eine Brille zu tragen statt Kontaktlinsen, auch wenn du noch nicht so krank bist. Beim einlegen der Kontaktlinsen fasst du dir ins Auge und könntest es dabei [infizieren](https://icrcat.com/en/coronavirus-and-conjunctivitis/). 
 
