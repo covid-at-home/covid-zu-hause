@@ -1,10 +1,10 @@
 ## Über covid-zu-hause.info
 
-Diese Website hat angefangen als private Initiative von Rop Gonggrijp and Vera Wilde. Sie haben das meiste der anfänglichen Recherche geleistet und einen Großteil der Texte ([covid-at-home.info](covid-at-home.info) geschrieben. Aber ganz schnell kamen dann immer mehr Leute dazu, die beim Korrekturlesen, Übersetzen und Ergänzen geholfen haben. Lasst uns diese Website gemeinsam gestalten. Die deutsche Übersetzung, die ihr nun vor euch habt, ist mittlerweile fast fertig. Mit der Zeit sollen immer mehr Übersetzungen hinzukommen.
+Diese Website hat angefangen als private Initiative von Rop Gonggrijp and Vera Wilde. Sie haben das meiste der anfänglichen Recherche geleistet und einen Großteil der Texte ([covid-at-home.info](covid-at-home.info)) geschrieben. Aber ganz schnell kamen dann immer mehr Leute dazu, die beim Korrekturlesen, Übersetzen und Ergänzen geholfen haben. Lasst uns diese Website gemeinsam gestalten. Die deutsche Übersetzung, die ihr nun vor euch habt, ist mittlerweile fast fertig. Mit der Zeit sollen immer mehr Übersetzungen hinzukommen.
 
 Das Ziel von Covid-zu-Hause ist Informationen, darüber was wir bereits gelernt haben und wie man möglichst sinnvoll mit der COVID-19 Pandemie umgeht, offen und ohne finanzielle Interessen, zu teilen. Die Hauptannahme ist, dass zumindest in manchen Gebieten die Krankenhäuser und Arztpraxen überlaufen sein werde. Dann ist es sinnvoll, dass möglichst Viele wissen, wie man sich so lange wie möglich zu Hause selbst helfen kann und wissen, wann medizinische Hilfe notwendig wird. Auf diese Weise sind weniger Menschen unnötigerweise in den Krankenhäusern und entlasten somit das System.
 
-Du willst helfen? Cool! Wir haben einen ganzen [Bereicht](/help) darüber
+Du willst helfen? Cool! Wir haben einen ganzen [Bereich](/help) darüber
 
 
 ### Lizenz
