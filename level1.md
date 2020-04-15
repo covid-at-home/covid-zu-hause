@@ -25,9 +25,9 @@ Befolge die Anweisungen der Behörden. Dazu gehören einige der inzwischen bekan
 	* Die Eindämmung der Infektionszahlen mit COVID-19 ist die beste Möglichkeit, viele Leben zu retten. Dies erfordert flächendeckende Zusammenarbeit und die Einführung von einigen Maßnahmen wie erreichbare Testmöglichkeiten und die Verringerung sozialer Kontakte.
 	* Aus diesem Grund ist es jetzt an der Zeit unsere Lebensweise (vorübergehend) grundlegend zu verändern und der Bedrohung dieser Pandemie entgegen zu treten.
 * Einige der Autoren dieser Website sind nicht als große Fans von Regierungen und Autoritäten bekannt. An diesem Punkt ist das Vertrauen in die Gesundheitsbehörden jedoch von entscheidender Bedeutung. Wo es Unstimmigkeiten gibt, vertrauen Sie auf seriöse Quellen wie z.B:
-		* [Weltgesundheitsorganisation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
-		* [Zentrum für Krankheitskontrolle](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
-		* [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Deutschland)
+	* [Weltgesundheitsorganisation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
+	* [Zentrum für Krankheitskontrolle](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+	* [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Deutschland)
 
 Denke daran, dass es keinen Unterschied in der potenziellen Ansteckungsgefahr zwischen Freunden und Fremden gibt. Keine Gruppe überträgt das Virus wahrscheinlicher als andere. Keine Bevölkerungsgruppe, ethnische Gruppe oder Nationalität. Helfe anderen, wenn du kannst, ohne unnötig mit großen Gruppen von Menschen in Kontakt zu kommen. Dabei gibt es Kompromisse, die du für dich selbst abwägen musst. Einige Menschen müssen mehr Kontakt haben zu anderen Menschen. Andere weniger. Die Ausbreitung der Krankheit kann nicht komplett gestoppt werden. Aber jeder kann dazu beitragen, die Ausbreitung zu verlangsamen. Zusammengenommen hilft es sehr, wenn jeder tut, was er oder sie kann.
 
