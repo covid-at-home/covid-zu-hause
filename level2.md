@@ -159,11 +159,11 @@ Wenn du viel Schleim produzierst, solltest du Milchprodukte vermeiden. Diese kö
 
 ### Geht es dir besser?
 
-site.data.tags.breakout.begin }}
+{{ site.data.tags.breakout.begin }}
 Wenn deine Symptome veschwinden bedeutet das nicht, dass du jetzt sofort deine Quarantäne beenden sollst. 
 Insebsondere wenn du zwischenzeitllich positiv getestet wurdest solltest du jetzt aktuelle Informationen einholen, ob du dich jetzt noch einmal für einen abschliessenden Test melden sollst. Das hängt natürlich auch von den lokalen Testmöglichkeiten ab. Dort bekommst du dann auch Empfehlungen dafür, wie es weiter geht. 
 {{ site.data.tags.breakout.end }}
 
-Falls sich ein Kontakt mit den Behörden nicht herstellen lässt, ist es vermutlich eine gute Idee, noch etwas länger in Quarantäne zu bleiben. Die [Empfehlung der Weltgesundheitsorganisation] (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) lautet, **nach dem Verschwinden der Symptome die Isolation mindestens zwei Wochen lang fortzusetzen, auch wenn du dich nicht mehr krank fühlst**.
+Falls sich ein Kontakt mit den Behörden nicht herstellen lässt, ist es vermutlich eine gute Idee, noch etwas länger in Quarantäne zu bleiben. Die [Empfehlung der Weltgesundheitsorganisation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) lautet, **nach dem Verschwinden der Symptome die Isolation mindestens zwei Wochen lang fortzusetzen, auch wenn du dich nicht mehr krank fühlst**.
 
 Du hast es geschafft, dich testen zu lassen und der Test ist negativ? Juhu! Du weißt jetzt, dass dein Körper (vermutlich für einige Zeit) eine Immunität aufgebaut hat. Überprüfe zum Aufbau der Immunität unbedingt die neuesten wissenschaftlichen Erkenntnisse. Wenn du immun bist, bedeutet das, dass diese Sache für dich vorbei ist. Du kannst jetzt deiner Familie und deinen Freund\*innen helfen, wenn sie krank werden, ohne befürchten zu müssen, dass du dich erneut ansteckst. Je nachdem, in welchem Zustand sich die Welt befindet, solltest du deinen Arbeitgeber und andere die von dir abhängig sein könnten, darüber informieren. Teile ihnen mit, dass du es hattest und dass es dir wieder gut geht, damit sie wissen, dass du jetzt wahrscheinlich immun bist.
