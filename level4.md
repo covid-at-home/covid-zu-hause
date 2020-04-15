@@ -38,7 +38,7 @@ Wenn die Haut des Patienten wie unten eine spitzenförmige, violette Auflage (au
 
 ### Sehr niedriger Blutdruck
 
-Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn du ein günstiges automatisches Blutdruck-Messgerät hast, sollte es diese beiden Zahlen anzeigen. Wenn du ein Gerät hast, notiere den systolischen Druck auf dem [Tagebuchformular] (/assets/images/covid-diary.pdf).
+Ein Blutdruck, der unter dem unteren Ende des Normbereichs liegt (90 mmHg systolisch, 60 mmHg diastolisch), gibt Anlass zur Sorge. Beachte, dass der Blutdruck aus zwei Zahlen besteht, dem systolischen und dem diastolischen Druck. Wenn du ein günstiges automatisches Blutdruck-Messgerät hast, sollte es diese beiden Zahlen anzeigen. Wenn du ein Gerät hast, notiere den systolischen Druck auf dem [Tagebuchformular](/assets/images/covid-diary.pdf).
 
 Wenn du kein Gerät zur Blutdruckmessung hast oder damit nicht klar kommst, versuche stattdessen die Rekapillierungszeit des Patienten zu testen. Lege seine oder ihre Finger flach auf eine harte Oberfläche. Drücke mit deinem Finger von oben auf einen seiner Fingernägel. Der Fingernagel sollte an Farbe verlieren. Prüfe wie lange der Fingernagel braucht, um wieder seine normale Farbe anzunehmen. Es sollte nicht länger als 1-2 Sekunden dauern. Ansonsten kann das auf einen niedrigen Blutdruck hinweisen. Es könnte auch ein Symptom der Dehydrierung (Flüssigkeitsmangel) sein. 
 
