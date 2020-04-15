@@ -159,7 +159,7 @@ Wenn du viel Schleim produzierst, solltest du Milchprodukte vermeiden. Diese kö
 
 ### Geht es dir besser?
 
-site.data.tags.breakout.begin }}
+{{ site.data.tags.breakout.begin }}
 Wenn deine Symptome veschwinden bedeutet das nicht, dass du jetzt sofort deine Quarantäne beenden sollst. 
 Insebsondere wenn du zwischenzeitllich positiv getestet wurdest solltest du jetzt aktuelle Informationen einholen, ob du dich jetzt noch einmal für einen abschliessenden Test melden sollst. Das hängt natürlich auch von den lokalen Testmöglichkeiten ab. Dort bekommst du dann auch Empfehlungen dafür, wie es weiter geht. 
 {{ site.data.tags.breakout.end }}
