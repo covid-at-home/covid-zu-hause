@@ -5,14 +5,14 @@
 Befolge die Anweisungen der Behörden. Dazu gehören einige der inzwischen bekannten Richtlinien für die Einschränkung sozialer Kontakte:
 
 * Ändere deine Begrüßung! Keinen Händedruck, Umarmung oder Kuss. Probiere alternative Begrüßungen aus. Du kannst mit Abstand zuwinken oder dich verbeugen.
-* Das Virus kann über deine Augen, Nase und Mund in deinen Körper eindringen. Wasch deine Hände gründlich und oft mit Seife. Berühre dein Gesicht nicht, wenn du draußen bist.
+* Das Virus kann über deine Augen, Nase oder Mund in deinen Körper eindringen. Wasch deine Hände gründlich und oft mit Seife. Berühre dein Gesicht nicht, wenn du draußen bist.
 * Wenn du den Drang hast dein Gesicht oder etwas anderes zu berühren, versuche dich abzulenken. Zum Beispiel kannst du mit einem Gummi- oder Haarband spielen oder mit einem anderen Ersatzgegenstand. 
-* Wasche dir so oft wie möglich die Hände mit Seife. Wasche sie unbedingt sobald du nach Hause kommst und auch vor dem Essen. 
+* Wasche dir so oft wie möglich die Hände mit Seife. Wasche sie unbedingt sobald du nach Hause kommst. Ebenso auch vor dem Essen. 
 * Desinfiziere regelmäßig oft benutzte Gegenstände. Dazu gehören Türgriffe, Tischoberflächen, Tastaturen und andere Gegenstände.
 * Huste und niese in den Ellenbogen. Huste oder niese nicht in die Hand oder ungeschützt nach vorne. 
 * Arbeite von zu Hause aus, wenn möglich.
 * Nutze Alternativen für persönliche Treffen. Rufe an oder mach einen Videoanruf.
-* Wenn du spazieren gehst, halte einen Abstand von mehr als 1,5 Metern ein.
+* Wenn du spazieren gehst, halte einen Abstand von mehr als eineinhalb Metern ein.
 * Vermeide Menschenmassen und unnötige Reisen. Kaufe ein, wenn die Läden nicht viel genutzt werden. 
 * Halte Abstand zu anderen, wenn du dich in Menschenmengen bewegen musst. Entferne dich von jedem, der krank zu sein scheint.
 * Vermeide öffentliche Verkehrsmittel. Gehe zu Fuß oder nimm das Fahrrad. Wenn du öffentliche Verkehrsmittel benutzen musst, halte Abstand zu anderen.
@@ -21,7 +21,7 @@ Befolge die Anweisungen der Behörden. Dazu gehören einige der inzwischen bekan
 * Kenne die Fakten: 
 	* COVID-19 gibt es wirklich
 	* Das Virus stammt aus der Natur. Durch eine Mutation konnte es vom Tier auf den Menschen übergehen.
-	* Es scheint doppelt so ansteckend zu sein wie das saisonale Influenza Virus (die Grippe). Außerdem scheint es deutlich mehr Lungenentzündungen auszulösen als die saisonale Grippe. Der Großteil der Weltbevölkerung hat bisher keine Antikörper gegen das Virus. Das ist ein weiteres Problem. Neue Krankheiten sind gefährlicher, da die Infektionszahlen schnell wachsen können (bis zu einem exponentiellen Wachtum). Eine so schnelle Verbreitung kann dazu führen, dass auch stabile Gesundheitssysteme an ihre Grenzen gelangen. In dieser Situation ist es unmöglich, dass jeder behandelt werden kann. Dies kann die Rate an schweren Krankheitsverläufen und Todesfällen steigern.
+	* Es scheint doppelt so ansteckend zu sein als das saisonale Influenza Virus (die Grippe). Außerdem scheint es deutlich mehr Lungenentzündungen auszulösen als die saisonale Grippe. Der Großteil der Weltbevölkerung hat bisher keine Antikörper gegen das Virus. Das ist ein weiteres Problem. Neue Krankheiten sind gefährlicher, da die Infektionszahlen schnell wachsen können (bis zu einem exponentiellen Wachtum). Eine so schnelle Verbreitung kann dazu führen, dass auch stabile Gesundheitssysteme an ihre Grenzen gelangen. In dieser Situation ist es unmöglich, dass jeder behandelt werden kann. Dies kann die Rate an schweren Krankheitsverläufen und Todesfällen steigern.
 	* Die Eindämmung der Infektionszahlen mit COVID-19 ist die beste Möglichkeit, viele Leben zu retten. Dies erfordert flächendeckende Zusammenarbeit und die Einführung von einigen Maßnahmen wie erreichbare Testmöglichkeiten und die Verringerung sozialer Kontakte.
 	* Aus diesem Grund ist es jetzt an der Zeit unsere Lebensweise (vorübergehend) grundlegend zu verändern und der Bedrohung dieser Pandemie entgegen zu treten.
 * Einige der Autoren dieser Website sind nicht als große Fans von Regierungen und Autoritäten bekannt. An diesem Punkt ist das Vertrauen in die Gesundheitsbehörden jedoch von entscheidender Bedeutung. Wo es Unstimmigkeiten gibt, vertrauen Sie auf seriöse Quellen wie z.B:
@@ -56,13 +56,13 @@ Wir haben eine [Einkaufsseite](/shopping) erstellt. Sie listet praktische Dinge 
 
 ### Bestehende medizinische Vorerkrankungen
 
-Du oder deine Angehörigen leiden bereits an Krankheiten? Dann informiere dich, ob diese durch COVID-19 oder eine Lungenentzündung verschlimmert werden können. Achte besonders darauf, dass du alle notwendigen Medikamente im Überfluss hast. Stelle sicher, dass du alle für die Behandlung relevanten Informationen hast . Dazu gehören Kontaktinformationen der Ärzt\*innen, aktuelle Laborergebnisse und wie viel von welchen Medikamenten der Patient einnehmen soll. Stell dir vor, dass dein Hausarzt nicht da ist. Wie kannst du die gesundheitliche Situation einem\*r neuen Arzt\*Ärztin in kurzer Zeit erklären? Gut ist es, eine aktuelle Chronologie der Arztbesuche, Ergebnisse usw. zu haben. 
+Du oder deine Angehörigen leiden bereits an Krankheiten? Dann informiere dich, ob diese durch COVID-19 oder eine Lungenentzündung verschlimmert werden können. Achte besonders darauf, dass du alle notwendigen Medikamente im Überfluss hast. Stelle sicher, dass du alle für die Behandlung relevanten Informationen hast. Dazu gehören Kontaktinformationen der Ärzt\*innen, aktuelle Laborergebnisse und wieviel von welchen Medikamenten der Patient einnehmen soll. Stell dir vor, dass dein Hausarzt nicht da ist. Wie kannst du die gesundheitliche Situation einem\*r neuen Arzt\*Ärztin in kurzer Zeit erklären? Gut ist es, eine aktuelle Chronologie der Arztbesuche, Ergebnisse und so weiter zu haben. 
 Was solltest du dabei nicht vergessen? Schreibe es jetzt auf!
 
 Welche bestehenden medizinischen Bedingungen machen dich/deine Angehörigen besonders anfällig für schwerwiegendere COVID-19-Komplikationen?
-- Erkrankungen, die Lungen-/Atmungsprobleme (z.B. Asthma, COPD, Lungenkrebs) mit sich bringen.
-- Zustände, die mit einer Beeinträchtigung der Immunfunktion einhergehen oder die die Einnahme von immunsuppressiven Medikamenten erfordern (z.B. Lupus, Arthritis).
-- Andere chronische hämatologische, metabolische, neurologische, neuromuskuläre, kardiovaskuläre, renale oder hepatische Störungen (z.B. Diabetes, Bluthochdruck, Sichelzellenanämie, Muskeldystrophie, kongestive Herzinsuffizienz, Nierenerkrankung). 
+- Erkrankungen, die Lungen-/Atmungsprobleme (zum Beispiel: Asthma, COPD, Lungenkrebs) mit sich bringen.
+- Zustände, die mit einer Beeinträchtigung der Immunfunktion einhergehen oder die die Einnahme von immunsuppressiven Medikamenten erfordern (zum Beispiel: Lupus, Arthritis).
+- Andere chronische hämatologische, metabolische, neurologische, neuromuskuläre, kardiovaskuläre, renale oder hepatische Störungen (zum Beispiel: Diabetes, Bluthochdruck, Sichelzellenanämie, Muskeldystrophie, kongestive Herzinsuffizienz, Nierenerkrankung). 
 
 Dort, wo du bist, ist die Situation noch einigermaßen normal? Dann kannst du jetzt deine\*n Arzt\*Ärztin fragen, was du noch tun kannst oder tun solltest, wenn du krank wirst.
 
